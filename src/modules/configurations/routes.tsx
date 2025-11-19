@@ -5,6 +5,7 @@ import UserGroupList from './pages/userGroupSetup/userGroupList';
 import UserGroupForm from './pages/userGroupSetup/userGroupForm';
 import UserWiseMenuPermissionList from './pages/userWiseMenuPermission/userWiseMenuPermissionList';
 import UserWiseMenuPermissionForm from './pages/userWiseMenuPermission/userWiseMenuPermissionForm';
+import { GatePassTest } from './pages/test/gate_pass_test';
 // lazy loaded
 const GraphDashboard = React.lazy(() => import('./pages/graphs/index'));
 const SectionList = React.lazy(() => import('./pages/sectionSetup/SectionList'));
@@ -40,6 +41,9 @@ const ConfigurationRoutes: React.FC = () => (
             <Route path="/user-wise-menu-permission" element={<UserWiseMenuPermissionList />} />
             <Route path="/user-wise-menu-permission/entry" element={<UserWiseMenuPermissionForm />} />
             <Route path="/user-wise-menu-permission/entry/:id" element={<UserWiseMenuPermissionForm />} />
+
+
+             <Route path="/test" element={<GatePassTest />} />
 
 
 
