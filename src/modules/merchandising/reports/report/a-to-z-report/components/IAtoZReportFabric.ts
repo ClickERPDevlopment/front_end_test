@@ -1,0 +1,40 @@
+export type IAtoZReportFabric = {
+  BUYER_ID: number;
+  BUYER: string;
+  PO_ID: number;
+  PONO: string;
+  STYLE_ID: number;
+  STYLENO: string;
+  PO_QTY: number;
+  CONSUMPTION_RELEASE_DATE: string;
+  YARN_BOOKING_QTY: number;
+  ALLOCATED_QTY: number;
+  ALLOCATED_BALANCE: number;
+  YARN_ALLOCATION_CLOSE_DATE: string;
+  YARN_ISSUE_QTY: number;
+  YARN_ISSUE_BALANCE: number;
+  YARN_ISSUE_LAST_DTATE: string;
+  KNITTING_START_DT: string;
+  GREY_RCV_QTY: number;
+  KNITTING_BAL: string;
+  KNITTING_WIP: string;
+  KNITTING_CLOSE_DT: string;
+  DYEING_GREY_RCV_QTY: number;
+  BATCH_QTY_KG: number;
+  READY_FOR_BATCH: string;
+  DYEING_QTY_KG: number;
+  FINISHING_QTY: number;
+  FINISH_PROD_GREY_WEIGHT: number;
+  FINISHING_DELIVER_QTY: number;
+  FINISHING_DELIVER_GREY_WEIGHT: number;
+  RFT: number;
+  FINISH_REQ_QTY: number;
+  FINISHING_FABRIC_RCV_QTY: number;
+  FF_RCV_BALANCE: number;
+  FINISHING_FABRIC_DEL_QTY: number;
+  FIN_FABRICS_DEL_LAST_DATE: string;
+
+  ITEM_TYPE: string;
+  SMV: number;
+
+};

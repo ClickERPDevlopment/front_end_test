@@ -1,0 +1,1130 @@
+[
+	{
+		"id" : 2,
+		"floorId" : 1,
+		"lineCode" : "FAL-01-02",
+		"lineName" : "Cutting Line -2",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 3,
+		"floorId" : 1,
+		"lineCode" : "FAL-01-03",
+		"lineName" : "Cutting Line -3",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 4,
+		"floorId" : 2,
+		"lineCode" : "FAL-02-05",
+		"lineName" : "Cutting Line -4",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 5,
+		"floorId" : 2,
+		"lineCode" : "FAL-02-02",
+		"lineName" : "Cutting Line -5",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 6,
+		"floorId" : 2,
+		"lineCode" : "FAL-02-03",
+		"lineName" : "Cutting Line -6",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 7,
+		"floorId" : 2,
+		"lineCode" : "FAL-02-04",
+		"lineName" : "Cutting Line -7",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 1,
+		"floorId" : 1,
+		"lineCode" : "FAL-01-04",
+		"lineName" : "Cutting Line -1",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 10,
+		"floorId" : 15,
+		"lineCode" : "FDL-01-05",
+		"lineName" : "Cutting Line -1",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 11,
+		"floorId" : 15,
+		"lineCode" : "FDL-01-02",
+		"lineName" : "Cutting Line -2",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 12,
+		"floorId" : 15,
+		"lineCode" : "FDL-01-03",
+		"lineName" : "Cutting Line -3",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 13,
+		"floorId" : 15,
+		"lineCode" : "FDL-01-04",
+		"lineName" : "Cutting Line -4",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 14,
+		"floorId" : 16,
+		"lineCode" : "FDL-02-01",
+		"lineName" : "Line 1",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 15,
+		"floorId" : 16,
+		"lineCode" : "FDL-02-02",
+		"lineName" : "Line 2",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 16,
+		"floorId" : 16,
+		"lineCode" : "FDL-02-03",
+		"lineName" : "Line 3",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 17,
+		"floorId" : 16,
+		"lineCode" : "FDL-02-04",
+		"lineName" : "Line 4",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 18,
+		"floorId" : 16,
+		"lineCode" : "FDL-02-05",
+		"lineName" : "Line 5",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 19,
+		"floorId" : 16,
+		"lineCode" : "FDL-02-06",
+		"lineName" : "Line 6",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 20,
+		"floorId" : 16,
+		"lineCode" : "FDL-02-07",
+		"lineName" : "Line 7",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 21,
+		"floorId" : 16,
+		"lineCode" : "FDL-02-08",
+		"lineName" : "Line 8",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 22,
+		"floorId" : 16,
+		"lineCode" : "FDL-02-09",
+		"lineName" : "Line 9",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 23,
+		"floorId" : 16,
+		"lineCode" : "FDL-02-10",
+		"lineName" : "Line 10",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 24,
+		"floorId" : 17,
+		"lineCode" : "FDL-03-01",
+		"lineName" : "Line 11",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 25,
+		"floorId" : 17,
+		"lineCode" : "FDL-03-02",
+		"lineName" : "Line 12",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 26,
+		"floorId" : 17,
+		"lineCode" : "FDL-03-03",
+		"lineName" : "Line 13",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 27,
+		"floorId" : 17,
+		"lineCode" : "FDL-03-04",
+		"lineName" : "Line 14",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 28,
+		"floorId" : 17,
+		"lineCode" : "FDL-03-05",
+		"lineName" : "Line 15",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 29,
+		"floorId" : 17,
+		"lineCode" : "FDL-03-06",
+		"lineName" : "Line 16",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 30,
+		"floorId" : 17,
+		"lineCode" : "FDL-03-07",
+		"lineName" : "Line 17",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 31,
+		"floorId" : 17,
+		"lineCode" : "FDL-03-08",
+		"lineName" : "Line 18",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 32,
+		"floorId" : 17,
+		"lineCode" : "FDL-03-09",
+		"lineName" : "Line 19",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 33,
+		"floorId" : 17,
+		"lineCode" : "FDL-03-10",
+		"lineName" : "Line 20",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 34,
+		"floorId" : 18,
+		"lineCode" : "FDL-04-01",
+		"lineName" : "Finishing Line",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 35,
+		"floorId" : 19,
+		"lineCode" : "FDL-05-01",
+		"lineName" : "Packing Line",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 36,
+		"floorId" : 3,
+		"lineCode" : "FAL-03-03",
+		"lineName" : "Line 3",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 37,
+		"floorId" : 3,
+		"lineCode" : "FAL-03-04",
+		"lineName" : "Line 4",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 38,
+		"floorId" : 3,
+		"lineCode" : "FAL-03-05",
+		"lineName" : "Line 5",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 39,
+		"floorId" : 3,
+		"lineCode" : "FAL-03-06",
+		"lineName" : "Line 6",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 40,
+		"floorId" : 3,
+		"lineCode" : "FAL-03-07",
+		"lineName" : "Line 7",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 41,
+		"floorId" : 3,
+		"lineCode" : "FAL-03-08",
+		"lineName" : "Line 8",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 42,
+		"floorId" : 3,
+		"lineCode" : "FAL-03-09",
+		"lineName" : "Line 9",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 43,
+		"floorId" : 4,
+		"lineCode" : "FAL-04-01",
+		"lineName" : "Line 10",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 44,
+		"floorId" : 4,
+		"lineCode" : "FAL-04-02",
+		"lineName" : "Line 11",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 45,
+		"floorId" : 4,
+		"lineCode" : "FAL-04-03",
+		"lineName" : "Line 12",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 46,
+		"floorId" : 4,
+		"lineCode" : "FAL-04-04",
+		"lineName" : "Line 13",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 47,
+		"floorId" : 4,
+		"lineCode" : "FAL-04-05",
+		"lineName" : "Line 14",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 48,
+		"floorId" : 4,
+		"lineCode" : "FAL-04-06",
+		"lineName" : "Line 15",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 49,
+		"floorId" : 4,
+		"lineCode" : "FAL-04-07",
+		"lineName" : "Line 16",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 50,
+		"floorId" : 4,
+		"lineCode" : "FAL-04-08",
+		"lineName" : "Line 17",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 51,
+		"floorId" : 4,
+		"lineCode" : "FAL-04-09",
+		"lineName" : "Line 18",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 52,
+		"floorId" : 5,
+		"lineCode" : "FAL-05-01",
+		"lineName" : "Line 19",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 53,
+		"floorId" : 5,
+		"lineCode" : "FAL-05-02",
+		"lineName" : "Line 20",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 54,
+		"floorId" : 5,
+		"lineCode" : "FAL-05-03",
+		"lineName" : "Line 21",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 55,
+		"floorId" : 5,
+		"lineCode" : "FAL-05-04",
+		"lineName" : "Line 22",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 56,
+		"floorId" : 5,
+		"lineCode" : "FAL-05-05",
+		"lineName" : "Line 23",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 57,
+		"floorId" : 5,
+		"lineCode" : "FAL-05-06",
+		"lineName" : "Line 24",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 58,
+		"floorId" : 5,
+		"lineCode" : "FAL-05-07",
+		"lineName" : "Line 25",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 59,
+		"floorId" : 5,
+		"lineCode" : "FAL-05-08",
+		"lineName" : "Line 26",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 60,
+		"floorId" : 5,
+		"lineCode" : "FAL-05-09",
+		"lineName" : "Line 27",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 61,
+		"floorId" : 6,
+		"lineCode" : "FAL-06-01",
+		"lineName" : "Line 28",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 62,
+		"floorId" : 6,
+		"lineCode" : "FAL-06-02",
+		"lineName" : "Line 29",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 63,
+		"floorId" : 6,
+		"lineCode" : "FAL-06-03",
+		"lineName" : "Line 30",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 64,
+		"floorId" : 6,
+		"lineCode" : "FAL-06-04",
+		"lineName" : "Line 31",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 65,
+		"floorId" : 6,
+		"lineCode" : "FAL-06-05",
+		"lineName" : "Line 32",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 66,
+		"floorId" : 6,
+		"lineCode" : "FAL-06-06",
+		"lineName" : "Line 33",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 67,
+		"floorId" : 6,
+		"lineCode" : "FAL-06-07",
+		"lineName" : "Line 34",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 68,
+		"floorId" : 6,
+		"lineCode" : "FAL-06-08",
+		"lineName" : "Line 35",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 69,
+		"floorId" : 6,
+		"lineCode" : "FAL-06-09",
+		"lineName" : "Line 36",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 70,
+		"floorId" : 7,
+		"lineCode" : "FAL-07-01",
+		"lineName" : "Finishing Unit 1",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 71,
+		"floorId" : 8,
+		"lineCode" : "FAL-08-01",
+		"lineName" : "Finishing Unit 2",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 72,
+		"floorId" : 9,
+		"lineCode" : "FAL-09-01",
+		"lineName" : "Finishing Unit 3",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 73,
+		"floorId" : 10,
+		"lineCode" : "FAL-10-01",
+		"lineName" : "Finishing Unit 4",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 74,
+		"floorId" : 11,
+		"lineCode" : "FAL-11-01",
+		"lineName" : "Packing Unit 1",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 75,
+		"floorId" : 12,
+		"lineCode" : "FAL-12-01",
+		"lineName" : "Packing Unit 2",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 76,
+		"floorId" : 13,
+		"lineCode" : "FAL-13-01",
+		"lineName" : "Packing Unit 3",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 77,
+		"floorId" : 14,
+		"lineCode" : "FAL-14-01",
+		"lineName" : "Packing Unit 4",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 78,
+		"floorId" : 22,
+		"lineCode" : "FLL-03-01",
+		"lineName" : "Line 1",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 79,
+		"floorId" : 22,
+		"lineCode" : "FLL-03-02",
+		"lineName" : "Line 2",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 80,
+		"floorId" : 22,
+		"lineCode" : "FLL-03-03",
+		"lineName" : "Line 3",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 81,
+		"floorId" : 22,
+		"lineCode" : "FLL-03-04",
+		"lineName" : "Line 4",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 82,
+		"floorId" : 22,
+		"lineCode" : "FLL-03-05",
+		"lineName" : "Line 5",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 83,
+		"floorId" : 22,
+		"lineCode" : "FLL-03-06",
+		"lineName" : "Line 6",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 84,
+		"floorId" : 22,
+		"lineCode" : "FLL-03-07",
+		"lineName" : "Line 7",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 85,
+		"floorId" : 22,
+		"lineCode" : "FLL-03-08",
+		"lineName" : "Line 8",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 8,
+		"floorId" : 3,
+		"lineCode" : "FAL-03-01",
+		"lineName" : "Line 1",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 9,
+		"floorId" : 3,
+		"lineCode" : "FAL-03-02",
+		"lineName" : "Line 2",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 86,
+		"floorId" : 22,
+		"lineCode" : "FLL-03-09",
+		"lineName" : "Line 9",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 87,
+		"floorId" : 22,
+		"lineCode" : "FLL-03-10",
+		"lineName" : "Line 10",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 88,
+		"floorId" : 22,
+		"lineCode" : "FLL-03-11",
+		"lineName" : "Line 11",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 89,
+		"floorId" : 22,
+		"lineCode" : "FLL-03-12",
+		"lineName" : "Line 12",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 90,
+		"floorId" : 22,
+		"lineCode" : "FLL-03-13",
+		"lineName" : "Line 13",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 91,
+		"floorId" : 23,
+		"lineCode" : "FLL-04-01",
+		"lineName" : "Line 14",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 92,
+		"floorId" : 23,
+		"lineCode" : "FLL-04-02",
+		"lineName" : "Line 15",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 93,
+		"floorId" : 23,
+		"lineCode" : "FLL-04-03",
+		"lineName" : "Line 16",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 94,
+		"floorId" : 23,
+		"lineCode" : "FLL-04-04",
+		"lineName" : "Line 17",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 95,
+		"floorId" : 23,
+		"lineCode" : "FLL-04-05",
+		"lineName" : "Line 18",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 96,
+		"floorId" : 23,
+		"lineCode" : "FLL-04-06",
+		"lineName" : "Line 19",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 97,
+		"floorId" : 23,
+		"lineCode" : "FLL-04-07",
+		"lineName" : "Line 20",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 98,
+		"floorId" : 23,
+		"lineCode" : "FLL-04-08",
+		"lineName" : "Line 21",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 99,
+		"floorId" : 23,
+		"lineCode" : "FLL-04-09",
+		"lineName" : "Line 22",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 100,
+		"floorId" : 23,
+		"lineCode" : "FLL-04-10",
+		"lineName" : "Line 23",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 101,
+		"floorId" : 23,
+		"lineCode" : "FLL-04-11",
+		"lineName" : "Line 24",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 102,
+		"floorId" : 23,
+		"lineCode" : "FLL-04-12",
+		"lineName" : "Line 25",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 103,
+		"floorId" : 23,
+		"lineCode" : "FLL-04-13",
+		"lineName" : "Line 26",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 104,
+		"floorId" : 24,
+		"lineCode" : "FLL-05-01",
+		"lineName" : "Line 27",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 105,
+		"floorId" : 24,
+		"lineCode" : "FLL-05-02",
+		"lineName" : "Line 28",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 106,
+		"floorId" : 24,
+		"lineCode" : "FLL-05-03",
+		"lineName" : "Line 29",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 107,
+		"floorId" : 24,
+		"lineCode" : "FLL-05-04",
+		"lineName" : "Line 30",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 108,
+		"floorId" : 24,
+		"lineCode" : "FLL-05-05",
+		"lineName" : "Line 31",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 109,
+		"floorId" : 24,
+		"lineCode" : "FLL-05-06",
+		"lineName" : "Line 32",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 110,
+		"floorId" : 24,
+		"lineCode" : "FLL-05-07",
+		"lineName" : "Line 33",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 111,
+		"floorId" : 24,
+		"lineCode" : "FLL-05-08",
+		"lineName" : "Line 34",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 112,
+		"floorId" : 24,
+		"lineCode" : "FLL-05-09",
+		"lineName" : "Line 35",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 113,
+		"floorId" : 24,
+		"lineCode" : "FLL-05-10",
+		"lineName" : "Line 36",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 114,
+		"floorId" : 24,
+		"lineCode" : "FLL-05-11",
+		"lineName" : "Line 37",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 115,
+		"floorId" : 24,
+		"lineCode" : "FLL-05-12",
+		"lineName" : "Line 38",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 116,
+		"floorId" : 24,
+		"lineCode" : "FLL-05-13",
+		"lineName" : "Line 39",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 117,
+		"floorId" : 20,
+		"lineCode" : "FLL-01-01",
+		"lineName" : "CT-1",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 118,
+		"floorId" : 20,
+		"lineCode" : "FLL-01-02",
+		"lineName" : "CT-2",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 119,
+		"floorId" : 20,
+		"lineCode" : "FLL-01-03",
+		"lineName" : "CT-3",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 120,
+		"floorId" : 20,
+		"lineCode" : "FLL-01-04",
+		"lineName" : "CT-4",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 121,
+		"floorId" : 21,
+		"lineCode" : "FLL-02-01",
+		"lineName" : "CT-5",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 122,
+		"floorId" : 21,
+		"lineCode" : "FLL-02-02",
+		"lineName" : "CT-6",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 123,
+		"floorId" : 21,
+		"lineCode" : "FLL-02-03",
+		"lineName" : "CT-7",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 124,
+		"floorId" : 25,
+		"lineCode" : "FLL-06-01",
+		"lineName" : "Finishing Unit 1",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 125,
+		"floorId" : 26,
+		"lineCode" : "FLL-07-01",
+		"lineName" : "Finishing Unit 2",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 126,
+		"floorId" : 27,
+		"lineCode" : "FLL-08-01",
+		"lineName" : "Finishing Unit 3",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 127,
+		"floorId" : 28,
+		"lineCode" : "FLL-09-01",
+		"lineName" : "Packing Unit 1",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 128,
+		"floorId" : 29,
+		"lineCode" : "FLL-10-01",
+		"lineName" : "Packing Unit 2",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 129,
+		"floorId" : 30,
+		"lineCode" : "FLL-11-01",
+		"lineName" : "Packing Unit 3",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 130,
+		"floorId" : 31,
+		"lineCode" : "MH-01-01",
+		"lineName" : "CT-1",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 131,
+		"floorId" : 31,
+		"lineCode" : "MH-01-02",
+		"lineName" : "CT-2",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 132,
+		"floorId" : 32,
+		"lineCode" : "MH-02-01",
+		"lineName" : "Line 1",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 133,
+		"floorId" : 32,
+		"lineCode" : "MH-02-02",
+		"lineName" : "Line 2",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 134,
+		"floorId" : 32,
+		"lineCode" : "MH-02-03",
+		"lineName" : "Line 3",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 135,
+		"floorId" : 32,
+		"lineCode" : "MH-02-04",
+		"lineName" : "Line 4",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 136,
+		"floorId" : 33,
+		"lineCode" : "MH-03-01",
+		"lineName" : "Line 5",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 137,
+		"floorId" : 33,
+		"lineCode" : "MH-03-02",
+		"lineName" : "Line 6",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 138,
+		"floorId" : 33,
+		"lineCode" : "MH-03-03",
+		"lineName" : "Line 7",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 139,
+		"floorId" : 33,
+		"lineCode" : "MH-03-04",
+		"lineName" : "Line 8",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 140,
+		"floorId" : 34,
+		"lineCode" : "MH-04-01",
+		"lineName" : "Finishing Line",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	},
+	{
+		"id" : 141,
+		"floorId" : 35,
+		"lineCode" : "MH-05-01",
+		"lineName" : "Packing Line",
+		"sortingNo" : 0,
+		"GROUP_NAME" : null
+	}
+]

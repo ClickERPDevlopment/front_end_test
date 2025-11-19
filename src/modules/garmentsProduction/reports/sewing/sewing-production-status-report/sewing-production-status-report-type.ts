@@ -1,0 +1,24 @@
+export type SewingProductionStatusReportType = {
+    SECTIONID: number;
+    FACTORYID: number;
+    FLOORID: number;
+    TARGETDATE: string;
+    NO_OF_LINE: number;
+    TARGETHOUR: number;
+    ACTUALHOURS: number;
+    OPERATOR: number;
+    HELPER: number;
+    IRONER: number;
+    QUALITY: number;
+    PACKINGMAN: number;
+    HOURLYTARGET: number;
+    RUNNING_HOURLYTARGET: number;
+    AVAILMIN: number;
+    EARN_MIN: number;
+    TARGET_EFFI: number;
+    UNITNAME?: string;
+    PREFIX?: string;
+    AVG_SMV: number;
+    FACTORY_AVG_SMV: number;
+    TOTAL_LINE: number;
+};

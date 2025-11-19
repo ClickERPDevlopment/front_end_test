@@ -1,0 +1,197 @@
+
+/* .dark .default {
+  @apply bg-[var(--dark-default-bg-base)];
+} */
+
+
+
+.dark .default .light-bg {
+  @apply bg-[var(--dark-default-bg-light)];
+}
+
+.dark .default .dark-bg {
+  @apply bg-[var(--dark-default-bg-dark)];
+}
+
+.dark .default .lighter-bg {
+  @apply bg-[var(--dark-default-bg-lighter)];
+}
+
+.dark .default .darker-bg {
+  @apply bg-[var(--dark-default-bg-darker)];
+}
+
+.dark .default .text {
+  @apply text-[var(--dark-default-text-base)];
+}
+/* .dark .default .text_r{
+  @apply text-white;
+} */
+
+.dark .default .navbar {
+  @apply bg-[var(--dark-default-navbar-bg)];
+}
+.dark .default .switcher {
+  @apply bg-[var(--dark-default-navbar-bg)];
+}
+.dark .default .sidebar {
+  @apply bg-[var(--dark-default-sidebar-bg)];
+}
+
+
+
+.dark .default .main-content {
+  @apply bg-[var(--dark-default-sidebar-bg)];
+}
+
+.dark .default .panel {
+  @apply bg-[var(--dark-default-panel-bg)]
+}
+
+.dark .default select {
+  @apply bg-[var(--dark-default-select-bg)] focus:outline-none focus:ring-1 focus:ring-blue-400 focus:border-blue-400;
+}
+.dark .default input {
+  @apply bg-[var(--dark-default-input-bg)]  focus:outline-none focus:ring-1 focus:ring-blue-400 focus:border-blue-400;
+}
+.dark .default textarea {
+  @apply bg-[var(--dark-default-input-bg)] focus:outline-none focus:ring-1 focus:ring-blue-400 focus:border-blue-400;
+}
+.dark .default label {
+  @apply text-[var(--dark-default-label-text)] 
+}
+.dark .default ul.component  {
+  @apply bg-[var(--dark-default-ul-bg)] border-gray-300 dark:border-black
+}
+.dark .default ul.component li {
+  @apply text-[var(--dark-default-li-text)] 
+}
+.dark .default ul.component li:hover {
+  @apply bg-[var(--dark-default-li-hover-bg)] 
+}
+.dark .default ul.component li.highlight {
+  @apply bg-[var(--dark-default-li-hover-bg)] 
+}
+
+
+/* .dark .default .float_item_parent .menu_item_main{
+    @apply bg-[var(--dark-default-float-item-parent)] 
+} */
+
+
+.dark .default .parent_menu_item_main {
+    @apply bg-[var(--dark-default-float-item-parent)] 
+}
+
+
+.dark .default .parent_menu_item_main .menu_item_main {
+    @apply bg-[var(--dark-default-float-item-parent)] 
+}
+
+
+
+/* ----------------------------------------------------------- Top Navbar as a whole */
+/* Click Erp Logo on sidebar */
+.dark .default .sidebar .header {
+  @apply bg-[var(--dark-default-sidebar-header)];
+}
+/* Main Top Navbar */
+
+
+
+
+
+/* ------------------------------------------------------------ Sidebar */
+
+/* Sidebar - Only Parent Menu Items */
+.dark .default .parent_menu_item_main {
+    @apply bg-[var(--dark-default-sidebar-parent-menu-bg)] 
+}
+
+/* Sidebar - vertical length */
+.dark .default .sidebar {
+    @apply bg-[var(--dark-default-sidebar-bg)];
+}
+
+/* Hover on Sidebar - Parent Menu Items */
+.dark .parent_menu_item_main:hover{
+    background-color: rgb(196, 196, 196);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+/* Hover on Sidebar - Child Menu Items */
+.dark .menu_item_main:hover{
+    background-color: rgb(196, 196, 196);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+
+
+/* --------------------------------------------------------- Sidebar Icons */
+.dark .default .icon {
+    @apply w-[20px] h-[20px]  rounded-sm;   
+    background-color: var(--test-color);
+    color: var(--color-white);
+}
+.dark .default .icon:hover {
+    background-color: var(--test-color);
+    color: var(--color-white);
+}
+
+.dark .default .iconSub {
+    @apply w-3 h-4 pe-2;
+    color: var(--light-blue-text-base);
+}
+
+.dark .default .sub_menu_icon {
+    @apply w-3 h-3 flex items-center justify-center mr-2;
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: inset 0 0 0 2px var(--light-default-text-base); /* inner border */
+}
+
+
+/* ------------------------------------------------------------ Floating Sidebar Menu */
+ 
+.dark .float_item_parent{
+    background-color: #000000;   
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Panel */
+.dark .default .panel {
+    @apply bg-[var(--dark-default-panel-bg)];
+}

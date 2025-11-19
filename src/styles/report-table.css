@@ -1,0 +1,69 @@
+@import "./fonts.css";
+
+@plugin "tailwindcss-animate";
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+    --font-inter: "Segoe", sans-serif;
+    --text-smaller: 0.6125rem;
+    --text-md: 0.8125rem;
+}
+
+table.report-table {
+    @apply min-w-full border border-gray-300 text-sm text-gray-800 font-inter;
+}
+
+table.report-table thead {
+    @apply bg-[#d9eafd] text-gray-700 font-bold uppercase;
+}
+
+table.report-table thead.header {
+    @apply bg-white text-md uppercase;
+}
+
+table.report-table thead.header th {
+    @apply bg-white text-md uppercase;
+}
+
+.report-table thead th {
+    @apply px-4 py-1 text-center text-smaller border border-black;
+}
+
+.report-table tbody tr {
+    @apply border-b border-gray-200 transition-colors ease-in-out duration-150;
+}
+
+.report-table tbody tr:nth-child(even) {
+    @apply bg-gray-50;
+}
+
+.report-table tbody tr:nth-child(odd) {
+    @apply bg-white;
+}
+
+.report-table tbody tr:hover {
+    @apply bg-blue-50;
+}
+
+.report-table td {
+    @apply px-2 py-1 text-md border border-black;
+}
+
+.report-table tr.subtotal {
+    @apply !bg-[#EEEEEE] font-bold;
+}
+
+.report-table tr.subtotal-2 {
+    @apply !bg-[#CBCBCB] font-bold;
+}
+
+.report-table thead.sticky {
+    @apply sticky top-0 z-10;
+}
+
+@media print {
+    .container {
+        width: 100%
+    }
+}

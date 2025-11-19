@@ -1,0 +1,20 @@
+[
+	{
+		"id" : 2,
+		"projectName" : "STEEL STRUCTURE BUILDING",
+		"fixedAssetId" : 2950,
+		"wipLedger" : 313,
+		"isClose" : "0",
+		"convertedAssetId" : null,
+		"inventoryIssueLedgerId" : 574
+	},
+	{
+		"id" : 1,
+		"projectName" : "ETP PROJECT",
+		"fixedAssetId" : 1542,
+		"wipLedger" : 314,
+		"isClose" : "0",
+		"convertedAssetId" : null,
+		"inventoryIssueLedgerId" : null
+	}
+]

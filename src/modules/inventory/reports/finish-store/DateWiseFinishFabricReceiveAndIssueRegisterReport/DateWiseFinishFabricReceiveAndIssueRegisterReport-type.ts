@@ -1,0 +1,28 @@
+export type DateWiseFinishFabricReceiveAndIssueRegisterReportType = {
+  ACTION_DATE: Date;
+  CHALLAN_NO: string;
+  COMPANY_ID: number;
+  BUYER_ID: number;
+  PO_ID: number;
+  STYLE_ID: number;
+  GMT_COLOR_ID: number;
+  FABRIC_ID: number;
+  DATA_SOURCE: string;
+  SERAIL: number;
+  RCV_QUANTITY: number;
+  RCV_PICES: string;
+  RCV_ROLL_QTY: number;
+  ISSUED_QUANTITY: number;
+  ISSUED_PICES: string;
+  ISSUED_ROLL_QTY: number;
+  FABRIC: string;
+  BUYER_NAME: string;
+  STYLENO: string;
+  PONO: string;
+  UOM: string;
+  GMT_COLOR: string;
+  COMPANY_NAME: string;
+  COMPANY_ADDRESS: string;
+  WORK_ORDER_NO: string;
+  PINO: string;
+};

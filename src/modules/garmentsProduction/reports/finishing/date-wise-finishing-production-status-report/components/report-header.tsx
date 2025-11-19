@@ -1,0 +1,40 @@
+import moment from "moment";
+import useAppClient from "@/hooks/use-AppClient";
+import { DateWiseFinishingProoductionReportType } from "../date-wise-finishing-production-report-type";
+
+function ReportHeader({
+  searchParam,
+}: {
+  masterData: DateWiseFinishingProoductionReportType | null;
+  searchParam: {
+    fromDate: string;
+    toDate: string;
+  };
+}) {
+
+
+  const client = useAppClient();
+
+  return (
+    <div>
+      <div className="">
+        <h1 className="font-bold text-3xl text-center">
+          {
+            client.currentClient == client.FAME && "FAME GROUP"
+          }
+          {
+            client.currentClient == client.EURO && "EUROTEX GROUP"
+          }
+        </h1>
+        <h4 className="font-bold text-xl text-center">
+          Finishing Production Report
+        </h4>
+        <h1 className="text-sm font-bold text-center">
+          {moment(searchParam.fromDate).format("DD-MMM-YY")} to {moment(searchParam.toDate).format("DD-MMM-YY")}
+        </h1>
+      </div>
+    </div>
+  );
+}
+
+export default ReportHeader;

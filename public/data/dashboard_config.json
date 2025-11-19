@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "user_id": 101,
+    "name": "TNA Dashboard",
+    "is_default": true,
+    "items": [
+      {
+        "id": 1,
+        "dashboard_config_id": 1,
+        "component_name": "DelayCause",
+        "x": 0,
+        "y": 0,
+        "w": 6,
+        "h": 4,
+        "config": "{\"chartType\":\"bar\",\"color\":\"blue\"}"
+      },
+      {
+        "id": 2,
+        "dashboard_config_id": 1,
+        "component_name": "PlanningCapacity",
+        "x": 6,
+        "y": 0,
+        "w": 6,
+        "h": 2,
+        "config": "{\"currency\":\"USD\"}"
+      },
+      {
+        "id": 2,
+        "dashboard_config_id": 1,
+        "component_name": "TaskCompletionStatus",
+        "x": 6,
+        "y": 0,
+        "w": 6,
+        "h": 2,
+        "config": "{\"currency\":\"USD\"}"
+      },
+      {
+        "id": 2,
+        "dashboard_config_id": 1,
+        "component_name": "TnaHeatmap",
+        "x": 6,
+        "y": 0,
+        "w": 6,
+        "h": 2,
+        "config": "{\"currency\":\"USD\"}"
+      },
+      {
+        "id": 2,
+        "dashboard_config_id": 1,
+        "component_name": "TnaProgress",
+        "x": 6,
+        "y": 0,
+        "w": 6,
+        "h": 2,
+        "config": "{\"currency\":\"USD\"}"
+      },
+      {
+        "id": 2,
+        "dashboard_config_id": 1,
+        "component_name": "TnaStatus",
+        "x": 6,
+        "y": 0,
+        "w": 6,
+        "h": 2,
+        "config": "{\"currency\":\"USD\"}"
+      }
+    ]
+  }
+]

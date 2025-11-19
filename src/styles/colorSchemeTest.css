@@ -1,0 +1,15 @@
+/* ------------------------------------------------------------ Test Section */
+
+.light .default .float_item_parent{
+    @apply bg-[var(--test-color)] 
+}
+
+.light .default .parent_menu_item_main .menu_item_main {
+    @apply bg-[var(--test-color)] 
+}
+
+.light .default .sidebar {
+    @apply bg-[var(--test-color)];
+}
+
+/* ------------------------------------------------------------  */

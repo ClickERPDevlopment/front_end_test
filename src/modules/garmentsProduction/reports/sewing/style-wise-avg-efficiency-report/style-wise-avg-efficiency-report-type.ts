@@ -1,0 +1,32 @@
+export interface IStyleWiseAvgEfficiencyReport {
+  FLOORID: number;
+  FLOORNAME: string;
+  LINEID: number;
+  LINENAME: string;
+  LINEINCHARGE: string;
+  BUYERNAME: string;
+  STYLEID: number;
+  STYLENO: string;
+  PONO: string;
+  STARTDAY: Date;
+  RUNNIN_DAYS: number;
+  SMVSEWING: number;
+  SEWINGOUTPUT: number;
+  ACTUALHOURS: number;
+  LAYOUTMC: number;
+  RUNNINGMC: number;
+  OPERATOR: number;
+  HELPER: number;
+  EARNINGMIN: number;
+  AVAILABLEMIN: number;
+  AVGSMVSEWING: number;
+  TOTALPRODUCTION: number;
+  LOSSMIN: number;
+  LOSSPICS: number;
+  AVGEARNINGMIN: number;
+  AVGAVAILABLEMIN: number;
+  AVGLOSSMIN: number;
+  COMPANY_NAME: string;
+  COMPANY_ADDRESS: string;
+  COMPANY_REMARKS: string;
+}

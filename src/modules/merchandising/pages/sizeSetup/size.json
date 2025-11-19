@@ -1,0 +1,93 @@
+[
+	{
+		"id" : 569,
+		"buyerId" : 36,
+		"buyerName" : "ALCOTT",
+		"sizeName" : "36",
+		"sortingNo" : 0
+	},
+	{
+		"id" : 528,
+		"buyerId" : 36,
+		"buyerName" : "ALCOTT",
+		"sizeName" : "M",
+		"sortingNo" : 0
+	},
+	{
+		"id" : 696,
+		"buyerId" : 36,
+		"buyerName" : "ALCOTT",
+		"sizeName" : "XL",
+		"sortingNo" : 5
+	},
+	{
+		"id" : 695,
+		"buyerId" : 36,
+		"buyerName" : "ALCOTT",
+		"sizeName" : "L",
+		"sortingNo" : 4
+	},
+	{
+		"id" : 694,
+		"buyerId" : 36,
+		"buyerName" : "ALCOTT",
+		"sizeName" : "S",
+		"sortingNo" : 3
+	},
+	{
+		"id" : 816,
+		"buyerId" : 57,
+		"buyerName" : "AVENA",
+		"sizeName" : "56",
+		"sortingNo" : 0
+	},
+	{
+		"id" : 817,
+		"buyerId" : 57,
+		"buyerName" : "AVENA",
+		"sizeName" : "58\/60",
+		"sortingNo" : 0
+	},
+	{
+		"id" : 815,
+		"buyerId" : 57,
+		"buyerName" : "AVENA",
+		"sizeName" : "54",
+		"sortingNo" : 0
+	},
+	{
+		"id" : 814,
+		"buyerId" : 57,
+		"buyerName" : "AVENA",
+		"sizeName" : "52",
+		"sortingNo" : 0
+	},
+	{
+		"id" : 813,
+		"buyerId" : 57,
+		"buyerName" : "AVENA",
+		"sizeName" : "50",
+		"sortingNo" : 0
+	},
+	{
+		"id" : 818,
+		"buyerId" : 57,
+		"buyerName" : "AVENA",
+		"sizeName" : "62\/64",
+		"sortingNo" : 0
+	},
+	{
+		"id" : 819,
+		"buyerId" : 57,
+		"buyerName" : "AVENA",
+		"sizeName" : "ALL SIZE",
+		"sortingNo" : 0
+	},
+	{
+		"id" : 812,
+		"buyerId" : 57,
+		"buyerName" : "AVENA",
+		"sizeName" : "48",
+		"sortingNo" : 0
+	}
+]

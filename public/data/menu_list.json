@@ -1,0 +1,592 @@
+[
+    {
+        "id": 1,
+        "name": "Configuration",
+        "link": "configuration",
+        "moduleId": 1,
+        "parentMenuId": 0
+    },
+    {
+        "id": 2,
+        "name": "Currency List",
+        "link": "/currency-list",
+        "moduleId": 1,
+        "parentMenuId": 1
+    },
+    {
+        "id": 3,
+        "name": "Factory Layout",
+        "link": "/factory-layout",
+        "moduleId": 1,
+        "parentMenuId": 1
+    },
+    {
+        "id": 4,
+        "name": "Section/Process Setup",
+        "link": "/section-process-setup",
+        "moduleId": 1,
+        "parentMenuId": 3
+    },
+    {
+        "id": 5,
+        "name": "Floor Setup",
+        "link": "/floor-setup",
+        "moduleId": 1,
+        "parentMenuId": 3
+    },
+    {
+        "id": 6,
+        "name": "Line Setup",
+        "link": "/line-setup",
+        "moduleId": 1,
+        "parentMenuId": 3
+    },
+    {
+        "id": 7,
+        "name": "Materials",
+        "link": "/materials",
+        "moduleId": 1,
+        "parentMenuId": 1
+    },
+    {
+        "id": 8,
+        "name": "Other's Party && Bank",
+        "link": "/others-party-bank",
+        "moduleId": 1,
+        "parentMenuId": 1
+    },
+    {
+        "id": 9,
+        "name": "Payment Configuration",
+        "link": "/payment-configuration",
+        "moduleId": 1,
+        "parentMenuId": 1
+    },
+    {
+        "id": 10,
+        "name": "Customer (Local)",
+        "link": "/customer-local",
+        "moduleId": 1,
+        "parentMenuId": 1
+    },
+    {
+        "id": 11,
+        "name": "Country Setup",
+        "link": "/country-setup",
+        "moduleId": 1,
+        "parentMenuId": 1
+    },
+    {
+        "id": 12,
+        "name": "Business Area",
+        "link": "/business-area",
+        "moduleId": 1,
+        "parentMenuId": 1
+    },
+    {
+        "id": 13,
+        "name": "Administrator",
+        "link": "administrator",
+        "moduleId": 1,
+        "parentMenuId": 0
+    },
+    {
+        "id": 14,
+        "name": "Group Company Info",
+        "link": "/group-company-info",
+        "moduleId": 1,
+        "parentMenuId": 13
+    },
+    {
+        "id": 15,
+        "name": "Company/Factory Entry",
+        "link": "/company-factory-entry",
+        "moduleId": 1,
+        "parentMenuId": 13
+    },
+    {
+        "id": 16,
+        "name": "User Create",
+        "link": "/user-create",
+        "moduleId": 1,
+        "parentMenuId": 13
+    },
+    {
+        "id": 17,
+        "name": "Role Setup",
+        "link": "/role-setup",
+        "moduleId": 1,
+        "parentMenuId": 13
+    },
+    {
+        "id": 18,
+        "name": "Role Permission",
+        "link": "/role-permission",
+        "moduleId": 1,
+        "parentMenuId": 13
+    },
+    {
+        "id": 19,
+        "name": "User To Role Mapping",
+        "link": "/user-to-role-mapping",
+        "moduleId": 1,
+        "parentMenuId": 13
+    },
+    {
+        "id": 20,
+        "name": "User To Company Mapping",
+        "link": "/user-to-company-mapping",
+        "moduleId": 1,
+        "parentMenuId": 13
+    },
+    {
+        "id": 21,
+        "name": "Buyer Group Setup",
+        "link": "/buyer-group-setup",
+        "moduleId": 1,
+        "parentMenuId": 13
+    },
+    {
+        "id": 22,
+        "name": "Buyer Group Permission",
+        "link": "/buyer-group-permission",
+        "moduleId": 1,
+        "parentMenuId": 13
+    },
+    {
+        "id": 23,
+        "name": "User To Buyer Mapping",
+        "link": "/user-to-buyer-mapping",
+        "moduleId": 1,
+        "parentMenuId": 13
+    },
+    {
+        "id": 24,
+        "name": "Change Password",
+        "link": "/change-password",
+        "moduleId": 1,
+        "parentMenuId": 13
+    },
+    {
+        "id": 25,
+        "name": "User log Report",
+        "link": "/user-log-report",
+        "moduleId": 1,
+        "parentMenuId": 13
+    },
+    {
+        "id": 26,
+        "name": "Auto Menu Entry",
+        "link": "/auto-menu-entry",
+        "moduleId": 1,
+        "parentMenuId": 13
+    },
+    {
+        "id": 27,
+        "name": "Store Requisition Approval Map",
+        "link": "/store-requisition-approval-map",
+        "moduleId": 1,
+        "parentMenuId": 13
+    },
+    {
+        "id": 28,
+        "name": "User Mode",
+        "link": "/user-mode",
+        "moduleId": 1,
+        "parentMenuId": 13
+    },
+    {
+        "id": 33,
+        "name": "Cutting Entry",
+        "link": "",
+        "moduleId": 7,
+        "parentMenuId": 0
+    },
+    {
+        "id": 34,
+        "name": "Layer Cut",
+        "link": "/layer-cutting-entry",
+        "moduleId": 7,
+        "parentMenuId": 33
+    },
+    {
+        "id": 35,
+        "name": "Piece Cut",
+        "link": "/cutting/piece-cut",
+        "moduleId": 7,
+        "parentMenuId": 33
+    },
+    {
+        "id": 36,
+        "name": "Contrast Cut",
+        "link": "/cutting/contrast-cut",
+        "moduleId": 7,
+        "parentMenuId": 33
+    },
+    {
+        "id": 37,
+        "name": "Cutting Reject Entry",
+        "link": "/cutting/reject-entry",
+        "moduleId": 7,
+        "parentMenuId": 33
+    },
+    {
+        "id": 38,
+        "name": "Setup",
+        "moduleId": 5,
+        "link": "",
+        "parentMenuId": 0
+    },
+    {
+        "id": 39,
+        "name": "Period Setup",
+        "moduleId": 5,
+        "link": "/period-setup",
+        "parentMenuId": 38
+    },
+    {
+        "id": 40,
+        "name": "Chart of Accounts List",
+        "moduleId": 5,
+        "link": "/chart-of-accounts-list",
+        "parentMenuId": 38
+    },
+    {
+        "id": 78,
+        "name": "Chart of Accounts Form",
+        "moduleId": 5,
+        "link": "/chart-of-accounts-form",
+        "parentMenuId": 38
+    },
+    {
+        "id": 41,
+        "name": "Bank List",
+        "moduleId": 5,
+        "link": "/bank-list",
+        "parentMenuId": 38
+    },
+    {
+        "id": 42,
+        "name": "Cost Center List",
+        "moduleId": 5,
+        "link": "/cost-center-list",
+        "parentMenuId": 38
+    },
+    {
+        "id": 43,
+        "name": "Set CPM",
+        "moduleId": 5,
+        "link": "/set-cpm",
+        "parentMenuId": 38
+    },
+    {
+        "id": 44,
+        "name": "Transaction",
+        "moduleId": 5,
+        "link": "",
+        "parentMenuId": 0
+    },
+    {
+        "id": 45,
+        "name": "Voucher Entry",
+        "moduleId": 5,
+        "link": "/voucher-entry",
+        "parentMenuId": 44
+    },
+    {
+        "id": 46,
+        "name": "Depreciation Posting",
+        "moduleId": 5,
+        "link": "/depreciation-posting",
+        "parentMenuId": 44
+    },
+    {
+        "id": 47,
+        "name": "Invoice Verification",
+        "moduleId": 5,
+        "link": "/invoice-verification",
+        "parentMenuId": 44
+    },
+    {
+        "id": 48,
+        "name": "Bank Reconciliation",
+        "moduleId": 5,
+        "link": "/bank-reconciliation",
+        "parentMenuId": 44
+    },
+    {
+        "id": 48,
+        "name": "Sale Verification",
+        "moduleId": 5,
+        "link": "/sale-verification",
+        "parentMenuId": 44
+    },
+    {
+        "id": 49,
+        "name": "Reports",
+        "moduleId": 5,
+        "link": "",
+        "parentMenuId": 0
+    },
+    {
+        "id": 50,
+        "name": "Voucher Print",
+        "moduleId": 5,
+        "link": "/voucher-print-form",
+        "parentMenuId": 49
+    },
+    {
+        "id": 51,
+        "name": "Ledger Report",
+        "moduleId": 5,
+        "link": "/ledger-report-form",
+        "parentMenuId": 49
+    },
+    {
+        "id": 52,
+        "name": "Cash Book",
+        "moduleId": 5,
+        "link": "/cash-book-form",
+        "parentMenuId": 49
+    },
+    {
+        "id": 53,
+        "name": "Bank Book",
+        "moduleId": 5,
+        "link": "/bank-book-form",
+        "parentMenuId": 49
+    },
+    {
+        "id": 54,
+        "name": "Day Book",
+        "moduleId": 5,
+        "link": "/day-book-form",
+        "parentMenuId": 49
+    },
+    {
+        "id": 55,
+        "name": "Cash Bank Receipts and Payment Report",
+        "moduleId": 5,
+        "link": "/receipts-and-payment-report-form",
+        "parentMenuId": 49
+    },
+    {
+        "id": 56,
+        "name": "Trial Balance",
+        "moduleId": 5,
+        "link": "/trial-balance-form",
+        "parentMenuId": 49
+    },
+    {
+        "id": 57,
+        "name": "Profit/loss Report",
+        "moduleId": 5,
+        "link": "/profit-or-loss-report-form",
+        "parentMenuId": 49
+    },
+    {
+        "id": 58,
+        "name": "Financial Position",
+        "moduleId": 5,
+        "link": "/blancesheet-report-form",
+        "parentMenuId": 49
+    },
+    {
+        "id": 59,
+        "name": "Change In Equity",
+        "moduleId": 5,
+        "link": "/change-in-equity-report-form",
+        "parentMenuId": 49
+    },
+    {
+        "id": 60,
+        "name": "Statement of Cash Flow",
+        "moduleId": 5,
+        "link": "/cash-flow-report-form",
+        "parentMenuId": 49
+    },
+    {
+        "id": 61,
+        "name": "Supplier LC/TT Status",
+        "moduleId": 5,
+        "link": "/supplier-lc-tt-report-form",
+        "parentMenuId": 49
+    },
+    {
+        "id": 62,
+        "name": "Voucher List",
+        "moduleId": 5,
+        "link": "/voucher-list",
+        "parentMenuId": 44
+    },
+    {
+        "id": 63,
+        "name": "TNA Basic Setup",
+        "moduleId": 3,
+        "link": "",
+        "parentMenuId": 0
+    },
+    {
+        "id": 64,
+        "name": "Task Group",
+        "moduleId": 3,
+        "link": "/task-group",
+        "parentMenuId": 63
+    },
+    {
+        "id": 65,
+        "name": "Task Setup",
+        "moduleId": 3,
+        "link": "/task-setup",
+        "parentMenuId": 63
+    },
+    {
+        "id": 66,
+        "name": "TNA Template Setup",
+        "moduleId": 3,
+        "link": "/tna-template-setup",
+        "parentMenuId": 63
+    },
+    {
+        "id": 67,
+        "name": "TNA Transactions",
+        "moduleId": 3,
+        "link": "",
+        "parentMenuId": 0
+    },
+    {
+        "id": 68,
+        "name": "Create TNA",
+        "moduleId": 3,
+        "link": "/create-tna",
+        "parentMenuId": 67
+    },
+    {
+        "id": 69,
+        "name": "TNA List",
+        "moduleId": 3,
+        "link": "/tna-list",
+        "parentMenuId": 67
+    },
+    {
+        "id": 70,
+        "name": "TNA Job List",
+        "moduleId": 3,
+        "link": "/tna-job-list",
+        "parentMenuId": 67
+    },
+    {
+        "id": 71,
+        "name": "TNA Reports",
+        "moduleId": 3,
+        "link": "",
+        "parentMenuId": 0
+    },
+    {
+        "id": 72,
+        "name": "Detailed TNA Report",
+        "moduleId": 3,
+        "link": "/detailed-tna-report",
+        "parentMenuId": 71
+    },
+    {
+        "id": 73,
+        "name": "TNA Achievement Report",
+        "moduleId": 3,
+        "link": "/tna-achievement-report",
+        "parentMenuId": 71
+    },
+    {
+        "id": 74,
+        "name": "TNA Summary Report",
+        "moduleId": 3,
+        "link": "/tna-summary-report",
+        "parentMenuId": 71
+    },
+    {
+        "id": 75,
+        "name": "Production",
+        "moduleId": 8,
+        "link": "",
+        "parentMenuId": 0
+    },
+    {
+        "id": 76,
+        "name": "Production List",
+        "moduleId": 8,
+        "link": "/printing-production-list",
+        "parentMenuId": 75
+    },
+    {
+        "id": 77,
+        "name": "Production Entry",
+        "moduleId": 8,
+        "link": "/printing-production-entry",
+        "parentMenuId": 75
+    },
+    {
+        "id": 79,
+        "name": "Currency List",
+        "moduleId": 1,
+        "link": "/currency-list",
+        "parentMenuId": 1
+    },
+    {
+        "id": 80,
+        "name": "Section List",
+        "moduleId": 1,
+        "link": "/section-list",
+        "parentMenuId": 1
+    },
+    {
+        "id": 81,
+        "name": "Floor List",
+        "moduleId": 1,
+        "link": "/floor-list",
+        "parentMenuId": 1
+    },
+    {
+        "id": 82,
+        "name": "Line List",
+        "moduleId": 1,
+        "link": "/line-list",
+        "parentMenuId": 1
+    },
+
+
+    {
+        "id": 83,
+        "name": "Basic Setup",
+        "moduleId": 6,
+        "link": "/",
+        "parentMenuId": 0
+    },
+    {
+        "id": 84,
+        "name": "UOM List",
+        "moduleId": 6,
+        "link": "/uom-list",
+        "parentMenuId": 83
+    },
+    {
+        "id": 85,
+        "name": "Material Group List",
+        "moduleId": 6,
+        "link": "/material-group-list",
+        "parentMenuId": 83
+    },
+    {
+        "id": 86,
+        "name": "Material Sub-Group List",
+        "moduleId": 6,
+        "link": "/material-sub-group-list",
+        "parentMenuId": 83
+    },
+    {
+        "id": 87,
+        "name": "Material List",
+        "moduleId": 6,
+        "link": "/material-list",
+        "parentMenuId": 83
+    }
+]

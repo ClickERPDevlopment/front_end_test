@@ -1,0 +1,38 @@
+export type YarnTransferReportType = {
+  ID: number;
+  COMPANY_ID: number;
+  COMPANY_NAME: string;
+  PREFIX: string;
+  ADDRESS: string;
+  CONTACT: string;
+  EMAIL: string | null;
+  WEB: string | null;
+  COMPANY_REMARKS: string;
+  IMAGE: string | null;
+  AG_WO_NO: string | null;
+  PREPARED_BY: string;
+  CHALLAN_NO: string;
+  CHALLAN_DATE: string;
+  PARTY_ID: number;
+  PARTY: string;
+  PARTY_ADDRESS: string;
+  BBLC_NO: string;
+  WORK_ORDER_ID: number;
+  WORK_ORDER_NUMBER: string | null;
+  BRAND_ID: number;
+  YARN_BRAND: string;
+  YARN_LOT_NO_ID: number;
+  YARN_LOT_NUMBER: string;
+  YARN_ID: number;
+  YARN: string;
+  PER_CTN_QTY: number;
+  CARTON_QTY: number;
+  QUANTITY: number;
+  STATUS: string;
+  UOM: string;
+  CONE_QTY: number;
+  REMARKS: string | null;
+  MAIN_COMPANY: string | null;
+  MAIN_COMPANY_ADDRESS: string | null;
+  ISSUE_TYPE: string | null;
+}

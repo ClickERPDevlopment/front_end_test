@@ -1,0 +1,26 @@
+ [
+	{
+		"id" : 1,
+		"subCompanyId" : 1,
+		"code" : "FAL-01",
+		"name" : "Cutting Unit 1",
+		"inchargeName" : "john doe",
+		"sectionId" : 1,
+		"PACKEDFLOORNAME" : null,
+		"ISSUBCONTACT" : "0",
+		"ISACTIVE" : "1",
+		"SUB_CONTRACT_FLOOR_ID" : null
+	},
+	{
+		"id" : 2,
+		"subCompanyId" : 1,
+		"code" : "FAL-02",
+		"name" : "Cutting Unit 2",
+		"inchargeName" : "bob",
+		"sectionId" : 1,
+		"PACKEDFLOORNAME" : null,
+		"ISSUBCONTACT" : "0",
+		"ISACTIVE" : "1",
+		"SUB_CONTRACT_FLOOR_ID" : null
+	}
+]

@@ -1,0 +1,72 @@
+[
+	{
+		"vtypeNo" : 25,
+		"typeName" : "Collection Voucher",
+		"alias" : "CL",
+		"vType" : "CL",
+		"descr" : null,
+		"vDefault" : 0,
+		"companyNo" : 27,
+		"nature" : 0
+	},
+	{
+		"vtypeNo" : 1,
+		"typeName" : "Cash Payment Voucher",
+		"alias" : "CP",
+		"vType" : "CO",
+		"descr" : null,
+		"vDefault" : 0,
+		"companyNo" : 27,
+		"nature" : 3
+	},
+	{
+		"vtypeNo" : 2,
+		"typeName" : "Cash Receipt Voucher",
+		"alias" : "CR",
+		"vType" : "CI",
+		"descr" : null,
+		"vDefault" : 1,
+		"companyNo" : 27,
+		"nature" : 4
+	},
+	{
+		"vtypeNo" : 3,
+		"typeName" : "Bank Payment Voucher",
+		"alias" : "BP",
+		"vType" : "JL",
+		"descr" : null,
+		"vDefault" : 0,
+		"companyNo" : 27,
+		"nature" : 1
+	},
+	{
+		"vtypeNo" : 4,
+		"typeName" : "Bank Receipt Voucher",
+		"alias" : "BR",
+		"vType" : "CI",
+		"descr" : null,
+		"vDefault" : 0,
+		"companyNo" : 27,
+		"nature" : 2
+	},
+	{
+		"vtypeNo" : 11,
+		"typeName" : "Journal Voucher",
+		"alias" : "JV",
+		"vType" : "JL",
+		"descr" : "For Import LC",
+		"vDefault" : 0,
+		"companyNo" : 27,
+		"nature" : 0
+	},
+	{
+		"vtypeNo" : 18,
+		"typeName" : "Contra Voucher",
+		"alias" : "CV",
+		"vType" : "JL",
+		"descr" : null,
+		"vDefault" : 0,
+		"companyNo" : 27,
+		"nature" : 5
+	}
+]

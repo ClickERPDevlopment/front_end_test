@@ -1,0 +1,16 @@
+[
+	{
+		"periodNo" : 1,
+		"startPeriodDate" : "2024-01-01",
+		"endPeriodDate" : "2024-12-31",
+		"closeFlag" : 1,
+		"companyNo" : 1
+	},
+    {
+		"periodNo" : 2,
+		"startPeriodDate" : "2025-01-01",
+		"endPeriodDate" : "2025-12-31",
+		"closeFlag" : 1,
+		"companyNo" : 1
+	}
+]

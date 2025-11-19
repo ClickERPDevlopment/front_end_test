@@ -1,0 +1,1353 @@
+[
+	{
+		"ID" : 15,
+		"BUYERID" : 5,
+		"SIZENAME" : "XS",
+		"SORTINGNO" : 2,
+		"DISPLAY_NAME" : "XS"
+	},
+	{
+		"ID" : 31,
+		"BUYERID" : 5,
+		"SIZENAME" : "U98-(98\/104)",
+		"SORTINGNO" : 24,
+		"DISPLAY_NAME" : "U98-(98\/104)"
+	},
+	{
+		"ID" : 39,
+		"BUYERID" : 9,
+		"SIZENAME" : "XL",
+		"SORTINGNO" : 5,
+		"DISPLAY_NAME" : "XL"
+	},
+	{
+		"ID" : 40,
+		"BUYERID" : 3,
+		"SIZENAME" : "98\/104",
+		"SORTINGNO" : 1,
+		"DISPLAY_NAME" : "98\/104"
+	},
+	{
+		"ID" : 48,
+		"BUYERID" : 18,
+		"SIZENAME" : "18\/24M",
+		"SORTINGNO" : 23,
+		"DISPLAY_NAME" : "18\/24M"
+	},
+	{
+		"ID" : 51,
+		"BUYERID" : 18,
+		"SIZENAME" : "4\/5",
+		"SORTINGNO" : 26,
+		"DISPLAY_NAME" : "4\/5"
+	},
+	{
+		"ID" : 55,
+		"BUYERID" : 4,
+		"SIZENAME" : "9\/10",
+		"SORTINGNO" : 3,
+		"DISPLAY_NAME" : "9\/10"
+	},
+	{
+		"ID" : 98,
+		"BUYERID" : 5,
+		"SIZENAME" : "98 (98-140)",
+		"SORTINGNO" : 26,
+		"DISPLAY_NAME" : "98 (98-140)"
+	},
+	{
+		"ID" : 100,
+		"BUYERID" : 5,
+		"SIZENAME" : "110 (98-140)",
+		"SORTINGNO" : 28,
+		"DISPLAY_NAME" : "110 (98-140)"
+	},
+	{
+		"ID" : 102,
+		"BUYERID" : 5,
+		"SIZENAME" : "122 (98-140)",
+		"SORTINGNO" : 30,
+		"DISPLAY_NAME" : "122 (98-140)"
+	},
+	{
+		"ID" : 103,
+		"BUYERID" : 5,
+		"SIZENAME" : "128 (98-140)",
+		"SORTINGNO" : 31,
+		"DISPLAY_NAME" : "128 (98-140)"
+	},
+	{
+		"ID" : 104,
+		"BUYERID" : 5,
+		"SIZENAME" : "134 (98-140)",
+		"SORTINGNO" : 32,
+		"DISPLAY_NAME" : "134 (98-140)"
+	},
+	{
+		"ID" : 110,
+		"BUYERID" : 3,
+		"SIZENAME" : "XXL",
+		"SORTINGNO" : 21,
+		"DISPLAY_NAME" : "XXL"
+	},
+	{
+		"ID" : 115,
+		"BUYERID" : 15,
+		"SIZENAME" : "XS",
+		"SORTINGNO" : 2,
+		"DISPLAY_NAME" : "XS"
+	},
+	{
+		"ID" : 119,
+		"BUYERID" : 15,
+		"SIZENAME" : "XL",
+		"SORTINGNO" : 6,
+		"DISPLAY_NAME" : "XL"
+	},
+	{
+		"ID" : 134,
+		"BUYERID" : 5,
+		"SIZENAME" : "92",
+		"SORTINGNO" : 104,
+		"DISPLAY_NAME" : "92"
+	},
+	{
+		"ID" : 148,
+		"BUYERID" : 20,
+		"SIZENAME" : "L",
+		"SORTINGNO" : 7,
+		"DISPLAY_NAME" : "L"
+	},
+	{
+		"ID" : 147,
+		"BUYERID" : 20,
+		"SIZENAME" : "M",
+		"SORTINGNO" : 6,
+		"DISPLAY_NAME" : "M"
+	},
+	{
+		"ID" : 152,
+		"BUYERID" : 20,
+		"SIZENAME" : "2XL",
+		"SORTINGNO" : 11,
+		"DISPLAY_NAME" : "2XL"
+	},
+	{
+		"ID" : 155,
+		"BUYERID" : 20,
+		"SIZENAME" : "5XL",
+		"SORTINGNO" : 14,
+		"DISPLAY_NAME" : "5XL"
+	},
+	{
+		"ID" : 157,
+		"BUYERID" : 20,
+		"SIZENAME" : "3-4",
+		"SORTINGNO" : 103,
+		"DISPLAY_NAME" : "3-4"
+	},
+	{
+		"ID" : 159,
+		"BUYERID" : 20,
+		"SIZENAME" : "6-7",
+		"SORTINGNO" : 105,
+		"DISPLAY_NAME" : "6-7"
+	},
+	{
+		"ID" : 174,
+		"BUYERID" : 4,
+		"SIZENAME" : "6\/7",
+		"SORTINGNO" : 14,
+		"DISPLAY_NAME" : "6\/7"
+	},
+	{
+		"ID" : 176,
+		"BUYERID" : 17,
+		"SIZENAME" : "130cl",
+		"SORTINGNO" : 2,
+		"DISPLAY_NAME" : "130cl"
+	},
+	{
+		"ID" : 180,
+		"BUYERID" : 7,
+		"SIZENAME" : "XS",
+		"SORTINGNO" : 1,
+		"DISPLAY_NAME" : "XS"
+	},
+	{
+		"ID" : 183,
+		"BUYERID" : 7,
+		"SIZENAME" : "L",
+		"SORTINGNO" : 4,
+		"DISPLAY_NAME" : "L"
+	},
+	{
+		"ID" : 186,
+		"BUYERID" : 7,
+		"SIZENAME" : "XXXL",
+		"SORTINGNO" : 7,
+		"DISPLAY_NAME" : "XXXL"
+	},
+	{
+		"ID" : 189,
+		"BUYERID" : 10,
+		"SIZENAME" : "L",
+		"SORTINGNO" : 10,
+		"DISPLAY_NAME" : "L"
+	},
+	{
+		"ID" : 16,
+		"BUYERID" : 5,
+		"SIZENAME" : "S",
+		"SORTINGNO" : 3,
+		"DISPLAY_NAME" : "S"
+	},
+	{
+		"ID" : 41,
+		"BUYERID" : 3,
+		"SIZENAME" : "110\/116",
+		"SORTINGNO" : 2,
+		"DISPLAY_NAME" : "110\/116"
+	},
+	{
+		"ID" : 44,
+		"BUYERID" : 5,
+		"SIZENAME" : "XXL",
+		"SORTINGNO" : 10,
+		"DISPLAY_NAME" : "XXL"
+	},
+	{
+		"ID" : 45,
+		"BUYERID" : 5,
+		"SIZENAME" : "XXXL",
+		"SORTINGNO" : 11,
+		"DISPLAY_NAME" : "XXXL"
+	},
+	{
+		"ID" : 56,
+		"BUYERID" : 4,
+		"SIZENAME" : "10\/11",
+		"SORTINGNO" : 4,
+		"DISPLAY_NAME" : "10\/11"
+	},
+	{
+		"ID" : 59,
+		"BUYERID" : 4,
+		"SIZENAME" : "13\/14",
+		"SORTINGNO" : 7,
+		"DISPLAY_NAME" : "13\/14"
+	},
+	{
+		"ID" : 61,
+		"BUYERID" : 18,
+		"SIZENAME" : "9\/12",
+		"SORTINGNO" : 21,
+		"DISPLAY_NAME" : "9\/12"
+	},
+	{
+		"ID" : 64,
+		"BUYERID" : 3,
+		"SIZENAME" : "158\/164",
+		"SORTINGNO" : 7,
+		"DISPLAY_NAME" : "158\/164"
+	},
+	{
+		"ID" : 71,
+		"BUYERID" : 24,
+		"SIZENAME" : "XXL",
+		"SORTINGNO" : 6,
+		"DISPLAY_NAME" : "XXL"
+	},
+	{
+		"ID" : 78,
+		"BUYERID" : 8,
+		"SIZENAME" : "XL",
+		"SORTINGNO" : 5,
+		"DISPLAY_NAME" : "XL"
+	},
+	{
+		"ID" : 81,
+		"BUYERID" : 3,
+		"SIZENAME" : "34 ",
+		"SORTINGNO" : 7,
+		"DISPLAY_NAME" : "34 "
+	},
+	{
+		"ID" : 85,
+		"BUYERID" : 3,
+		"SIZENAME" : "42",
+		"SORTINGNO" : 11,
+		"DISPLAY_NAME" : "42"
+	},
+	{
+		"ID" : 89,
+		"BUYERID" : 3,
+		"SIZENAME" : "50",
+		"SORTINGNO" : 15,
+		"DISPLAY_NAME" : "50"
+	},
+	{
+		"ID" : 90,
+		"BUYERID" : 21,
+		"SIZENAME" : "XXS",
+		"SORTINGNO" : 1,
+		"DISPLAY_NAME" : "XXS"
+	},
+	{
+		"ID" : 106,
+		"BUYERID" : 3,
+		"SIZENAME" : "S ",
+		"SORTINGNO" : 17,
+		"DISPLAY_NAME" : "S "
+	},
+	{
+		"ID" : 108,
+		"BUYERID" : 3,
+		"SIZENAME" : "L",
+		"SORTINGNO" : 19,
+		"DISPLAY_NAME" : "L"
+	},
+	{
+		"ID" : 116,
+		"BUYERID" : 15,
+		"SIZENAME" : "S",
+		"SORTINGNO" : 3,
+		"DISPLAY_NAME" : "S"
+	},
+	{
+		"ID" : 121,
+		"BUYERID" : 15,
+		"SIZENAME" : "3XL",
+		"SORTINGNO" : 8,
+		"DISPLAY_NAME" : "3XL"
+	},
+	{
+		"ID" : 123,
+		"BUYERID" : 5,
+		"SIZENAME" : "122",
+		"SORTINGNO" : 35,
+		"DISPLAY_NAME" : "122"
+	},
+	{
+		"ID" : 133,
+		"BUYERID" : 5,
+		"SIZENAME" : "86",
+		"SORTINGNO" : 103,
+		"DISPLAY_NAME" : "86"
+	},
+	{
+		"ID" : 136,
+		"BUYERID" : 5,
+		"SIZENAME" : "104",
+		"SORTINGNO" : 106,
+		"DISPLAY_NAME" : "104"
+	},
+	{
+		"ID" : 143,
+		"BUYERID" : 20,
+		"SIZENAME" : "XXXS",
+		"SORTINGNO" : 2,
+		"DISPLAY_NAME" : "XXXS"
+	},
+	{
+		"ID" : 145,
+		"BUYERID" : 20,
+		"SIZENAME" : "XS",
+		"SORTINGNO" : 4,
+		"DISPLAY_NAME" : "XS"
+	},
+	{
+		"ID" : 151,
+		"BUYERID" : 20,
+		"SIZENAME" : "XXXL",
+		"SORTINGNO" : 10,
+		"DISPLAY_NAME" : "XXXL"
+	},
+	{
+		"ID" : 153,
+		"BUYERID" : 20,
+		"SIZENAME" : "3XL",
+		"SORTINGNO" : 12,
+		"DISPLAY_NAME" : "3XL"
+	},
+	{
+		"ID" : 158,
+		"BUYERID" : 20,
+		"SIZENAME" : "4-5",
+		"SORTINGNO" : 104,
+		"DISPLAY_NAME" : "4-5"
+	},
+	{
+		"ID" : 165,
+		"BUYERID" : 22,
+		"SIZENAME" : "140",
+		"SORTINGNO" : 3,
+		"DISPLAY_NAME" : "140"
+	},
+	{
+		"ID" : 166,
+		"BUYERID" : 22,
+		"SIZENAME" : "146",
+		"SORTINGNO" : 4,
+		"DISPLAY_NAME" : "146"
+	},
+	{
+		"ID" : 170,
+		"BUYERID" : 4,
+		"SIZENAME" : "7\/8",
+		"SORTINGNO" : 1,
+		"DISPLAY_NAME" : "7\/8"
+	},
+	{
+		"ID" : 172,
+		"BUYERID" : 4,
+		"SIZENAME" : "4\/5",
+		"SORTINGNO" : 12,
+		"DISPLAY_NAME" : "4\/5"
+	},
+	{
+		"ID" : 175,
+		"BUYERID" : 17,
+		"SIZENAME" : "120cl",
+		"SORTINGNO" : 1,
+		"DISPLAY_NAME" : "120cl"
+	},
+	{
+		"ID" : 177,
+		"BUYERID" : 17,
+		"SIZENAME" : "140cl",
+		"SORTINGNO" : 3,
+		"DISPLAY_NAME" : "140cl"
+	},
+	{
+		"ID" : 179,
+		"BUYERID" : 17,
+		"SIZENAME" : "160cl",
+		"SORTINGNO" : 5,
+		"DISPLAY_NAME" : "160cl"
+	},
+	{
+		"ID" : 195,
+		"BUYERID" : 22,
+		"SIZENAME" : "164",
+		"SORTINGNO" : 7,
+		"DISPLAY_NAME" : "164"
+	},
+	{
+		"ID" : 4,
+		"BUYERID" : 2,
+		"SIZENAME" : "L",
+		"SORTINGNO" : 4,
+		"DISPLAY_NAME" : "L"
+	},
+	{
+		"ID" : 12,
+		"BUYERID" : 1,
+		"SIZENAME" : "XL",
+		"SORTINGNO" : 6,
+		"DISPLAY_NAME" : "XL"
+	},
+	{
+		"ID" : 14,
+		"BUYERID" : 5,
+		"SIZENAME" : "XXS",
+		"SORTINGNO" : 1,
+		"DISPLAY_NAME" : "XXS"
+	},
+	{
+		"ID" : 17,
+		"BUYERID" : 5,
+		"SIZENAME" : "M",
+		"SORTINGNO" : 4,
+		"DISPLAY_NAME" : "M"
+	},
+	{
+		"ID" : 18,
+		"BUYERID" : 5,
+		"SIZENAME" : "L",
+		"SORTINGNO" : 5,
+		"DISPLAY_NAME" : "L"
+	},
+	{
+		"ID" : 19,
+		"BUYERID" : 5,
+		"SIZENAME" : "XL",
+		"SORTINGNO" : 6,
+		"DISPLAY_NAME" : "XL"
+	},
+	{
+		"ID" : 26,
+		"BUYERID" : 5,
+		"SIZENAME" : "3XL",
+		"SORTINGNO" : 8,
+		"DISPLAY_NAME" : "3XL"
+	},
+	{
+		"ID" : 29,
+		"BUYERID" : 5,
+		"SIZENAME" : "U14-(146\/152)",
+		"SORTINGNO" : 22,
+		"DISPLAY_NAME" : "U14-(146\/152)"
+	},
+	{
+		"ID" : 30,
+		"BUYERID" : 5,
+		"SIZENAME" : "U13-(134\/140)",
+		"SORTINGNO" : 21,
+		"DISPLAY_NAME" : "U13-(134\/140)"
+	},
+	{
+		"ID" : 32,
+		"BUYERID" : 5,
+		"SIZENAME" : "U86-(86\/92)",
+		"SORTINGNO" : 25,
+		"DISPLAY_NAME" : "U86-(86\/92)"
+	},
+	{
+		"ID" : 38,
+		"BUYERID" : 9,
+		"SIZENAME" : "L",
+		"SORTINGNO" : 4,
+		"DISPLAY_NAME" : "L"
+	},
+	{
+		"ID" : 42,
+		"BUYERID" : 3,
+		"SIZENAME" : "122\/128",
+		"SORTINGNO" : 3,
+		"DISPLAY_NAME" : "122\/128"
+	},
+	{
+		"ID" : 47,
+		"BUYERID" : 18,
+		"SIZENAME" : "12\/18M",
+		"SORTINGNO" : 22,
+		"DISPLAY_NAME" : "12\/18M"
+	},
+	{
+		"ID" : 53,
+		"BUYERID" : 4,
+		"SIZENAME" : "3\/4",
+		"SORTINGNO" : 3,
+		"DISPLAY_NAME" : "23\/4"
+	},
+	{
+		"ID" : 58,
+		"BUYERID" : 4,
+		"SIZENAME" : "12\/13",
+		"SORTINGNO" : 6,
+		"DISPLAY_NAME" : "12\/13"
+	},
+	{
+		"ID" : 60,
+		"BUYERID" : 4,
+		"SIZENAME" : "14\/15",
+		"SORTINGNO" : 8,
+		"DISPLAY_NAME" : "14\/15"
+	},
+	{
+		"ID" : 63,
+		"BUYERID" : 3,
+		"SIZENAME" : "146\/152",
+		"SORTINGNO" : 6,
+		"DISPLAY_NAME" : "146\/152"
+	},
+	{
+		"ID" : 66,
+		"BUYERID" : 24,
+		"SIZENAME" : "XS",
+		"SORTINGNO" : 1,
+		"DISPLAY_NAME" : "XS"
+	},
+	{
+		"ID" : 74,
+		"BUYERID" : 8,
+		"SIZENAME" : "XS",
+		"SORTINGNO" : 1,
+		"DISPLAY_NAME" : "XS"
+	},
+	{
+		"ID" : 77,
+		"BUYERID" : 8,
+		"SIZENAME" : "L",
+		"SORTINGNO" : 4,
+		"DISPLAY_NAME" : "L"
+	},
+	{
+		"ID" : 82,
+		"BUYERID" : 3,
+		"SIZENAME" : "36",
+		"SORTINGNO" : 8,
+		"DISPLAY_NAME" : "36"
+	},
+	{
+		"ID" : 83,
+		"BUYERID" : 3,
+		"SIZENAME" : "38",
+		"SORTINGNO" : 9,
+		"DISPLAY_NAME" : "38"
+	},
+	{
+		"ID" : 86,
+		"BUYERID" : 3,
+		"SIZENAME" : "44",
+		"SORTINGNO" : 12,
+		"DISPLAY_NAME" : "44"
+	},
+	{
+		"ID" : 92,
+		"BUYERID" : 21,
+		"SIZENAME" : "S",
+		"SORTINGNO" : 3,
+		"DISPLAY_NAME" : "S"
+	},
+	{
+		"ID" : 97,
+		"BUYERID" : 21,
+		"SIZENAME" : "3XL",
+		"SORTINGNO" : 8,
+		"DISPLAY_NAME" : "3XL"
+	},
+	{
+		"ID" : 101,
+		"BUYERID" : 5,
+		"SIZENAME" : "116 (98-140)",
+		"SORTINGNO" : 29,
+		"DISPLAY_NAME" : "116 (98-140)"
+	},
+	{
+		"ID" : 107,
+		"BUYERID" : 3,
+		"SIZENAME" : "M ",
+		"SORTINGNO" : 18,
+		"DISPLAY_NAME" : "M "
+	},
+	{
+		"ID" : 109,
+		"BUYERID" : 3,
+		"SIZENAME" : "XL",
+		"SORTINGNO" : 20,
+		"DISPLAY_NAME" : "XL"
+	},
+	{
+		"ID" : 112,
+		"BUYERID" : 10,
+		"SIZENAME" : "3-4",
+		"SORTINGNO" : 2,
+		"DISPLAY_NAME" : "3-4"
+	},
+	{
+		"ID" : 117,
+		"BUYERID" : 15,
+		"SIZENAME" : "M",
+		"SORTINGNO" : 4,
+		"DISPLAY_NAME" : "M"
+	},
+	{
+		"ID" : 120,
+		"BUYERID" : 15,
+		"SIZENAME" : "XXL",
+		"SORTINGNO" : 7,
+		"DISPLAY_NAME" : "XXL"
+	},
+	{
+		"ID" : 124,
+		"BUYERID" : 5,
+		"SIZENAME" : "128",
+		"SORTINGNO" : 36,
+		"DISPLAY_NAME" : "128"
+	},
+	{
+		"ID" : 127,
+		"BUYERID" : 5,
+		"SIZENAME" : "146",
+		"SORTINGNO" : 39,
+		"DISPLAY_NAME" : "146"
+	},
+	{
+		"ID" : 130,
+		"BUYERID" : 5,
+		"SIZENAME" : "164",
+		"SORTINGNO" : 42,
+		"DISPLAY_NAME" : "164"
+	},
+	{
+		"ID" : 131,
+		"BUYERID" : 5,
+		"SIZENAME" : "170",
+		"SORTINGNO" : 43,
+		"DISPLAY_NAME" : "170"
+	},
+	{
+		"ID" : 132,
+		"BUYERID" : 5,
+		"SIZENAME" : "80",
+		"SORTINGNO" : 102,
+		"DISPLAY_NAME" : "80"
+	},
+	{
+		"ID" : 137,
+		"BUYERID" : 5,
+		"SIZENAME" : "110",
+		"SORTINGNO" : 107,
+		"DISPLAY_NAME" : "110"
+	},
+	{
+		"ID" : 161,
+		"BUYERID" : 20,
+		"SIZENAME" : "10-11",
+		"SORTINGNO" : 107,
+		"DISPLAY_NAME" : "10-11"
+	},
+	{
+		"ID" : 141,
+		"BUYERID" : 22,
+		"SIZENAME" : "128",
+		"SORTINGNO" : 1,
+		"DISPLAY_NAME" : "128"
+	},
+	{
+		"ID" : 144,
+		"BUYERID" : 20,
+		"SIZENAME" : "XXS",
+		"SORTINGNO" : 3,
+		"DISPLAY_NAME" : "XXS"
+	},
+	{
+		"ID" : 150,
+		"BUYERID" : 20,
+		"SIZENAME" : "XXL",
+		"SORTINGNO" : 9,
+		"DISPLAY_NAME" : "XXL"
+	},
+	{
+		"ID" : 164,
+		"BUYERID" : 22,
+		"SIZENAME" : "134",
+		"SORTINGNO" : 2,
+		"DISPLAY_NAME" : "134"
+	},
+	{
+		"ID" : 167,
+		"BUYERID" : 2,
+		"SIZENAME" : "2-3",
+		"SORTINGNO" : 8,
+		"DISPLAY_NAME" : "2-3"
+	},
+	{
+		"ID" : 169,
+		"BUYERID" : 4,
+		"SIZENAME" : "1.5\/2",
+		"SORTINGNO" : 1,
+		"DISPLAY_NAME" : "1.5\/2"
+	},
+	{
+		"ID" : 173,
+		"BUYERID" : 4,
+		"SIZENAME" : "5\/6",
+		"SORTINGNO" : 13,
+		"DISPLAY_NAME" : "5\/6"
+	},
+	{
+		"ID" : 182,
+		"BUYERID" : 7,
+		"SIZENAME" : "M",
+		"SORTINGNO" : 3,
+		"DISPLAY_NAME" : "M"
+	},
+	{
+		"ID" : 190,
+		"BUYERID" : 10,
+		"SIZENAME" : "XL",
+		"SORTINGNO" : 11,
+		"DISPLAY_NAME" : "XL"
+	},
+	{
+		"ID" : 191,
+		"BUYERID" : 10,
+		"SIZENAME" : "XXL",
+		"SORTINGNO" : 12,
+		"DISPLAY_NAME" : "XXL"
+	},
+	{
+		"ID" : 196,
+		"BUYERID" : 22,
+		"SIZENAME" : "ALL SIZE",
+		"SORTINGNO" : 0,
+		"DISPLAY_NAME" : null
+	},
+	{
+		"ID" : 1,
+		"BUYERID" : 2,
+		"SIZENAME" : "XS",
+		"SORTINGNO" : 1,
+		"DISPLAY_NAME" : "XS"
+	},
+	{
+		"ID" : 3,
+		"BUYERID" : 2,
+		"SIZENAME" : "M",
+		"SORTINGNO" : 3,
+		"DISPLAY_NAME" : "M"
+	},
+	{
+		"ID" : 9,
+		"BUYERID" : 1,
+		"SIZENAME" : "S",
+		"SORTINGNO" : 3,
+		"DISPLAY_NAME" : "S"
+	},
+	{
+		"ID" : 20,
+		"BUYERID" : 10,
+		"SIZENAME" : "5-6",
+		"SORTINGNO" : 4,
+		"DISPLAY_NAME" : "5-6"
+	},
+	{
+		"ID" : 22,
+		"BUYERID" : 10,
+		"SIZENAME" : "6-7",
+		"SORTINGNO" : 5,
+		"DISPLAY_NAME" : "6-7"
+	},
+	{
+		"ID" : 24,
+		"BUYERID" : 10,
+		"SIZENAME" : "XS",
+		"SORTINGNO" : 7,
+		"DISPLAY_NAME" : "XS"
+	},
+	{
+		"ID" : 25,
+		"BUYERID" : 10,
+		"SIZENAME" : "S",
+		"SORTINGNO" : 8,
+		"DISPLAY_NAME" : "S"
+	},
+	{
+		"ID" : 28,
+		"BUYERID" : 5,
+		"SIZENAME" : "U11-(110\/116)",
+		"SORTINGNO" : 19,
+		"DISPLAY_NAME" : "U11-(110\/116)"
+	},
+	{
+		"ID" : 34,
+		"BUYERID" : 5,
+		"SIZENAME" : "U12-(122\/128)",
+		"SORTINGNO" : 20,
+		"DISPLAY_NAME" : "U12-(122\/128)"
+	},
+	{
+		"ID" : 36,
+		"BUYERID" : 9,
+		"SIZENAME" : "S",
+		"SORTINGNO" : 2,
+		"DISPLAY_NAME" : "S"
+	},
+	{
+		"ID" : 43,
+		"BUYERID" : 5,
+		"SIZENAME" : "U15-(158\/164)",
+		"SORTINGNO" : 23,
+		"DISPLAY_NAME" : "U15-(158\/164)"
+	},
+	{
+		"ID" : 46,
+		"BUYERID" : 5,
+		"SIZENAME" : "XXXXL",
+		"SORTINGNO" : 12,
+		"DISPLAY_NAME" : "XXXXL"
+	},
+	{
+		"ID" : 50,
+		"BUYERID" : 18,
+		"SIZENAME" : "3\/4",
+		"SORTINGNO" : 25,
+		"DISPLAY_NAME" : "3\/4"
+	},
+	{
+		"ID" : 52,
+		"BUYERID" : 18,
+		"SIZENAME" : "5\/6",
+		"SORTINGNO" : 27,
+		"DISPLAY_NAME" : "5\/6"
+	},
+	{
+		"ID" : 54,
+		"BUYERID" : 4,
+		"SIZENAME" : "8\/9",
+		"SORTINGNO" : 2,
+		"DISPLAY_NAME" : "8\/9"
+	},
+	{
+		"ID" : 57,
+		"BUYERID" : 4,
+		"SIZENAME" : "11\/12",
+		"SORTINGNO" : 5,
+		"DISPLAY_NAME" : "11\/12"
+	},
+	{
+		"ID" : 65,
+		"BUYERID" : 9,
+		"SIZENAME" : "XXL",
+		"SORTINGNO" : 6,
+		"DISPLAY_NAME" : "XXL"
+	},
+	{
+		"ID" : 70,
+		"BUYERID" : 24,
+		"SIZENAME" : "XL",
+		"SORTINGNO" : 5,
+		"DISPLAY_NAME" : "XL"
+	},
+	{
+		"ID" : 72,
+		"BUYERID" : 24,
+		"SIZENAME" : "XXXL",
+		"SORTINGNO" : 7,
+		"DISPLAY_NAME" : "XXXL"
+	},
+	{
+		"ID" : 75,
+		"BUYERID" : 8,
+		"SIZENAME" : "S",
+		"SORTINGNO" : 2,
+		"DISPLAY_NAME" : "S"
+	},
+	{
+		"ID" : 87,
+		"BUYERID" : 3,
+		"SIZENAME" : "46",
+		"SORTINGNO" : 13,
+		"DISPLAY_NAME" : "46"
+	},
+	{
+		"ID" : 93,
+		"BUYERID" : 21,
+		"SIZENAME" : "M",
+		"SORTINGNO" : 4,
+		"DISPLAY_NAME" : "M"
+	},
+	{
+		"ID" : 94,
+		"BUYERID" : 21,
+		"SIZENAME" : "L",
+		"SORTINGNO" : 5,
+		"DISPLAY_NAME" : "L"
+	},
+	{
+		"ID" : 96,
+		"BUYERID" : 21,
+		"SIZENAME" : "2XL",
+		"SORTINGNO" : 7,
+		"DISPLAY_NAME" : "2XL"
+	},
+	{
+		"ID" : 99,
+		"BUYERID" : 5,
+		"SIZENAME" : "104 (98-140)",
+		"SORTINGNO" : 27,
+		"DISPLAY_NAME" : "104 (98-140)"
+	},
+	{
+		"ID" : 113,
+		"BUYERID" : 10,
+		"SIZENAME" : "4-5",
+		"SORTINGNO" : 3,
+		"DISPLAY_NAME" : "4-6"
+	},
+	{
+		"ID" : 114,
+		"BUYERID" : 15,
+		"SIZENAME" : "XXS",
+		"SORTINGNO" : 1,
+		"DISPLAY_NAME" : "XXS"
+	},
+	{
+		"ID" : 118,
+		"BUYERID" : 15,
+		"SIZENAME" : "L",
+		"SORTINGNO" : 5,
+		"DISPLAY_NAME" : "L"
+	},
+	{
+		"ID" : 122,
+		"BUYERID" : 5,
+		"SIZENAME" : "116",
+		"SORTINGNO" : 34,
+		"DISPLAY_NAME" : "116"
+	},
+	{
+		"ID" : 125,
+		"BUYERID" : 5,
+		"SIZENAME" : "134",
+		"SORTINGNO" : 37,
+		"DISPLAY_NAME" : "134"
+	},
+	{
+		"ID" : 128,
+		"BUYERID" : 5,
+		"SIZENAME" : "152",
+		"SORTINGNO" : 40,
+		"DISPLAY_NAME" : "152"
+	},
+	{
+		"ID" : 142,
+		"BUYERID" : 20,
+		"SIZENAME" : "NT",
+		"SORTINGNO" : 1,
+		"DISPLAY_NAME" : "NT"
+	},
+	{
+		"ID" : 146,
+		"BUYERID" : 20,
+		"SIZENAME" : "S",
+		"SORTINGNO" : 5,
+		"DISPLAY_NAME" : "S"
+	},
+	{
+		"ID" : 162,
+		"BUYERID" : 20,
+		"SIZENAME" : "12-13",
+		"SORTINGNO" : 108,
+		"DISPLAY_NAME" : "12-13"
+	},
+	{
+		"ID" : 168,
+		"BUYERID" : 20,
+		"SIZENAME" : "2-3",
+		"SORTINGNO" : 102,
+		"DISPLAY_NAME" : "2-3"
+	},
+	{
+		"ID" : 178,
+		"BUYERID" : 17,
+		"SIZENAME" : "150cl",
+		"SORTINGNO" : 4,
+		"DISPLAY_NAME" : "150cl"
+	},
+	{
+		"ID" : 185,
+		"BUYERID" : 7,
+		"SIZENAME" : "XXL",
+		"SORTINGNO" : 6,
+		"DISPLAY_NAME" : "XXL"
+	},
+	{
+		"ID" : 187,
+		"BUYERID" : 5,
+		"SIZENAME" : "74",
+		"SORTINGNO" : 101,
+		"DISPLAY_NAME" : "74"
+	},
+	{
+		"ID" : 193,
+		"BUYERID" : 22,
+		"SIZENAME" : "152",
+		"SORTINGNO" : 5,
+		"DISPLAY_NAME" : "152"
+	},
+	{
+		"ID" : 2,
+		"BUYERID" : 2,
+		"SIZENAME" : "S",
+		"SORTINGNO" : 2,
+		"DISPLAY_NAME" : "S"
+	},
+	{
+		"ID" : 5,
+		"BUYERID" : 2,
+		"SIZENAME" : "XL",
+		"SORTINGNO" : 5,
+		"DISPLAY_NAME" : "XL"
+	},
+	{
+		"ID" : 6,
+		"BUYERID" : 2,
+		"SIZENAME" : "XXL",
+		"SORTINGNO" : 6,
+		"DISPLAY_NAME" : "XXL"
+	},
+	{
+		"ID" : 7,
+		"BUYERID" : 2,
+		"SIZENAME" : "XXXL",
+		"SORTINGNO" : 7,
+		"DISPLAY_NAME" : "XXXL"
+	},
+	{
+		"ID" : 8,
+		"BUYERID" : 1,
+		"SIZENAME" : "XS",
+		"SORTINGNO" : 2,
+		"DISPLAY_NAME" : "XS"
+	},
+	{
+		"ID" : 10,
+		"BUYERID" : 1,
+		"SIZENAME" : "M",
+		"SORTINGNO" : 4,
+		"DISPLAY_NAME" : "M"
+	},
+	{
+		"ID" : 11,
+		"BUYERID" : 1,
+		"SIZENAME" : "L",
+		"SORTINGNO" : 5,
+		"DISPLAY_NAME" : "L"
+	},
+	{
+		"ID" : 13,
+		"BUYERID" : 1,
+		"SIZENAME" : "XXL",
+		"SORTINGNO" : 7,
+		"DISPLAY_NAME" : "XXL"
+	},
+	{
+		"ID" : 21,
+		"BUYERID" : 1,
+		"SIZENAME" : "XXS",
+		"SORTINGNO" : 1,
+		"DISPLAY_NAME" : "XXS"
+	},
+	{
+		"ID" : 23,
+		"BUYERID" : 10,
+		"SIZENAME" : "7-8",
+		"SORTINGNO" : 6,
+		"DISPLAY_NAME" : "7-8"
+	},
+	{
+		"ID" : 27,
+		"BUYERID" : 5,
+		"SIZENAME" : "4XL",
+		"SORTINGNO" : 9,
+		"DISPLAY_NAME" : "4XL"
+	},
+	{
+		"ID" : 33,
+		"BUYERID" : 5,
+		"SIZENAME" : "2XL",
+		"SORTINGNO" : 7,
+		"DISPLAY_NAME" : "2XL"
+	},
+	{
+		"ID" : 35,
+		"BUYERID" : 9,
+		"SIZENAME" : "XS",
+		"SORTINGNO" : 1,
+		"DISPLAY_NAME" : "XS"
+	},
+	{
+		"ID" : 37,
+		"BUYERID" : 9,
+		"SIZENAME" : "M",
+		"SORTINGNO" : 3,
+		"DISPLAY_NAME" : "M"
+	},
+	{
+		"ID" : 49,
+		"BUYERID" : 18,
+		"SIZENAME" : "24\/36M",
+		"SORTINGNO" : 24,
+		"DISPLAY_NAME" : "24\/36M"
+	},
+	{
+		"ID" : 62,
+		"BUYERID" : 3,
+		"SIZENAME" : "134\/140",
+		"SORTINGNO" : 5,
+		"DISPLAY_NAME" : null
+	},
+	{
+		"ID" : 67,
+		"BUYERID" : 24,
+		"SIZENAME" : "S",
+		"SORTINGNO" : 2,
+		"DISPLAY_NAME" : "S"
+	},
+	{
+		"ID" : 68,
+		"BUYERID" : 24,
+		"SIZENAME" : "M",
+		"SORTINGNO" : 3,
+		"DISPLAY_NAME" : "M"
+	},
+	{
+		"ID" : 69,
+		"BUYERID" : 24,
+		"SIZENAME" : "L",
+		"SORTINGNO" : 4,
+		"DISPLAY_NAME" : "L"
+	},
+	{
+		"ID" : 73,
+		"BUYERID" : 3,
+		"SIZENAME" : "92",
+		"SORTINGNO" : 0,
+		"DISPLAY_NAME" : "92"
+	},
+	{
+		"ID" : 76,
+		"BUYERID" : 8,
+		"SIZENAME" : "M",
+		"SORTINGNO" : 3,
+		"DISPLAY_NAME" : "M"
+	},
+	{
+		"ID" : 79,
+		"BUYERID" : 8,
+		"SIZENAME" : "XXL",
+		"SORTINGNO" : 6,
+		"DISPLAY_NAME" : "XXL"
+	},
+	{
+		"ID" : 80,
+		"BUYERID" : 8,
+		"SIZENAME" : "XXXL",
+		"SORTINGNO" : 7,
+		"DISPLAY_NAME" : "XXXL"
+	},
+	{
+		"ID" : 84,
+		"BUYERID" : 3,
+		"SIZENAME" : "40",
+		"SORTINGNO" : 10,
+		"DISPLAY_NAME" : "40"
+	},
+	{
+		"ID" : 88,
+		"BUYERID" : 3,
+		"SIZENAME" : "48",
+		"SORTINGNO" : 14,
+		"DISPLAY_NAME" : "48"
+	},
+	{
+		"ID" : 91,
+		"BUYERID" : 21,
+		"SIZENAME" : "XS",
+		"SORTINGNO" : 2,
+		"DISPLAY_NAME" : "XS"
+	},
+	{
+		"ID" : 95,
+		"BUYERID" : 21,
+		"SIZENAME" : "XL",
+		"SORTINGNO" : 6,
+		"DISPLAY_NAME" : "XL"
+	},
+	{
+		"ID" : 105,
+		"BUYERID" : 5,
+		"SIZENAME" : "140 (98-140)",
+		"SORTINGNO" : 33,
+		"DISPLAY_NAME" : "140 (98-140)"
+	},
+	{
+		"ID" : 111,
+		"BUYERID" : 10,
+		"SIZENAME" : "2-3",
+		"SORTINGNO" : 1,
+		"DISPLAY_NAME" : "2-3"
+	},
+	{
+		"ID" : 126,
+		"BUYERID" : 5,
+		"SIZENAME" : "140",
+		"SORTINGNO" : 38,
+		"DISPLAY_NAME" : "140"
+	},
+	{
+		"ID" : 129,
+		"BUYERID" : 5,
+		"SIZENAME" : "158",
+		"SORTINGNO" : 41,
+		"DISPLAY_NAME" : "158"
+	},
+	{
+		"ID" : 135,
+		"BUYERID" : 5,
+		"SIZENAME" : "98",
+		"SORTINGNO" : 105,
+		"DISPLAY_NAME" : "98"
+	},
+	{
+		"ID" : 149,
+		"BUYERID" : 20,
+		"SIZENAME" : "XL",
+		"SORTINGNO" : 8,
+		"DISPLAY_NAME" : "XL"
+	},
+	{
+		"ID" : 154,
+		"BUYERID" : 20,
+		"SIZENAME" : "4XL",
+		"SORTINGNO" : 13,
+		"DISPLAY_NAME" : "4XL"
+	},
+	{
+		"ID" : 156,
+		"BUYERID" : 20,
+		"SIZENAME" : "1-2",
+		"SORTINGNO" : 101,
+		"DISPLAY_NAME" : "1-2"
+	},
+	{
+		"ID" : 160,
+		"BUYERID" : 20,
+		"SIZENAME" : "8-9",
+		"SORTINGNO" : 106,
+		"DISPLAY_NAME" : "8-9"
+	},
+	{
+		"ID" : 163,
+		"BUYERID" : 20,
+		"SIZENAME" : "14",
+		"SORTINGNO" : 109,
+		"DISPLAY_NAME" : "14"
+	},
+	{
+		"ID" : 171,
+		"BUYERID" : 4,
+		"SIZENAME" : "2\/3",
+		"SORTINGNO" : 11,
+		"DISPLAY_NAME" : "2\/3"
+	},
+	{
+		"ID" : 181,
+		"BUYERID" : 7,
+		"SIZENAME" : "S",
+		"SORTINGNO" : 2,
+		"DISPLAY_NAME" : "S"
+	},
+	{
+		"ID" : 184,
+		"BUYERID" : 7,
+		"SIZENAME" : "XL",
+		"SORTINGNO" : 5,
+		"DISPLAY_NAME" : "XL"
+	},
+	{
+		"ID" : 188,
+		"BUYERID" : 10,
+		"SIZENAME" : "M",
+		"SORTINGNO" : 9,
+		"DISPLAY_NAME" : "M"
+	},
+	{
+		"ID" : 192,
+		"BUYERID" : 1,
+		"SIZENAME" : "ALL SIZE",
+		"SORTINGNO" : 0,
+		"DISPLAY_NAME" : null
+	},
+	{
+		"ID" : 194,
+		"BUYERID" : 22,
+		"SIZENAME" : "158",
+		"SORTINGNO" : 6,
+		"DISPLAY_NAME" : "158"
+	}
+]

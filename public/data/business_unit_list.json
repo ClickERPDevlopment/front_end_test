@@ -1,0 +1,51 @@
+[
+	{
+		"baNo" : 5,
+		"baNoParent" : 0,
+		"baName" : "PRINTING",
+		"isActive" : 1,
+		"companyNo" : 3
+	},
+	{
+		"baNo" : 1,
+		"baNoParent" : 0,
+		"baName" : "GARMENTS",
+		"isActive" : 1,
+		"companyNo" : 1
+	},
+	{
+		"baNo" : 6,
+		"baNoParent" : 0,
+		"baName" : "EMBROIDERY",
+		"isActive" : 1,
+		"companyNo" : 3
+	},
+	{
+		"baNo" : 4,
+		"baNoParent" : 0,
+		"baName" : "COMMON",
+		"isActive" : 1,
+		"companyNo" : 1
+	},
+	{
+		"baNo" : 7,
+		"baNoParent" : 0,
+		"baName" : "PRINT-EMBROIDERY",
+		"isActive" : 1,
+		"companyNo" : 3
+	},
+	{
+		"baNo" : 2,
+		"baNoParent" : 0,
+		"baName" : "KNITTING",
+		"isActive" : 1,
+		"companyNo" : 1
+	},
+	{
+		"baNo" : 3,
+		"baNoParent" : 0,
+		"baName" : "DYEING",
+		"isActive" : 1,
+		"companyNo" : 1
+	}
+]

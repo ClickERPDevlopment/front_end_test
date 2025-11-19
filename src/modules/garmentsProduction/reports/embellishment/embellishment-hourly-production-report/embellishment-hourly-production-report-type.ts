@@ -1,0 +1,24 @@
+export type EmbellishmentHourlyProductionReportType = {
+  ID: number;
+  TYPE?: string;
+  PRODUCTION_HOUR_ID: number;
+  PRODUCTION_HOUR?: string;
+  SHIFT?: string;
+  WORKSTATION?: string;
+  OPERATION?: string;
+  FLOOR?: string;
+  WORK_ORDER_NO?: string;
+  BUYER?: string;
+  STYLE?: string;
+  COLOR?: string;
+  SIZENAME?: string;
+  PO_NO?: string;
+  WIP: number;
+  PARTS?: string;
+  OS_BUYER?: string;
+  OS_STYLE?: string;
+  OS_PO_NO?: string;
+  SUPPLIER?: string;
+  QC_PASSED_QTY: number;
+  PRODUCTION_DATE: string;
+};

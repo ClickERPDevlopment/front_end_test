@@ -1,0 +1,37 @@
+export type YarnIssueForTwistingType = {
+    ID: number;
+    COMPANY_ID: number;
+    COMPANY_NAME: string;
+    PREFIX: string;
+    ADDRESS: string;
+    CONTACT: string;
+    EMAIL: string;
+    WEB: string;
+    REMARKS: string;
+    AG_WO_NO: string;
+    PREPARED_BY: string;
+    CHALLAN_NO: string;
+    CHALLAN_DATE: string;
+    PARTY_ID: string;
+    PARTY: string;
+    PARTY_ADDRESS: string;
+    BBLC_NO: string;
+    YARN_BRAND_ID: number;
+    YARN_BRAND: string;
+    YARN_LOT_ID: number;
+    YARN_LOT_NUMBER: string;
+    YARN_ID: number;
+    YARN: string;
+    PER_CTN_QTY: number;
+    CARTON_QTY: number;
+    QUANTITY: number;
+    STATUS: string;
+    UOM: string;
+    YARN_DYEING_COLOR: string;
+    BUYER_CODE: string;
+    GROUP_COMPANY_NAME: string;
+    GROUP_COMPANY_ADDRESS: string;
+    CONE_QTY: number;
+    STYLE_NO: string;
+    PONO: string;
+}

@@ -1,0 +1,426 @@
+[
+    {
+		"id" : 1,
+		"applyName" : "Weight",
+		"name" : "KG",
+		"shortName" : "KG",
+		"defaultUom" : "1",
+		"convertRate" : 1
+	},
+	{
+		"id" : 2,
+		"applyName" : "Weight",
+		"name" : "gm",
+		"shortName" : "gm",
+		"defaultUom" : "0",
+		"convertRate" : 1000
+	},
+	{
+		"id" : 3,
+		"applyName" : "Weight",
+		"name" : "TON",
+		"shortName" : "TON",
+		"defaultUom" : "0",
+		"convertRate" : 0.001
+	},
+	{
+		"id" : 4,
+		"applyName" : "Weight",
+		"name" : "LBS",
+		"shortName" : "LBS",
+		"defaultUom" : "0",
+		"convertRate" : 2.20462
+	},
+	{
+		"id" : 5,
+		"applyName" : "Weight",
+		"name" : "OZ",
+		"shortName" : "OZ",
+		"defaultUom" : "0",
+		"convertRate" : 35.27
+	},
+	{
+		"id" : 6,
+		"applyName" : "Volume",
+		"name" : "CBM",
+		"shortName" : "m³",
+		"defaultUom" : "1",
+		"convertRate" : 1
+	},
+	{
+		"id" : 7,
+		"applyName" : "Volume",
+		"name" : "CBIN",
+		"shortName" : "In³",
+		"defaultUom" : "0",
+		"convertRate" : 61023.7
+	},
+	{
+		"id" : 8,
+		"applyName" : "Volume",
+		"name" : "CFT",
+		"shortName" : "ft³",
+		"defaultUom" : "0",
+		"convertRate" : 35.3147
+	},
+	{
+		"id" : 9,
+		"applyName" : "Volume",
+		"name" : "CBCM",
+		"shortName" : "cm³",
+		"defaultUom" : "0",
+		"convertRate" : 1000000
+	},
+	{
+		"id" : 10,
+		"applyName" : "Volume",
+		"name" : "Liter (l)",
+		"shortName" : "l",
+		"defaultUom" : "0",
+		"convertRate" : 1000
+	},
+	{
+		"id" : 11,
+		"applyName" : "Length",
+		"name" : "Meter",
+		"shortName" : "m",
+		"defaultUom" : "0",
+		"convertRate" : 0.0254
+	},
+	{
+		"id" : 12,
+		"applyName" : "Length",
+		"name" : "Inch",
+		"shortName" : "in",
+		"defaultUom" : "1",
+		"convertRate" : 1
+	},
+	{
+		"id" : 13,
+		"applyName" : "Length",
+		"name" : "CM",
+		"shortName" : "CM",
+		"defaultUom" : "0",
+		"convertRate" : 2.54
+	},
+	{
+		"id" : 14,
+		"applyName" : "Length",
+		"name" : "Yard",
+		"shortName" : "YD",
+		"defaultUom" : "0",
+		"convertRate" : 0.0277778
+	},
+	{
+		"id" : 15,
+		"applyName" : "Length",
+		"name" : "Foot",
+		"shortName" : "ft",
+		"defaultUom" : "0",
+		"convertRate" : 0.0833333
+	},
+	{
+		"id" : 16,
+		"applyName" : "Common",
+		"name" : "Cartons",
+		"shortName" : "Ctns",
+		"defaultUom" : "0",
+		"convertRate" : 1
+	},
+	{
+		"id" : 17,
+		"applyName" : "Length",
+		"name" : "Milimeter",
+		"shortName" : "mm",
+		"defaultUom" : "0",
+		"convertRate" : 25.4
+	},
+	{
+		"id" : 18,
+		"applyName" : "Common",
+		"name" : "FEET",
+		"shortName" : "FEET",
+		"defaultUom" : "0",
+		"convertRate" : 0.833333
+	},
+	{
+		"id" : 19,
+		"applyName" : "Common",
+		"name" : "BOX",
+		"shortName" : "BOX",
+		"defaultUom" : "0",
+		"convertRate" : 1
+	},
+	{
+		"id" : 20,
+		"applyName" : "Common",
+		"name" : "LTR",
+		"shortName" : "LTR",
+		"defaultUom" : "0",
+		"convertRate" : 1
+	},
+	{
+		"id" : 21,
+		"applyName" : "Common",
+		"name" : "DOZ",
+		"shortName" : "DOZ",
+		"defaultUom" : "0",
+		"convertRate" : 0.083333
+	},
+	{
+		"id" : 22,
+		"applyName" : "Common",
+		"name" : "COIL",
+		"shortName" : "COIL",
+		"defaultUom" : "0",
+		"convertRate" : 1
+	},
+	{
+		"id" : 23,
+		"applyName" : "Common",
+		"name" : "CAN",
+		"shortName" : "CAN",
+		"defaultUom" : "0",
+		"convertRate" : 1
+	},
+	{
+		"id" : 24,
+		"applyName" : "Pieces",
+		"name" : "PCS",
+		"shortName" : "PCS",
+		"defaultUom" : "1",
+		"convertRate" : 1
+	},
+	{
+		"id" : 25,
+		"applyName" : "Common",
+		"name" : "PKT",
+		"shortName" : "PKT",
+		"defaultUom" : "1",
+		"convertRate" : 1
+	},
+	{
+		"id" : 26,
+		"applyName" : "Common",
+		"name" : "ROLL",
+		"shortName" : "ROLL",
+		"defaultUom" : "0",
+		"convertRate" : 1
+	},
+	{
+		"id" : 27,
+		"applyName" : "Volume",
+		"name" : "ml",
+		"shortName" : "ml",
+		"defaultUom" : "0",
+		"convertRate" : 1000000
+	},
+	{
+		"id" : 28,
+		"applyName" : "Common",
+		"name" : "REAM",
+		"shortName" : "REAM",
+		"defaultUom" : "0",
+		"convertRate" : 1
+	},
+	{
+		"id" : 29,
+		"applyName" : "Common",
+		"name" : "SET",
+		"shortName" : "SET",
+		"defaultUom" : "0",
+		"convertRate" : 1
+	},
+	{
+		"id" : 30,
+		"applyName" : "Common",
+		"name" : "PAIR",
+		"shortName" : "PAIR",
+		"defaultUom" : "0",
+		"convertRate" : 1
+	},
+	{
+		"id" : 31,
+		"applyName" : "Common",
+		"name" : "PAC",
+		"shortName" : "PAC",
+		"defaultUom" : "0",
+		"convertRate" : 1
+	},
+	{
+		"id" : 32,
+		"applyName" : "Length",
+		"name" : "RFT",
+		"shortName" : "RFT",
+		"defaultUom" : "0",
+		"convertRate" : 1
+	},
+	{
+		"id" : 33,
+		"applyName" : "Common",
+		"name" : "BOTTLE",
+		"shortName" : "BOTTLE",
+		"defaultUom" : "0",
+		"convertRate" : 1
+	},
+	{
+		"id" : 34,
+		"applyName" : "Common",
+		"name" : "YDS",
+		"shortName" : "YDS",
+		"defaultUom" : "0",
+		"convertRate" : 0.2777
+	},
+	{
+		"id" : 35,
+		"applyName" : "Common",
+		"name" : "BOTTOL",
+		"shortName" : "BOTTOL",
+		"defaultUom" : "0",
+		"convertRate" : 1
+	},
+	{
+		"id" : 36,
+		"applyName" : "Common",
+		"name" : "CON",
+		"shortName" : "CON",
+		"defaultUom" : "0",
+		"convertRate" : 1
+	},
+	{
+		"id" : 37,
+		"applyName" : "Common",
+		"name" : "BAG",
+		"shortName" : "BAG",
+		"defaultUom" : "0",
+		"convertRate" : 1
+	},
+	{
+		"id" : 38,
+		"applyName" : "Area",
+		"name" : "SQFT",
+		"shortName" : "SQFT",
+		"defaultUom" : "1",
+		"convertRate" : 1
+	},
+	{
+		"id" : 39,
+		"applyName" : "Common",
+		"name" : "GALLON",
+		"shortName" : "GALLON",
+		"defaultUom" : "0",
+		"convertRate" : 0.264172
+	},
+	{
+		"id" : 40,
+		"applyName" : "Pieces",
+		"name" : "GG",
+		"shortName" : "GG",
+		"defaultUom" : "0",
+		"convertRate" : 0.00069444
+	},
+	{
+		"id" : 41,
+		"applyName" : "Pieces",
+		"name" : "DISTA",
+		"shortName" : "DISTA",
+		"defaultUom" : "0",
+		"convertRate" : 12
+	},
+	{
+		"id" : 42,
+		"applyName" : "Area",
+		"name" : "SQI",
+		"shortName" : "SQI",
+		"defaultUom" : "0",
+		"convertRate" : 144
+	},
+	{
+		"id" : 43,
+		"applyName" : "Common",
+		"name" : "JOB",
+		"shortName" : "JOB",
+		"defaultUom" : "1",
+		"convertRate" : 1
+	},
+	{
+		"id" : 44,
+		"applyName" : "Common",
+		"name" : "LOT",
+		"shortName" : "LOT",
+		"defaultUom" : "1",
+		"convertRate" : 1
+	},
+	{
+		"id" : 45,
+		"applyName" : "Common",
+		"name" : "BOOK",
+		"shortName" : "BOOK",
+		"defaultUom" : "1",
+		"convertRate" : 1
+	},
+	{
+		"id" : 46,
+		"applyName" : "Pieces",
+		"name" : "Gross",
+		"shortName" : "Gross",
+		"defaultUom" : "0",
+		"convertRate" : 0.00694444
+	},
+	{
+		"id" : 47,
+		"applyName" : "Volume",
+		"name" : "M³",
+		"shortName" : "M³",
+		"defaultUom" : "1",
+		"convertRate" : 1
+	},
+	{
+		"id" : 48,
+		"applyName" : "Weight",
+		"name" : "POUND",
+		"shortName" : "POUND",
+		"defaultUom" : "0",
+		"convertRate" : 2.205
+	},
+	{
+		"id" : 49,
+		"applyName" : "Common",
+		"name" : "BUNDLE",
+		"shortName" : "BUNDLE",
+		"defaultUom" : "1",
+		"convertRate" : 1
+	},
+	{
+		"id" : 50,
+		"applyName" : "Common",
+		"name" : "NOS",
+		"shortName" : "NOS",
+		"defaultUom" : "1",
+		"convertRate" : 1
+	},
+	{
+		"id" : 51,
+		"applyName" : "Volume",
+		"name" : "M3",
+		"shortName" : "m3",
+		"defaultUom" : "1",
+		"convertRate" : 1
+	},
+	{
+		"id" : 52,
+		"applyName" : "Common",
+		"name" : "POLY",
+		"shortName" : "POLY",
+		"defaultUom" : "1",
+		"convertRate" : 1
+	},
+	{
+		"id" : 53,
+		"applyName" : "Common",
+		"name" : "DRUM",
+		"shortName" : "DRUM",
+		"defaultUom" : "1",
+		"convertRate" : 1
+	}
+]

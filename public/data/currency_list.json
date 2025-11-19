@@ -1,0 +1,34 @@
+[
+	{
+		"id" : 1,
+		"currencyName" : "Bangladesh Taka",
+		"currencyCode" : "BDT",
+		"rate" : 1,
+		"symbol" : "৳",
+		"isDefault" : "1"
+	},
+	{
+		"id" : 2,
+		"currencyName" : "US Dollar",
+		"currencyCode" : "USD",
+		"rate" : 121,
+		"symbol" : "$",
+		"isDefault" : "0"
+	},
+	{
+		"id" : 3,
+		"currencyName" : "Euro",
+		"currencyCode" : "EUR",
+		"rate" : 138.11,
+		"symbol" : "€",
+		"isDefault" : "0"
+	},
+	{
+		"id" : 4,
+		"currencyName" : "Pound Sterling",
+		"currencyCode" : "GBP",
+		"rate" : 162.66,
+		"symbol" : "£",
+		"isDefault" : "0"
+	}
+]

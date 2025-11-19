@@ -1,0 +1,1290 @@
+ [
+	{
+		"ID" : 78,
+		"BUYERID" : 24,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Gardenia (11-0604Tcx)",
+		"COLOR_DISPLAY_NAME" : "Gardenia (11-0604Tcx)"
+	},
+	{
+		"ID" : 79,
+		"BUYERID" : 24,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Parfait Pink (13-2804 Tcx)",
+		"COLOR_DISPLAY_NAME" : "Parfait Pink (13-2804 Tcx)"
+	},
+	{
+		"ID" : 80,
+		"BUYERID" : 3,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "GRAY MELANGE ",
+		"COLOR_DISPLAY_NAME" : "GRAY MELANGE "
+	},
+	{
+		"ID" : 81,
+		"BUYERID" : 3,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "BLACK IRIS ",
+		"COLOR_DISPLAY_NAME" : "BLACK IRIS "
+	},
+	{
+		"ID" : 82,
+		"BUYERID" : 3,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "BLACK ",
+		"COLOR_DISPLAY_NAME" : "BLACK "
+	},
+	{
+		"ID" : 102,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "09M LIGHT GREY",
+		"COLOR_DISPLAY_NAME" : "09M LIGHT GREY"
+	},
+	{
+		"ID" : 104,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "77X GREEN",
+		"COLOR_DISPLAY_NAME" : "77X GREEN"
+	},
+	{
+		"ID" : 108,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "04X LAVENDER",
+		"COLOR_DISPLAY_NAME" : "04X LAVENDER"
+	},
+	{
+		"ID" : 109,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "93X CABERNET",
+		"COLOR_DISPLAY_NAME" : "93X CABERNET"
+	},
+	{
+		"ID" : 136,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S078-GRIGIO",
+		"COLOR_DISPLAY_NAME" : "S078-GRIGIO"
+	},
+	{
+		"ID" : 153,
+		"BUYERID" : 4,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "WHITE ",
+		"COLOR_DISPLAY_NAME" : "WHITE"
+	},
+	{
+		"ID" : 14,
+		"BUYERID" : 10,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "BLACK",
+		"COLOR_DISPLAY_NAME" : "BLACK"
+	},
+	{
+		"ID" : 15,
+		"BUYERID" : 10,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "OFF WHITE",
+		"COLOR_DISPLAY_NAME" : "OFF WHITE"
+	},
+	{
+		"ID" : 16,
+		"BUYERID" : 10,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "LIGHT YELLOW",
+		"COLOR_DISPLAY_NAME" : "LIGHT YELLOW"
+	},
+	{
+		"ID" : 17,
+		"BUYERID" : 10,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "DARK BROWN",
+		"COLOR_DISPLAY_NAME" : "DARK BROWN"
+	},
+	{
+		"ID" : 19,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Light Gray melange ",
+		"COLOR_DISPLAY_NAME" : "Light Gray mel"
+	},
+	{
+		"ID" : 20,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Pirouette",
+		"COLOR_DISPLAY_NAME" : "Pirouette"
+	},
+	{
+		"ID" : 21,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Bracken",
+		"COLOR_DISPLAY_NAME" : "Bracken"
+	},
+	{
+		"ID" : 22,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Ombre Blue",
+		"COLOR_DISPLAY_NAME" : "Ombre Blue"
+	},
+	{
+		"ID" : 23,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Star White",
+		"COLOR_DISPLAY_NAME" : "Star White"
+	},
+	{
+		"ID" : 24,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Fig",
+		"COLOR_DISPLAY_NAME" : "Fig"
+	},
+	{
+		"ID" : 25,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Pine Grove",
+		"COLOR_DISPLAY_NAME" : "Pine Grove"
+	},
+	{
+		"ID" : 26,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Orig. Beige Melange ",
+		"COLOR_DISPLAY_NAME" : "Orig. Beige Melange "
+	},
+	{
+		"ID" : 27,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Zephyr",
+		"COLOR_DISPLAY_NAME" : "Zephyr"
+	},
+	{
+		"ID" : 28,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Pink Tulle ",
+		"COLOR_DISPLAY_NAME" : "Pink Tulle"
+	},
+	{
+		"ID" : 29,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Cherry Blossom",
+		"COLOR_DISPLAY_NAME" : "Cherry Blossom"
+	},
+	{
+		"ID" : 64,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "79X DARK GREEN",
+		"COLOR_DISPLAY_NAME" : "79X DARK GREEN"
+	},
+	{
+		"ID" : 68,
+		"BUYERID" : 4,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "NAVY ",
+		"COLOR_DISPLAY_NAME" : "NAVY "
+	},
+	{
+		"ID" : 69,
+		"BUYERID" : 24,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Egret (11-0103 TCX)",
+		"COLOR_DISPLAY_NAME" : "Egret (11-0103 TCX)"
+	},
+	{
+		"ID" : 70,
+		"BUYERID" : 24,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Pink Dogwood (12-1706 TCX)",
+		"COLOR_DISPLAY_NAME" : "Pink Dogwood (12-1706 TCX)"
+	},
+	{
+		"ID" : 116,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S097-MARRONE SCURO",
+		"COLOR_DISPLAY_NAME" : "S097-MARRONE SCURO"
+	},
+	{
+		"ID" : 117,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S366-ROSA ANTICO",
+		"COLOR_DISPLAY_NAME" : "S366-ROSA ANTICO"
+	},
+	{
+		"ID" : 125,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S363-MARRONE MELANGE",
+		"COLOR_DISPLAY_NAME" : "S363-MARRONE MELANGE"
+	},
+	{
+		"ID" : 126,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S072-GIALLO OCRA",
+		"COLOR_DISPLAY_NAME" : "S072-GIALLO OCRA"
+	},
+	{
+		"ID" : 127,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S918-PIOMBO",
+		"COLOR_DISPLAY_NAME" : "S918-PIOMBO"
+	},
+	{
+		"ID" : 157,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "00X WHITE-V1",
+		"COLOR_DISPLAY_NAME" : "00X WHITE-V1"
+	},
+	{
+		"ID" : 158,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "00X WHITE-V2",
+		"COLOR_DISPLAY_NAME" : "00X WHITE-V2"
+	},
+	{
+		"ID" : 160,
+		"BUYERID" : 17,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "WHITE",
+		"COLOR_DISPLAY_NAME" : "WHITE"
+	},
+	{
+		"ID" : 161,
+		"BUYERID" : 17,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "OFF WHITE",
+		"COLOR_DISPLAY_NAME" : "OFF WHITE"
+	},
+	{
+		"ID" : 162,
+		"BUYERID" : 17,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "PINK",
+		"COLOR_DISPLAY_NAME" : "PINK"
+	},
+	{
+		"ID" : 177,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "XXX WITHOUT COLOR",
+		"COLOR_DISPLAY_NAME" : "XXX WITHOUT COLOR"
+	},
+	{
+		"ID" : 182,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Color",
+		"COLOR_DISPLAY_NAME" : "Color"
+	},
+	{
+		"ID" : 4,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Purple",
+		"COLOR_DISPLAY_NAME" : "Purple"
+	},
+	{
+		"ID" : 5,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Yellow",
+		"COLOR_DISPLAY_NAME" : "Yellow"
+	},
+	{
+		"ID" : 6,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "00X WHITE",
+		"COLOR_DISPLAY_NAME" : "00X WHITE"
+	},
+	{
+		"ID" : 7,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "01X CREAM",
+		"COLOR_DISPLAY_NAME" : "01X CREAM"
+	},
+	{
+		"ID" : 59,
+		"BUYERID" : 9,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "BLACK",
+		"COLOR_DISPLAY_NAME" : "BLACK"
+	},
+	{
+		"ID" : 60,
+		"BUYERID" : 9,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "OFF WHITE",
+		"COLOR_DISPLAY_NAME" : "OFF WHITE"
+	},
+	{
+		"ID" : 61,
+		"BUYERID" : 9,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "LIGHT YELLOW",
+		"COLOR_DISPLAY_NAME" : "LIGHT YELLOW"
+	},
+	{
+		"ID" : 62,
+		"BUYERID" : 9,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "DARK BROWN",
+		"COLOR_DISPLAY_NAME" : "DARK BROWN"
+	},
+	{
+		"ID" : 63,
+		"BUYERID" : 3,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "WHITE ",
+		"COLOR_DISPLAY_NAME" : "WHITE "
+	},
+	{
+		"ID" : 66,
+		"BUYERID" : 18,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Blue - true blue 19-4057tcx",
+		"COLOR_DISPLAY_NAME" : "Blue"
+	},
+	{
+		"ID" : 67,
+		"BUYERID" : 18,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Dark blue - Dark saphire 19-4020tcx",
+		"COLOR_DISPLAY_NAME" : "Dark blue"
+	},
+	{
+		"ID" : 71,
+		"BUYERID" : 24,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "White",
+		"COLOR_DISPLAY_NAME" : "White"
+	},
+	{
+		"ID" : 72,
+		"BUYERID" : 24,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Black",
+		"COLOR_DISPLAY_NAME" : "Black"
+	},
+	{
+		"ID" : 85,
+		"BUYERID" : 2,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "DARK GREY",
+		"COLOR_DISPLAY_NAME" : "DARK GREY"
+	},
+	{
+		"ID" : 86,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "90X DARK GREY",
+		"COLOR_DISPLAY_NAME" : "90X DARK GREY"
+	},
+	{
+		"ID" : 97,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "05X PALE BLUE",
+		"COLOR_DISPLAY_NAME" : "05X PALE BLUE"
+	},
+	{
+		"ID" : 106,
+		"BUYERID" : 4,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "WHITE",
+		"COLOR_DISPLAY_NAME" : "WHITE"
+	},
+	{
+		"ID" : 118,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S387-VAR NERO ULTRABLACK",
+		"COLOR_DISPLAY_NAME" : "S387-VAR NERO ULTRABLACK"
+	},
+	{
+		"ID" : 119,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S423-ROSSO SCURO",
+		"COLOR_DISPLAY_NAME" : "S423-ROSSO SCURO"
+	},
+	{
+		"ID" : 128,
+		"BUYERID" : 21,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Mediterranea",
+		"COLOR_DISPLAY_NAME" : "Mediterranea"
+	},
+	{
+		"ID" : 129,
+		"BUYERID" : 21,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Quiet Shade",
+		"COLOR_DISPLAY_NAME" : "Quiet Shade"
+	},
+	{
+		"ID" : 130,
+		"BUYERID" : 21,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Oxford Tan",
+		"COLOR_DISPLAY_NAME" : "Oxford Tan"
+	},
+	{
+		"ID" : 131,
+		"BUYERID" : 21,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Trellis",
+		"COLOR_DISPLAY_NAME" : "Trellis"
+	},
+	{
+		"ID" : 132,
+		"BUYERID" : 21,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "White",
+		"COLOR_DISPLAY_NAME" : "White"
+	},
+	{
+		"ID" : 135,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S336-VERDE MILITARE CHIARO",
+		"COLOR_DISPLAY_NAME" : "S336-VERDE MILITARE CHIARO"
+	},
+	{
+		"ID" : 142,
+		"BUYERID" : 21,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Dusty Olive",
+		"COLOR_DISPLAY_NAME" : "Dusty Olive"
+	},
+	{
+		"ID" : 143,
+		"BUYERID" : 21,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Deep lagoon",
+		"COLOR_DISPLAY_NAME" : "Deep lagoon"
+	},
+	{
+		"ID" : 144,
+		"BUYERID" : 21,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Iceberg Green",
+		"COLOR_DISPLAY_NAME" : "Iceberg Green"
+	},
+	{
+		"ID" : 145,
+		"BUYERID" : 21,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Navy Blazer",
+		"COLOR_DISPLAY_NAME" : "Navy Blazer"
+	},
+	{
+		"ID" : 155,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "48X BLUE GRANITE ",
+		"COLOR_DISPLAY_NAME" : "48X BLUE GRANITE "
+	},
+	{
+		"ID" : 156,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "39X DUSTY ROSE",
+		"COLOR_DISPLAY_NAME" : "39X DUSTY ROSE"
+	},
+	{
+		"ID" : 159,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "38X POLIGNAC",
+		"COLOR_DISPLAY_NAME" : "38X POLIGNAC"
+	},
+	{
+		"ID" : 171,
+		"BUYERID" : 7,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "ALMOND",
+		"COLOR_DISPLAY_NAME" : "ALMOND"
+	},
+	{
+		"ID" : 172,
+		"BUYERID" : 7,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "NIGHT BLUE",
+		"COLOR_DISPLAY_NAME" : "NIGHT BLUE"
+	},
+	{
+		"ID" : 184,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "09M LIGHT GREY MELANGE",
+		"COLOR_DISPLAY_NAME" : "09M LIGHT GREY MELANGE"
+	},
+	{
+		"ID" : 12,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "67X TEAL GREEN",
+		"COLOR_DISPLAY_NAME" : "67X TEAL GREEN"
+	},
+	{
+		"ID" : 13,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "89X DARK BROWN",
+		"COLOR_DISPLAY_NAME" : "89X DARK BROWN"
+	},
+	{
+		"ID" : 18,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "90M DARK GREY",
+		"COLOR_DISPLAY_NAME" : "90M DARK GREY"
+	},
+	{
+		"ID" : 65,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "99X DEEP BLACK",
+		"COLOR_DISPLAY_NAME" : "99X DEEP BLACK"
+	},
+	{
+		"ID" : 73,
+		"BUYERID" : 24,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "18-1763 TCX High Risk Red",
+		"COLOR_DISPLAY_NAME" : "18-1763 TCX High Risk Red"
+	},
+	{
+		"ID" : 74,
+		"BUYERID" : 24,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "18-4043 TCX Palace Blue",
+		"COLOR_DISPLAY_NAME" : "18-4043 TCX Palace Blue"
+	},
+	{
+		"ID" : 75,
+		"BUYERID" : 24,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "12-1706 TCX Pink Dogwood",
+		"COLOR_DISPLAY_NAME" : "12-1706 TCX Pink Dogwood"
+	},
+	{
+		"ID" : 76,
+		"BUYERID" : 24,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "13-4409 TCX Blue Glow",
+		"COLOR_DISPLAY_NAME" : "13-4409 TCX Blue Glow"
+	},
+	{
+		"ID" : 77,
+		"BUYERID" : 24,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "17-6154 TCX Green Bee",
+		"COLOR_DISPLAY_NAME" : "17-6154 TCX Green Bee"
+	},
+	{
+		"ID" : 92,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "9MM MEDIUM GREY",
+		"COLOR_DISPLAY_NAME" : "9MM MEDIUM GREY"
+	},
+	{
+		"ID" : 93,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "55X BLUE",
+		"COLOR_DISPLAY_NAME" : "55X BLUE"
+	},
+	{
+		"ID" : 98,
+		"BUYERID" : 15,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "PINK",
+		"COLOR_DISPLAY_NAME" : "PINK"
+	},
+	{
+		"ID" : 99,
+		"BUYERID" : 15,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "CREAM",
+		"COLOR_DISPLAY_NAME" : "CREAM"
+	},
+	{
+		"ID" : 100,
+		"BUYERID" : 3,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Nostalgia rose",
+		"COLOR_DISPLAY_NAME" : "Nostalgia rose"
+	},
+	{
+		"ID" : 101,
+		"BUYERID" : 3,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Gray Mist ",
+		"COLOR_DISPLAY_NAME" : "Gray Mist"
+	},
+	{
+		"ID" : 103,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "91X OLIVE",
+		"COLOR_DISPLAY_NAME" : "91X OLIVE"
+	},
+	{
+		"ID" : 105,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "80X BEIGE",
+		"COLOR_DISPLAY_NAME" : "80X BEIGE"
+	},
+	{
+		"ID" : 112,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S094 MALVA",
+		"COLOR_DISPLAY_NAME" : "S094 MALVA"
+	},
+	{
+		"ID" : 113,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S105 NERO",
+		"COLOR_DISPLAY_NAME" : "S105 NERO"
+	},
+	{
+		"ID" : 114,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S347 BIANCO OTTICO",
+		"COLOR_DISPLAY_NAME" : "S347 BIANCO OTTICO"
+	},
+	{
+		"ID" : 115,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S358-GRIGIO MEDIO MELANGE",
+		"COLOR_DISPLAY_NAME" : "S358-GRIGIO MEDIO MELANGE"
+	},
+	{
+		"ID" : 133,
+		"BUYERID" : 21,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "TBC",
+		"COLOR_DISPLAY_NAME" : "TBC"
+	},
+	{
+		"ID" : 134,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S024-BIANCO LANA",
+		"COLOR_DISPLAY_NAME" : "S024-BIANCO LANA"
+	},
+	{
+		"ID" : 137,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S425-CREMA",
+		"COLOR_DISPLAY_NAME" : "S425-CREMA"
+	},
+	{
+		"ID" : 138,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S081-GRIGIO MELANGE",
+		"COLOR_DISPLAY_NAME" : "S081-GRIGIO MELANGE"
+	},
+	{
+		"ID" : 139,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S520-OTTANIO",
+		"COLOR_DISPLAY_NAME" : "S520-OTTANIO"
+	},
+	{
+		"ID" : 140,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "SC68-ULTRABLACK",
+		"COLOR_DISPLAY_NAME" : "SC68-ULTRABLACK"
+	},
+	{
+		"ID" : 141,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S340-VINACCIA",
+		"COLOR_DISPLAY_NAME" : "S340-VINACCIA"
+	},
+	{
+		"ID" : 146,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S325-VERDE ACIDO",
+		"COLOR_DISPLAY_NAME" : "S325-VERDE ACIDO"
+	},
+	{
+		"ID" : 147,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "NERO ULTRABLACK",
+		"COLOR_DISPLAY_NAME" : "NERO ULTRABLACK"
+	},
+	{
+		"ID" : 148,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "CANNA DI FUCILE",
+		"COLOR_DISPLAY_NAME" : "CANNA DI FUCILE"
+	},
+	{
+		"ID" : 149,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "BLUE DENIM",
+		"COLOR_DISPLAY_NAME" : "BLUE DENIM"
+	},
+	{
+		"ID" : 150,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "ROSSO VIVO",
+		"COLOR_DISPLAY_NAME" : "ROSSO VIVO"
+	},
+	{
+		"ID" : 151,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "VERDE MILITARE",
+		"COLOR_DISPLAY_NAME" : "VERDE MILITARE"
+	},
+	{
+		"ID" : 152,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "BIANCO PERLA",
+		"COLOR_DISPLAY_NAME" : "BIANCO PERLA"
+	},
+	{
+		"ID" : 154,
+		"BUYERID" : 4,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "BLACK",
+		"COLOR_DISPLAY_NAME" : "BLACK"
+	},
+	{
+		"ID" : 163,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "NATURAL",
+		"COLOR_DISPLAY_NAME" : "NATURAL"
+	},
+	{
+		"ID" : 164,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "DDB",
+		"COLOR_DISPLAY_NAME" : "DDB"
+	},
+	{
+		"ID" : 165,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "RAW WHITE",
+		"COLOR_DISPLAY_NAME" : "RAW WHITE"
+	},
+	{
+		"ID" : 166,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "OPTICAL WHITE",
+		"COLOR_DISPLAY_NAME" : "OPTICAL WHITE"
+	},
+	{
+		"ID" : 167,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "NATURAL GRAY",
+		"COLOR_DISPLAY_NAME" : "NATURAL GRAY"
+	},
+	{
+		"ID" : 168,
+		"BUYERID" : 15,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "MONO BLACK",
+		"COLOR_DISPLAY_NAME" : "MONO BLACK"
+	},
+	{
+		"ID" : 169,
+		"BUYERID" : 15,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "BLUE",
+		"COLOR_DISPLAY_NAME" : "BLUE"
+	},
+	{
+		"ID" : 170,
+		"BUYERID" : 15,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "WHITE",
+		"COLOR_DISPLAY_NAME" : "WHITE"
+	},
+	{
+		"ID" : 173,
+		"BUYERID" : 13,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "MID BLUE",
+		"COLOR_DISPLAY_NAME" : "MID BLUE"
+	},
+	{
+		"ID" : 174,
+		"BUYERID" : 13,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "MIX GREY",
+		"COLOR_DISPLAY_NAME" : "MIX GREY"
+	},
+	{
+		"ID" : 175,
+		"BUYERID" : 7,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "GREY MELANGE",
+		"COLOR_DISPLAY_NAME" : "GREY MELANGE"
+	},
+	{
+		"ID" : 176,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "ST1 STRIPES",
+		"COLOR_DISPLAY_NAME" : "ST1 STRIPES"
+	},
+	{
+		"ID" : 181,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "12X WHEAT",
+		"COLOR_DISPLAY_NAME" : "12X WHEAT"
+	},
+	{
+		"ID" : 1,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Black",
+		"COLOR_DISPLAY_NAME" : "Black"
+	},
+	{
+		"ID" : 2,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "White",
+		"COLOR_DISPLAY_NAME" : "White"
+	},
+	{
+		"ID" : 3,
+		"BUYERID" : 1,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Indigo",
+		"COLOR_DISPLAY_NAME" : "Indigo"
+	},
+	{
+		"ID" : 8,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "57X INDIGO",
+		"COLOR_DISPLAY_NAME" : "57X INDIGO"
+	},
+	{
+		"ID" : 9,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "83X MAROON",
+		"COLOR_DISPLAY_NAME" : "83X MAROON"
+	},
+	{
+		"ID" : 10,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "99X BLACK",
+		"COLOR_DISPLAY_NAME" : "99X BLACK"
+	},
+	{
+		"ID" : 11,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "MLC MULTICOLOR",
+		"COLOR_DISPLAY_NAME" : "MLC MULTICOLOR"
+	},
+	{
+		"ID" : 30,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "02X NUDE",
+		"COLOR_DISPLAY_NAME" : "02X NUDE"
+	},
+	{
+		"ID" : 31,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "05X LT BLUE",
+		"COLOR_DISPLAY_NAME" : "05X LT BLUE"
+	},
+	{
+		"ID" : 32,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "07X PALE GREEN",
+		"COLOR_DISPLAY_NAME" : "07X PALE GREEN"
+	},
+	{
+		"ID" : 33,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "08X SAND",
+		"COLOR_DISPLAY_NAME" : "08X SAND"
+	},
+	{
+		"ID" : 34,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "88J BROWN_JEANS",
+		"COLOR_DISPLAY_NAME" : "88J BROWN_JEANS"
+	},
+	{
+		"ID" : 35,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "10X LT YELLOW",
+		"COLOR_DISPLAY_NAME" : "10X LT YELLOW"
+	},
+	{
+		"ID" : 36,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "22X ORANGE",
+		"COLOR_DISPLAY_NAME" : "22X ORANGE"
+	},
+	{
+		"ID" : 37,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "30X PINK",
+		"COLOR_DISPLAY_NAME" : "30X PINK"
+	},
+	{
+		"ID" : 38,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "33X RED",
+		"COLOR_DISPLAY_NAME" : "33X RED"
+	},
+	{
+		"ID" : 39,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "34X MAUVE",
+		"COLOR_DISPLAY_NAME" : "34X MAUVE"
+	},
+	{
+		"ID" : 40,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "87X MILITARY",
+		"COLOR_DISPLAY_NAME" : "87X MILITARY"
+	},
+	{
+		"ID" : 41,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "59X NAVY",
+		"COLOR_DISPLAY_NAME" : "59X NAVY"
+	},
+	{
+		"ID" : 42,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "71X YELLOW GREEN",
+		"COLOR_DISPLAY_NAME" : "71X YELLOW GREEN"
+	},
+	{
+		"ID" : 43,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "95X STEEL BLUE",
+		"COLOR_DISPLAY_NAME" : "95X STEEL BLUE"
+	},
+	{
+		"ID" : 44,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "50X LIGHT BLUE",
+		"COLOR_DISPLAY_NAME" : "50X LIGHT BLUE"
+	},
+	{
+		"ID" : 45,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "70X LIGHT GREEN",
+		"COLOR_DISPLAY_NAME" : "70X LIGHT GREEN"
+	},
+	{
+		"ID" : 46,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "58X GREY BLUE",
+		"COLOR_DISPLAY_NAME" : "58X GREY BLUE"
+	},
+	{
+		"ID" : 47,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "86X ANTHRACITE",
+		"COLOR_DISPLAY_NAME" : "86X ANTHRACITE"
+	},
+	{
+		"ID" : 48,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "45X VIOLET",
+		"COLOR_DISPLAY_NAME" : "45X VIOLET"
+	},
+	{
+		"ID" : 49,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "92X CARMINE",
+		"COLOR_DISPLAY_NAME" : "92X CARMINE"
+	},
+	{
+		"ID" : 50,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "69X DARK TURQUOISE",
+		"COLOR_DISPLAY_NAME" : "69X DARK TURQUOISE"
+	},
+	{
+		"ID" : 51,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "84X COFFEE",
+		"COLOR_DISPLAY_NAME" : "84X COFFEE"
+	},
+	{
+		"ID" : 52,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "09X LIGHT GREY",
+		"COLOR_DISPLAY_NAME" : "09X LIGHT GREY"
+	},
+	{
+		"ID" : 53,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "07J PALE GREEN JEANS",
+		"COLOR_DISPLAY_NAME" : "07J PALE GREEN JEANS"
+	},
+	{
+		"ID" : 54,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "49X DARK VIOLET",
+		"COLOR_DISPLAY_NAME" : "49X DARK VIOLET"
+	},
+	{
+		"ID" : 55,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "03X PASTEL PINK",
+		"COLOR_DISPLAY_NAME" : "03X PASTEL PINK"
+	},
+	{
+		"ID" : 56,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "76X FRESH GREEN",
+		"COLOR_DISPLAY_NAME" : "76X FRESH GREEN"
+	},
+	{
+		"ID" : 57,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "83J MAROON JEANS",
+		"COLOR_DISPLAY_NAME" : "83J MAROON JEANS"
+	},
+	{
+		"ID" : 58,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "81X LIGHT OLIVE",
+		"COLOR_DISPLAY_NAME" : "81X LIGHT OLIVE"
+	},
+	{
+		"ID" : 83,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "30M PINK",
+		"COLOR_DISPLAY_NAME" : "30M PINK"
+	},
+	{
+		"ID" : 84,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "59M NAVY",
+		"COLOR_DISPLAY_NAME" : "59M NAVY"
+	},
+	{
+		"ID" : 87,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "09M MEDIUM GREY MELANGE",
+		"COLOR_DISPLAY_NAME" : "09M MEDIUM GREY MELANGE"
+	},
+	{
+		"ID" : 88,
+		"BUYERID" : 8,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "BLACK-BK81",
+		"COLOR_DISPLAY_NAME" : "BLACK-BK81"
+	},
+	{
+		"ID" : 89,
+		"BUYERID" : 8,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "BROWN-BN337",
+		"COLOR_DISPLAY_NAME" : "BROWN-BN337"
+	},
+	{
+		"ID" : 90,
+		"BUYERID" : 21,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Grey Melange",
+		"COLOR_DISPLAY_NAME" : "Grey Melange"
+	},
+	{
+		"ID" : 91,
+		"BUYERID" : 21,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Black",
+		"COLOR_DISPLAY_NAME" : "Black"
+	},
+	{
+		"ID" : 94,
+		"BUYERID" : 10,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "SNOW WHITE",
+		"COLOR_DISPLAY_NAME" : "SNOW WHITE"
+	},
+	{
+		"ID" : 95,
+		"BUYERID" : 10,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "SNOW WHITE (2)",
+		"COLOR_DISPLAY_NAME" : "SNOW WHITE"
+	},
+	{
+		"ID" : 96,
+		"BUYERID" : 10,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "SNOW WHITE (3)",
+		"COLOR_DISPLAY_NAME" : "SNOW WHITE"
+	},
+	{
+		"ID" : 107,
+		"BUYERID" : 5,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "48X GRAPE",
+		"COLOR_DISPLAY_NAME" : "48X GRAPE"
+	},
+	{
+		"ID" : 110,
+		"BUYERID" : 3,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "BIRCH ",
+		"COLOR_DISPLAY_NAME" : "BIRCH "
+	},
+	{
+		"ID" : 111,
+		"BUYERID" : 3,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "CABERNET",
+		"COLOR_DISPLAY_NAME" : "CABERNET"
+	},
+	{
+		"ID" : 120,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S117-PRUGNA",
+		"COLOR_DISPLAY_NAME" : "S117-PRUGNA"
+	},
+	{
+		"ID" : 121,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S557-NERO MELANGE",
+		"COLOR_DISPLAY_NAME" : "S557-NERO MELANGE"
+	},
+	{
+		"ID" : 122,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S006-ANTRACITE",
+		"COLOR_DISPLAY_NAME" : "S006-ANTRACITE"
+	},
+	{
+		"ID" : 123,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S926-NUDO CHIARO",
+		"COLOR_DISPLAY_NAME" : "S926-NUDO CHIARO"
+	},
+	{
+		"ID" : 124,
+		"BUYERID" : 20,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "S354-GRIGIO CHIARO MELANGE",
+		"COLOR_DISPLAY_NAME" : "S354-GRIGIO CHIARO MELANGE"
+	},
+	{
+		"ID" : 178,
+		"BUYERID" : 10,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "ANTHRACITE",
+		"COLOR_DISPLAY_NAME" : "ANTHRACITE"
+	},
+	{
+		"ID" : 179,
+		"BUYERID" : 10,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "CHOCOLATE PLUM",
+		"COLOR_DISPLAY_NAME" : "CHOCOLATE PLUM"
+	},
+	{
+		"ID" : 180,
+		"BUYERID" : 10,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "BRIGHT WHITE",
+		"COLOR_DISPLAY_NAME" : "BRIGHT WHITE"
+	},
+	{
+		"ID" : 183,
+		"BUYERID" : 22,
+		"COLOR_TYPE" : "S",
+		"COLORNAME" : "Black",
+		"COLOR_DISPLAY_NAME" : "Black"
+	}
+]

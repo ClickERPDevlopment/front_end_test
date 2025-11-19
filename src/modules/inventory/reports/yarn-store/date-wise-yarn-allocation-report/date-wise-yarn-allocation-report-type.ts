@@ -1,0 +1,23 @@
+export type DateWiseYarnAllocationReportType = {
+  BUYER_NAME: string;
+  FACTORYID: number;
+  COMPANY: string;
+  COMPANY_ADDRESS: string;
+  CONTACT: string;
+  REF_NO: string;
+  PO_ID: number;
+  PONO: string;
+  STYLE_ID: number;
+  STYLENO: string;
+  YARN_ID: number;
+  YARN: string;
+  YARN_LOT_NUMBER_ID: number;
+  YARN_LOT_NUMBER: string;
+  LC_ID: number;
+  BBLC_NO: string;
+  WORK_ORDER_ID: number;
+  WORK_ORDER_NUMBER: string;
+  CREATED_DATE: string;
+  ALLOCATED_QTY: number;
+  ISSUE_QTY: number;
+};

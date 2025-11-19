@@ -1,0 +1,186 @@
+{
+  "keyMap": [
+    {
+      "label": "Confirm Order(pcs)",
+      "key": "confirmed_ordered"
+    },
+    {
+      "label": "Projected Order(pcs)",
+      "key": "projected_ordered"
+    },
+    {
+      "label": "Total Order",
+      "key": "projected_ordered"
+    },
+    {
+      "label": "Sewing Status",
+      "key": ""
+    },
+    {
+      "label": "Sewing Qty(pcs) Place. M",
+      "key": "sewing_qty_place_m"
+    },
+    {
+      "label": "Sewing Bal(pcs) Place. M",
+      "key": "sewing_bal_place_m"
+    },
+    {
+      "label": "Sewing Earned Minute",
+      "key": "sewing_earned_minute"
+    },
+    {
+      "label": "Sewing Efficiency",
+      "key": "sewing_efficiency_percent"
+    },
+    {
+      "label": "Avg. FOB",
+      "key": "avg_fob"
+    },
+    {
+      "label": "Avg. CM",
+      "key": "avg_cm"
+    },
+    {
+      "label": "Confirmed Ordered Value($)",
+      "key": "confirmed_ordered_value_usd"
+    },
+    {
+      "label": "Projected Order Booked Value",
+      "key": "projected_order_booked_value_usd"
+    },
+    {
+      "label": "Total Value",
+      "key": "total_value"
+    },
+    {
+      "label": "Confirmed Order CM",
+      "key": "confirmed_ordered_cm_usd"
+    },
+    {
+      "label": "CM Ratio",
+      "key": "cm_ratio"
+    },
+    {
+      "label": "Projected Order CM",
+      "key": "projected_order_cm"
+    },
+    {
+      "label": "Total CM",
+      "key": "total_cm"
+    },
+    {
+      "label": "Total Available Min.",
+      "key": "total_available_min"
+    },
+    {
+      "label": "Avg. Plan Efficiency %",
+      "key": "avg_plan_efficiency_percent"
+    },
+    {
+      "label": "Capacity Min",
+      "key": "capacity_min"
+    },
+    {
+      "label": "Confirm Order Min",
+      "key": "confirm_order_min"
+    },
+    {
+      "label": "Projected Order Min",
+      "key": "projected_order_min"
+    },
+    {
+      "label": "Total Order Min",
+      "key": "total_order_min"
+    },
+    {
+      "label": "Balance Min",
+      "key": "balance_min"
+    },
+    {
+      "label": "Open Pcs @ 7.5 SMV",
+      "key": "open_pcs_at_7_5_smv"
+    },
+    {
+      "label": "Export Status",
+      "key": ""
+    },
+    {
+      "label": "Monthly Export(pcs)",
+      "key": "monthly_export_pcs"
+    },
+    {
+      "label": "Export Value($)",
+      "key": "export_value_usd"
+    },
+    {
+      "label": "Export Comission Value($)",
+      "key": "export_commission_value_usd"
+    },
+    {
+      "label": "Export Value without Commission($)",
+      "key": "export_value_without_commission_usd"
+    }
+  ],
+  "managementDashboard": {
+    "May-25": {
+      "confirmed_ordered": 5522435,
+      "projected_ordered": 0,
+      "total_ordered": 5522435,
+      "sewing_qty_place_m": 4890624,
+      "sewing_bal_place_m": -631811,
+      "sewing_earned_minute": 40411956,
+      "sewing_efficiency_percent": "64%",
+      "avg_fob": 2.4,
+      "avg_cm": 0.55,
+      "confirmed_ordered_value_usd": 13230975,
+      "projected_order_booked_value_usd": 0,
+      "total_value": 13230975,
+      "confirmed_ordered_cm_usd": 3014052,
+      "cm_ratio": "23%",
+      "projected_order_cm": 0,
+      "total_cm": 3014052,
+      "total_available_min": 57250560,
+      "avg_plan_efficiency_percent": "65%",
+      "capacity_min": 37716036,
+      "confirm_order_min": 42466881,
+      "projected_order_min": 0,
+      "total_order_min": 42466881,
+      "balance_min": 4750845,
+      "open_pcs_at_7_5_smv": 633446,
+      "monthly_export_pcs": 0,
+      "export_value_usd": 0,
+      "export_commission_value_usd": 0,
+      "export_value_without_commission_usd": 0
+    },
+    "Jun-25": {
+      "confirmed_ordered": 5522435,
+      "projected_ordered": 0,
+      "total_ordered": 5522435,
+      "sewing_qty_place_m": 4890624,
+      "sewing_bal_place_m": -631811,
+      "sewing_earned_minute": 40411956,
+      "sewing_efficiency_percent": "64%",
+      "avg_fob": 2.4,
+      "avg_cm": 0.55,
+      "confirmed_ordered_value_usd": 13230975,
+      "projected_order_booked_value_usd": 0,
+      "total_value": 13230975,
+      "confirmed_ordered_cm_usd": 3014052,
+      "cm_ratio": "23%",
+      "projected_order_cm": 0,
+      "total_cm": 3014052,
+      "total_available_min": 57250560,
+      "avg_plan_efficiency_percent": "65%",
+      "capacity_min": 37716036,
+      "confirm_order_min": 42466881,
+      "projected_order_min": 0,
+      "total_order_min": 42466881,
+      "balance_min": 4750845,
+      "open_pcs_at_7_5_smv": 633446,
+      "monthly_export_pcs": 0,
+      "export_value_usd": 0,
+      "export_commission_value_usd": 0,
+      "export_value_without_commission_usd": 0
+    }
+  }
+}

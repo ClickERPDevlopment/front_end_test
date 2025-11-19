@@ -1,0 +1,37 @@
+export interface IAccessoriesIssueReturnChallanReport {
+  STORE_ID: number;
+  STORE_NAME: string;
+  CHALLAN_DATE: Date;
+  CHALLAN_NO: string;
+  REMARKS: string;
+  IS_ISSUE_FOR_APPROVAL: boolean;
+  BUYER_ID: number;
+  BUYER_NAME: string;
+  STYLE_ID: number;
+  STYLENO: string;
+  PO_ID: number;
+  PONO: string;
+  MATERIAL_ID: number;
+  MATERIAL_NAME: string;
+  GMT_COLOR_ID: number;
+  GMT_COLOR: string;
+  GMT_SIZE_ID: number;
+  GMT_SIZE: string;
+  SORTINGNO: number;
+  M_COLOR_ID_1: number;
+  MTL_COLOR_1: string;
+  M_COLOR_ID_2: number;
+  MTL_COLOR_2: string;
+  M_SIZE_ID: number;
+  MTL_SIZE: string;
+  SUB_PO_ID: number;
+  SUB_PO: string;
+  DESCRIPTION_1: string;
+  DESCRIPTION_2: string;
+  RETURN_QTY: number;
+  UOM: string;
+  UOM_ID: number;
+  PREPARED_BY: string;
+  COMPANY_NAME: string;
+  COMPANY_ADDRESS: string;
+}

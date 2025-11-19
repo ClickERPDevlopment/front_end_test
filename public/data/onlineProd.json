@@ -1,0 +1,439 @@
+{
+  "meta": {
+    "date": "03-Aug-2025",
+    "totalManpower": 1744,
+    "averageWorkingHour": 12.05,
+    "totalTarget": {
+      "cutting": 43058,
+      "sewing": 46506,
+      "finishing": 0
+    },
+    "totalAchieved": {
+      "cutting": 34274,
+      "sewing": 34087,
+      "finishing": 0
+    },
+    "difference": {
+      "cutting": -8784,
+      "sewing": -12419,
+      "finishing": 0
+    }
+  },
+  "floors": [
+    {
+      "floorName": "SEW 5A",
+      "lines": [
+        {
+          "line": "L-12",
+          "buyer": "Tesco Ladies",
+          "style": "CN527477",
+          "po": "460-9688",
+          "itemType": "HALF ZIP SWEAT",
+          "styleName": "AW25 W...",
+          "startDay": "15,Jul",
+          "runningDay": 1,
+          "requiredManPower": {
+            "op": 36,
+            "hp": 0,
+            "im": 12
+          },
+          "presentManPower": {
+            "op": 48,
+            "hp": 32,
+            "im": 11
+          },
+          "totalTarget": 73672,
+          "tgtPerHour": 84,
+          "targetEff": "35%",
+          "actualHour": 8,
+          "hourlyProduction": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 5,
+            "5": 0,
+            "6": 5,
+            "7": 0,
+            "8": 15,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0
+          },
+          "totalAchieve": 37000,
+          "difference": -627,
+          "efficiency": "2.35%",
+          "produceMin": 145,
+          "availMin": 364,
+          "coummentCount": 1
+        },
+        {
+          "line": "L-13",
+          "buyer": "Tesco Ladies",
+          "style": "CN527470",
+          "po": "460-9688",
+          "itemType": "HALF ZIP SWEAT",
+          "styleName": "AW25 W...",
+          "startDay": "15,Jul",
+          "runningDay": 1,
+          "requiredManPower": {
+            "op": 36,
+            "hp": 0,
+            "im": 12
+          },
+          "presentManPower": {
+            "op": 48,
+            "hp": 32,
+            "im": 11
+          },
+          "totalTarget": 39672,
+          "tgtPerHour": 84,
+          "targetEff": "35%",
+          "actualHour": 8,
+          "hourlyProduction": {
+            "1": 0,
+            "2": 8,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0
+          },
+          "totalAchieve": 31720,
+          "difference": -627,
+          "efficiency": "2.35%",
+          "produceMin": 145,
+          "availMin": 364,
+          "coummentCount": 2
+        },
+        {
+          "line": "L-13",
+          "buyer": "Tesco Ladies",
+          "style": "CN527470",
+          "po": "460-9688",
+          "itemType": "HALF ZIP SWEAT",
+          "styleName": "AW25 W...",
+          "startDay": "15,Jul",
+          "runningDay": 1,
+          "requiredManPower": {
+            "op": 36,
+            "hp": 0,
+            "im": 12
+          },
+          "presentManPower": {
+            "op": 48,
+            "hp": 32,
+            "im": 11
+          },
+          "totalTarget": 39672,
+          "tgtPerHour": 84,
+          "targetEff": "35%",
+          "actualHour": 8,
+          "hourlyProduction": {
+            "1": 0,
+            "2": 8,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0
+          },
+          "totalAchieve": 21720,
+          "difference": -627,
+          "efficiency": "2.35%",
+          "produceMin": 145,
+          "availMin": 364,
+          "coummentCount": 2
+        },
+        {
+          "line": "L-14",
+          "buyer": "Tesco Ladies",
+          "style": "CN527470",
+          "po": "460-9688",
+          "itemType": "HALF ZIP SWEAT",
+          "styleName": "AW25 W...",
+          "startDay": "15,Jul",
+          "runningDay": 1,
+          "requiredManPower": {
+            "op": 36,
+            "hp": 0,
+            "im": 12
+          },
+          "presentManPower": {
+            "op": 48,
+            "hp": 32,
+            "im": 11
+          },
+          "totalTarget": 89672,
+          "tgtPerHour": 84,
+          "targetEff": "35%",
+          "actualHour": 8,
+          "hourlyProduction": {
+            "1": 0,
+            "2": 8,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0
+          },
+          "totalAchieve": 61720,
+          "difference": -627,
+          "efficiency": "2.35%",
+          "produceMin": 145,
+          "availMin": 364,
+          "coummentCount": 2
+        },
+        {
+          "line": "L-15",
+          "buyer": "Tesco Ladies",
+          "style": "CN527470",
+          "po": "460-9688",
+          "itemType": "HALF ZIP SWEAT",
+          "styleName": "AW25 W...",
+          "startDay": "15,Jul",
+          "runningDay": 1,
+          "requiredManPower": {
+            "op": 36,
+            "hp": 0,
+            "im": 12
+          },
+          "presentManPower": {
+            "op": 48,
+            "hp": 32,
+            "im": 11
+          },
+          "totalTarget": 49672,
+          "tgtPerHour": 84,
+          "targetEff": "35%",
+          "actualHour": 8,
+          "hourlyProduction": {
+            "1": 0,
+            "2": 8,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0
+          },
+          "totalAchieve": 21720,
+          "difference": -627,
+          "efficiency": "2.35%",
+          "produceMin": 145,
+          "availMin": 364,
+          "coummentCount": 2
+        }
+      ]
+    },
+    {
+      "floorName": "SEW 5B",
+      "lines": [
+        {
+          "line": "L-25",
+          "buyer": "Sainsbury",
+          "style": "146154715",
+          "po": "2717841",
+          "itemType": "HOODY",
+          "styleName": "...",
+          "startDay": "30,May",
+          "runningDay": 4,
+          "requiredManPower": {
+            "op": 9,
+            "hp": 0,
+            "im": 1
+          },
+          "presentManPower": {
+            "op": 110,
+            "hp": 86,
+            "im": 39
+          },
+          "totalTarget": 10533,
+          "tgtPerHour": 109,
+          "targetEff": "61.13%",
+          "actualHour": 12.98,
+          "hourlyProduction": {
+            "1": 70,
+            "2": 600,
+            "3": 606,
+            "4": 580,
+            "5": 566,
+            "6": 560,
+            "7": 600,
+            "8": 600,
+            "9": 597,
+            "10": 603,
+            "11": 560,
+            "12": 606,
+            "13": 605
+          },
+          "totalAchieve": 7505,
+          "difference": -3028,
+          "efficiency": "44.34%",
+          "produceMin": 140,
+          "availMin": 370,
+          "coummentCount": 0
+        },
+        {
+          "line": "L-26",
+          "buyer": "Sainsbury",
+          "style": "146154715",
+          "po": "2717841",
+          "itemType": "HOODY",
+          "styleName": "...",
+          "startDay": "30,May",
+          "runningDay": 4,
+          "requiredManPower": {
+            "op": 9,
+            "hp": 0,
+            "im": 1
+          },
+          "presentManPower": {
+            "op": 110,
+            "hp": 86,
+            "im": 39
+          },
+          "totalTarget": 10533,
+          "tgtPerHour": 109,
+          "targetEff": "61.13%",
+          "actualHour": 12.98,
+          "hourlyProduction": {
+            "1": 70,
+            "2": 600,
+            "3": 606,
+            "4": 580,
+            "5": 566,
+            "6": 560,
+            "7": 600,
+            "8": 600,
+            "9": 597,
+            "10": 603,
+            "11": 560,
+            "12": 606,
+            "13": 605
+          },
+          "totalAchieve": 7505,
+          "difference": -3028,
+          "efficiency": "44.34%",
+          "produceMin": 140,
+          "availMin": 370,
+          "coummentCount": 0
+        },
+        {
+          "line": "L-28",
+          "buyer": "Sainsbury",
+          "style": "146154715",
+          "po": "2717841",
+          "itemType": "HOODY",
+          "styleName": "...",
+          "startDay": "30,May",
+          "runningDay": 4,
+          "requiredManPower": {
+            "op": 9,
+            "hp": 0,
+            "im": 1
+          },
+          "presentManPower": {
+            "op": 110,
+            "hp": 86,
+            "im": 39
+          },
+          "totalTarget": 10533,
+          "tgtPerHour": 109,
+          "targetEff": "61.13%",
+          "actualHour": 12.98,
+          "hourlyProduction": {
+            "1": 70,
+            "2": 600,
+            "3": 606,
+            "4": 580,
+            "5": 566,
+            "6": 560,
+            "7": 600,
+            "8": 600,
+            "9": 597,
+            "10": 603,
+            "11": 560,
+            "12": 606,
+            "13": 605
+          },
+          "totalAchieve": 7505,
+          "difference": -3028,
+          "efficiency": "44.34%",
+          "produceMin": 140,
+          "availMin": 370,
+          "coummentCount": 0
+        },
+        {
+          "line": "L-29",
+          "buyer": "Sainsbury",
+          "style": "146154715",
+          "po": "2717841",
+          "itemType": "HOODY",
+          "styleName": "...",
+          "startDay": "30,May",
+          "runningDay": 4,
+          "requiredManPower": {
+            "op": 9,
+            "hp": 0,
+            "im": 1
+          },
+          "presentManPower": {
+            "op": 110,
+            "hp": 86,
+            "im": 39
+          },
+          "totalTarget": 10533,
+          "tgtPerHour": 109,
+          "targetEff": "61.13%",
+          "actualHour": 12.98,
+          "hourlyProduction": {
+            "1": 70,
+            "2": 600,
+            "3": 606,
+            "4": 580,
+            "5": 566,
+            "6": 560,
+            "7": 600,
+            "8": 600,
+            "9": 597,
+            "10": 603,
+            "11": 560,
+            "12": 606,
+            "13": 605
+          },
+          "totalAchieve": 7505,
+          "difference": -3028,
+          "efficiency": "44.34%",
+          "produceMin": 140,
+          "availMin": 370,
+          "coummentCount": 0
+        }
+      ]
+    }
+  ]
+}

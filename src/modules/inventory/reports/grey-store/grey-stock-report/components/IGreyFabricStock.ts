@@ -1,0 +1,26 @@
+export type IGreyFabricStock = {
+  BUYER_ID: number;
+  PO_ID: number;
+  PO_NO: string;
+  JOB_NO: string;
+  STYLE_ID: number;
+  STYLENO: string;
+  STYLENAME: string;
+  GMT_COLOR_ID: number;
+  GMT_COLOR: string;
+  FABRIC_ID: number;
+  FABRIC: string;
+  BUYER: string;
+  FABRIC_GSM: string;
+  FINISH_DIA: string;
+  GRAY_REQ_QTY: number;
+  RECEIVE_QTY: number;
+  TRANSFER_IN_QTY: number;
+  TOTAL_RCVD_QTY: number;
+  RECEIVE_BAL_QTY: number;
+  DELIVERY_QTY: number;
+  TRANSFER_OUT_QTY: number;
+  TOTAL_DELIVERY_QTY: number;
+  DELIVERY_BAL_QTY: number;
+  STOCK_QTY: number;
+};

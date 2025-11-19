@@ -1,0 +1,14 @@
+[
+  { "id": 3, "teamName": "Merchandising" },
+  { "id": 1, "teamName": "Planning" },
+  { "id": 2, "teamName": "Supply Chain" },
+  { "id": 4, "teamName": "Knitting" },
+  { "id": 5, "teamName": "Dyeing" },
+  { "id": 6, "teamName": "Finish Fabric Store" },
+  { "id": 7, "teamName": "Accessories Store" },
+  { "id": 8, "teamName": "Gmt. Production" },
+  { "id": 9, "teamName": "Yarn Procurement" },
+  { "id": 12, "teamName": "Commercial" },
+  { "id": 11, "teamName": "Lab" },
+  { "id": 13, "teamName": "Print" }
+]

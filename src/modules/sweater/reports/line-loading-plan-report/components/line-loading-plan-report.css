@@ -1,0 +1,11 @@
+line-loading-plan-report-css{
+    text-align: center;
+    border: 1px solid lightgray;
+    color: black !important;
+    font-size: 12px;
+}
+
+line-loading-plan-report-th{
+    background-color:rgb(192, 246, 192);
+    font-weight: bold;
+} 

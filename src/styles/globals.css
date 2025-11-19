@@ -1,0 +1,642 @@
+@import "./fonts.css";
+
+@plugin "tailwindcss-animate";
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+
+@theme {
+    --font-inter: "Segoe", sans-serif;
+    --text-12-8: 0.8rem;       /* 12.8px */
+    --text-13-4: 0.8375rem;    /* 13.4px */
+    --text-smaller: 0.8125rem; /* 13px */
+    --text-small: 0.875rem;  /* 14px */
+    --text-base: 1rem;       /* 16px */
+    --text-large: 1.125rem;  /* 18px */
+    --text-field-label: 0.75rem;
+    --text-small--line-height: 1.5rem;
+    --text-small--letter-spacing: 0.1rem;
+    --text-small--font-weight: 500;
+    --text-small--default-font-family: Inter;
+    --text-medium: 0.8125rem;
+    --text-medium--line-height: 1.75rem;
+    --text-medium--letter-spacing: 0.05rem;
+    --text-medium--font-weight: 400;
+    --text-base: 0.85rem;
+    --text-base--line-height: 1.75rem;
+    --text-base--letter-spacing: 0.05rem;
+    --text-base--font-weight: 400;
+    --text-large: 1.125rem;
+    --text-base--line-height: 1.75rem;
+    --text-base--letter-spacing: 0.05rem;
+    --text-base--font-weight: 400;
+    /* Test Section - Colors */
+    --test-color: #1E2939;
+    --dark-default-sidebar-bg: #1E2939;
+    --dark-default-sidebar-parent-menu-items-bg: #1E2939;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    /* ------------------------------ Light Mode ---------------------------------- */
+
+    /* Default Light */
+    --light-default-bg-base: #f0f1f7;
+    --light-default-bg-light: #f8fafc;                 
+    --light-default-bg-lighter: #e2e8f0;                    
+    --light-default-bg-dark: #fff; 
+    --light-default-bg-darker: #94a3b8;                    
+    --light-default-text-base: #000;       
+    --light-default-text-arrow: #1F7BC9;                   
+    --light-default-navbar-text: #fff;
+    --light-default-sidebar-bg: #FCFCFC;
+    --light-default-main-content-bg: #F0F1F7;
+    --light-default-select-bg: #ffffff;
+    --light-default-input-bg: #ffffff;
+    --light-default-input-text: #e5e7eb;
+    --light-default-label-text: #1a1c1e;
+    --light-default-ul-bg: #ffffff;
+    --light-default-li-hover-bg: #e9e9e9;
+    --light-default-li-text: #000000;
+    --light-default-panel-bg: #FFFFFF;
+    --light-input-bg: #D9EAFD;
+    --light-select-bg: #D9EAFD;
+    --light-textarea-bg: #D9EAFD;
+    --light-autosuggetion-bg: #D4F6FF;
+    --light-default-navbar-bg-side: #1F7BC9;                            /* Click Logo on Sidebar */
+    --light-default-navbar-bg-main: #439DDF;                            /* Main Top Navbar */
+    --light-default-navbar-bg: #33A1E0;
+    --light-default-text-hover: #1C6EA4; 
+    /* --light-default-text-hover: #111d7d; */
+    --light-default-text-hover: #ffffff;
+    --light-default-sidebr-header-hover: #111d7d; /*new*/
+    --light-blue-text-base: #1F7BC9;
+    --light-default-menu_item_main: #fff;
+    --light-default-text: #fff;
+    --light-default-float-item-parent: #fff;
+
+    /* Sidebar */
+    --light-default-sidebar-header: #1F7BC9;                            /* Primary blue header */
+    --light-default-module-text-hover: #5D87FF;                         /* hover text for module name */
+    --light-default-module-bg-hover: #ECF2FF;
+    --light-default-sidebar-text: #202020;
+
+    /* Dropdown Auto Suggest */
+    --light-default-dropdown-auto-suggest-input: #EBF9FF;               /* Very light blue input background */
+    --light-default-dropdown-auto-suggest-ul: #FFFFFF;                  /* Light blue dropdown background #D6F0FF */ 
+    --light-default-dropdown-auto-suggest-ul-li: #F9F9F9;               /* Soft white-blue list item background */
+    --light-default-dropdown-auto-suggest-ul-li-hover: #1F7BC9;         /* Primary blue on hover */
+    --light-default-dropdown-auto-suggest-ul-li-color: #1F2937;         /* Default text color (gray-900) */
+    --light-default-dropdown-auto-suggest-ul-li-hover-color: #FFFFFF;   /* White text on hover */
+    --light-default-dropdown-auto-suggest-icon: #6B7280;                 /* Neutral gray for icons */
+    --light-default-dropdown-auto-suggest-icon-hover: #FFFFFF;           /* Primary blue on hover */
+    --light-default-dropdown-auto-suggest-icon-active: #1F7BC9;          /* Same as hover for active */
+
+
+    /* Select Dropdown */
+    --light-default-select-dropdown-input: #EBF9FF;                     /* Input background */
+    --light-default-select-dropdown-ul: #FFFFFF;                        /* Dropdown background */
+    --light-default-select-dropdown-ul-li: #F9F9F9;                     /* Soft white-blue list item background */
+    --light-default-select-dropdown-ul-li-hover: #1F7BC9;               /* List item hover background */
+    --light-default-select-dropdown-ul-li-color: #1F2937;               /* List item text color */
+    --light-default-select-dropdown-ul-li-hover-color: #FFFFFF;         /* List item text hover color */
+
+    /* Simple Input Box */
+    --light-default-simple-input-box-bg: #FFFFF9;                       /* Input background */
+    --light-default-simple-input-box-border: #D1D5DB;                   /* Gray-300 border */
+    --light-default-simple-input-box-text: #1F2937;                     /* Default text color */
+    --light-default-simple-input-box-placeholder: #9CA3AF;              /* Placeholder text color */
+    --light-default-simple-input-box-focus-ring: #1F7BC9;               /* Focus ring color */
+    --light-default-simple-input-box-disabled-bg: #F3F4F6;              /* Disabled background */
+    --light-default-simple-input-box-disabled-text: #9CA3AF;            /* Disabled text */
+
+    /* Custom Data Table */
+    --light-default-table-bg: #FFFFFF;                                  /* Table body background */
+    --light-default-table-border: #77C8D0;                              /* Table border */
+    --light-default-table-header-bg: #3C8DBC;                           /* Header background */
+    --light-default-table-header-text: #FFFFFF;                         /* Header text color */
+    --light-default-table-row-hover-bg: #E5F1FB;                        /* Row hover background */
+    --light-default-table-row-odd-bg: #FFFFFF;                          /* Odd row background */
+    --light-default-table-row-even-bg: #F5F2EF;                         /* Even row background */
+    --light-default-table-text: #1F2937;                                /* Default table text */
+    --light-default-table-disabled-bg: #F3F4F6;                         /* Disabled/empty row background */
+    --light-default-column-menu-bg: #FFFFFF;
+    --light-default-column-menu-border: #D1D5DB;
+    --light-default-column-menu-hover: #E5F1FB;
+
+    /* Button */
+    --light-default-button-bg: #1F7BC9;                                 /* Primary blue */
+    --light-default-button-hover-bg: #439DDF;                           /* Hover blue */
+    --light-default-button-text: #FFFFFF;                               /* White text */
+    --light-default-button-outlined-border: #1F7BC9;                    /* Border for outlined */
+    --light-default-button-outlined-text: #1F7BC9;                      /* Outlined text color */
+    --light-default-button-flat-text: #1F7BC9;                          /* Flat button text color */
+    --light-default-button-disabled-opacity: 0.5;                       /* Disabled state opacity */
+
+    /* Page Header */
+    --light-default-page-header-border: #E5E7EB;                        /* Light gray border */
+    --light-default-page-header-title-color: #1F2937;                   /* Gray-900 */
+    --light-default-page-header-btn-bg: #1F7BC9;                        /* Primary blue */
+    --light-default-page-header-btn-hover-bg: #439DDF;                  /* Lighter blue hover */
+    --light-default-page-header-btn-color: #FFFFFF;                     /* White text */
+
+
+    /* Textarea */
+    --light-default-textarea-bg: #FFFFF9;                               /* Soft yellow background */
+    --light-default-textarea-color: #1F2937;                            /* Gray-900 text */
+    --light-default-textarea-border: #D1D5DB;                           /* Gray-300 border */
+    --light-default-textarea-border-hover: #1F7BC9;                     /* Primary blue border on hover */
+    --light-default-textarea-flat-color: #1F2937;                       /* Text color for flat variant */
+    --light-default-textarea-bordered-border: #60A5FA;                  /* Blue-400 border */
+    --light-default-textarea-bordered-border-dark: #93C5FD;             /* Blue-300 border (dark mode) */
+
+
+    /* Tooltip */
+    --light-tooltip-bg: #1F2937;                                        /* dark gray background for tooltip */
+    --light-tooltip-text: #ffffff;                                      /* white text */
+    --light-tooltip-border-dotted: #9CA3AF;                             /* gray-400 dotted underline */
+
+
+    /* Tabs */
+    /* Default Variant */
+    --light-tabs-bg: #ffffff;
+    --light-tabs-border: #e5e7eb;                                       /* gray-100 */
+    --light-tabs-text: #374151;                                         /* gray-700 */
+    --light-tabs-active-bg: #3b82f6;                                    /* blue-500 */
+    --light-tabs-active-text: #ffffff;
+    --light-tabs-hover-border: #d1d5db;                                 /* gray-300 */
+    /* Underline Variant */
+    --light-tabs-underline-active-border: #3b82f6;                      /* blue-500 */
+    --light-tabs-underline-text: #374151;
+    --light-tabs-underline-active-text: #2563eb;                        /* blue-600 */
+    /* Pill Variant */
+    --light-tabs-pill-bg: #e5e7eb;                                      /* gray-200 */
+    --light-tabs-pill-text: #374151;                                    /* gray-700 */
+    --light-tabs-pill-active-bg: #3b82f6; 
+    --light-tabs-pill-active-text: #ffffff;
+    /* Badge */
+    --light-tabs-badge-bg: #d1d5db;                                     /* gray-300 */
+    --light-tabs-badge-text: #1f2937;                                   /* gray-800 */
+    --light-tabs-badge-active-bg: #ffffff;
+    --light-tabs-badge-active-text: #3b82f6;
+
+
+    /* Dashboard */
+    /* --light-default-dashboard-tile-bg: #ffffff; */
+    --light-default-dashboard-tile-text: #2f4f4f;
+    --light-default-dashboard-tile-underline: underline;
+    --light-default-dashboard-tile-hover-bg: #f0f4f8;
+
+    /* Breadcrumb location */
+    --light-default-breadcrumb-text: #6b7280;                           /* text-gray-500 */
+    --light-default-breadcrumb-hover: #374151;                          /* text-gray-700 */
+    --light-default-breadcrumb-separator: #9ca3af;                      /* text-gray-400 */
+    --light-default-breadcrumb-active: #111827;                         /* text-gray-900 */
+
+    /* Status Colors */
+    --light-default-status-approve: #299764;
+    --light-default-status-partial: #ED5F00;
+    --light-default-status-pending: #3451B2;
+    --light-default-status-rejected: #C62A2F;
+
+    /* Icons */
+    --light-default-faPenToSquare: #B26034;
+    --light-default-faFilePdf: #30B665;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* ------------------------------ Dark Mode ---------------------------------- */
+
+    /* Default Dark */
+
+    --dark-default-bg-base: #252729;                          /* Dark Blue */
+    --dark-default-bg-light: #334155;                         /* Slightly Darker Blue */
+    --dark-default-bg-lighter: #475569;                       /* Lighter Blue */
+    --dark-default-bg-dark: #1a1c1e;
+    --dark-default-bg-darker: #94a3b8;                        /* Darker Blue */
+    --dark-default-text-base: #f8fafc;                        /* Light Gray */
+    --dark-default-text-hover: #60a5fa;                       /* Light Blue */
+    --dark-default-navbar-bg: #1E2939;
+    /* --dark-default-sidebar-bg: #1a1c1e; */
+    /* --dark-default-sidebar-bg: #3B3B3B; */
+    --dark-default-main-content-bg: #696969;
+    --dark-default-select-bg: #101828;
+    --dark-default-input-bg: #101828;
+    --dark-default-input-text: #e5e7eb;
+    --dark-default-label-text: #e2e3e3;
+    --dark-default-ul-bg: #101828;
+    --dark-default-li-hover-bg: #1a1c1e;
+    --dark-default-li-text: #ffffff;
+    --dark-default-panel-bg: #1A1C1E;
+    --dark-default-sidebar-header: #1E2939;                 /* Click Erp Logo */
+    --dark-default-menu_item_main: #1A1C1E;
+    --dark-default-float-item-parent: #3B3B3B;
+
+    --dark-default-panel-bg: #1F2937; /* Dark gray background */
+}
+html {
+  background-color: #fff;
+}
+body {
+  font-family: var(--font-inter);
+  scroll-behavior: smooth;
+  font-size: 0.7rem;
+  font-weight: 100;
+  font-optical-sizing: auto;
+  font-style: normal;
+  margin: 0;
+  background-color: #fff;
+  padding: 0
+}
+
+/* Default Theme */
+@import "./colorSchemeDefaultLight.css";
+@import "./colorSchemeDefaultDark.css";
+
+@import "tw-animate-css";
+
+.login_image {
+  background-image: url('/two.jpeg');
+  background-size: cover;
+  background-position: center;
+}
+
+.module_bg {
+  background-image: url('/module_bg.jpeg');
+  background-size: cover;
+  background-position: center;
+}
+
+/* Base styles for Panel and Sidebar */
+/* Hide scrollbar initially */
+.custom-scrollbar .simplebar-scrollbar {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+/* Show scrollbar on hover */
+.show-scrollbar .simplebar-scrollbar {
+  opacity: 1 !important;
+}
+
+/* Customize scrollbar width and color */
+.custom-scrollbar .simplebar-track.simplebar-vertical {
+  background: transparent; /* Track background */
+  width: 6px;
+}
+.custom-scrollbar .simplebar-scrollbar:before {
+  background-color: #4a90e2; /* Scrollbar color */
+  border-radius: 3px;
+  width: 6px;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none; /* IE & Edge */
+  scrollbar-width: none; /* Firefox */
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none; /* Chrome, Safari */
+}
+.hover:hover {
+  @apply text-white bg-white/[0.05];
+}
+/* Custom Styles */
+.custom-button {
+  @apply w-full py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500;
+}
+.custom-input {
+  @apply border border-gray-300 focus:ring-2 focus:ring-blue-500 p-2 rounded-lg;
+}
+/* Dropdown Menu */
+.dropdown-menu {
+  @apply absolute bg-white dark:bg-gray-800 rounded-md mt-2 w-64 shadow-lg z-10;
+}
+.dropdown-header {
+  @apply font-semibold text-gray-900 dark:text-white p-4;
+}
+.dropdown-divider {
+  @apply border-t border-gray-200 dark:border-gray-600;
+}
+.dropdown-item {
+  @apply flex items-center px-4 py-2 text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-md cursor-pointer;
+}
+.dropdown-item:hover {
+  @apply text-gray-900 dark:text-white;
+}
+.dropdown-menu-end {
+  @apply right-0; /* Aligns dropdown menu to the right */
+}
+.profile-img {
+  @apply rounded-full h-10 w-10 object-cover;
+}
+
+/* Custom Dropdown Menu Profile */
+.dropdown-menu.profile {
+  @apply border-0 rounded-[4px] py-2.5; /* Border 0, rounded corners with 4px radius, padding */
+  animation-name: dropdown-animate;
+  animation-duration: 0.2s;
+  animation-fill-mode: both;
+  /* Positioning */
+  @apply absolute mt-4; /* Positioning based on your original transform */
+  transform: translate3d(0, 0px, 0px); /* Custom transform */
+  width: 240px; /* Set width */
+}
+
+/* Make the bar thicker and brighter */
+#nprogress .bar {
+  background: transparent !important; /* Choose your ERP brand color */
+  height: 2px !important; /* Make it thicker */
+  z-index: 1031;
+}
+
+/* Optional: glowing effect */
+#nprogress .peg {
+  box-shadow: 0 0 10px #f74231, 0 0 5px #f74231;
+}
+
+/* Hide the spinner (optional) */
+#nprogress .spinner {
+  display: none !important;
+}
+
+/* Full width sticky style */
+#nprogress {
+  pointer-events: none;
+}
+
+#nprogress .bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+/* For mobile */
+.mobile-submenu {
+  transition: max-height 0.3s ease;
+}
+
+.mobile-menu-item {
+  padding: 0.5rem 1rem;
+}
+
+/* For desktop flyout */
+.sidebar {
+  overflow: visible !important;
+}
+
+/* Dark mode support */
+.dark .sidebar {
+  background: #1a202c;
+}
+
+/* Dark mode override (using Tailwind-style or custom class on <html> or <body>) */
+.dark #nprogress .bar {
+  background: #ffffff !important;
+}
+
+.dark #nprogress .peg {
+  box-shadow: 0 0 10px #ffffff, 0 0 5px #ffffff;
+}
+
+select option {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.react-datepicker-wrapper {
+  @apply flex-1
+}
+
+.react-datepicker__input-container input {
+   @apply border-gray-300 dark:border-gray-600
+}
+.react-datepicker-popper {
+ z-index: 9999 !important;
+}
+.react-datepicker__input-container input {
+  @apply mt-0 border border-gray-300  text-gray-900 dark:border-gray-600  dark:text-white
+}
+
+.float_item_parent{
+    background-color: #fff;   
+}
+
+.menu_item_main{
+  transition: background-color 0.25s ease-in-out;
+}
+
+@keyframes ios-spin {
+  0% { opacity: 1; }
+  100% { opacity: 0.1; }
+}
+
+.sidebar-animating .menu_item, .sidebar-animating .parent_menu_item {
+  white-space: nowrap;
+}
+
+.border-black-50 {
+  border-color: #00000045;
+}
+.border-white-50 {
+ border-color: #e3ebf68a;
+}
+
+@theme inline {
+    --radius-sm: calc(var(--radius) - 4px);
+    --radius-md: calc(var(--radius) - 2px);
+    --radius-lg: var(--radius);
+    --radius-xl: calc(var(--radius) + 4px);
+    --color-background: var(--background);
+    --color-foreground: var(--foreground);
+    --color-card: var(--card);
+    --color-card-foreground: var(--card-foreground);
+    --color-popover: var(--popover);
+    --color-popover-foreground: var(--popover-foreground);
+    --color-primary: var(--primary);
+    --color-primary-foreground: var(--primary-foreground);
+    --color-secondary: var(--secondary);
+    --color-secondary-foreground: var(--secondary-foreground);
+    --color-muted: var(--muted);
+    --color-muted-foreground: var(--muted-foreground);
+    --color-accent: var(--accent);
+    --color-accent-foreground: var(--accent-foreground);
+    --color-destructive: var(--destructive);
+    --color-border: var(--border);
+    --color-input: var(--input);
+    --color-ring: var(--ring);
+    --color-chart-1: var(--chart-1);
+    --color-chart-2: var(--chart-2);
+    --color-chart-3: var(--chart-3);
+    --color-chart-4: var(--chart-4);
+    --color-chart-5: var(--chart-5);
+    --color-sidebar: var(--sidebar);
+    --color-sidebar-foreground: var(--sidebar-foreground);
+    --color-sidebar-primary: var(--sidebar-primary);
+    --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+    --color-sidebar-accent: var(--sidebar-accent);
+    --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+    --color-sidebar-border: var(--sidebar-border);
+    --color-sidebar-ring: var(--sidebar-ring);
+}
+
+:root {
+    --radius: 0.625rem;
+    --background: oklch(1 0 0);
+    --foreground: oklch(0.145 0 0);
+    --card: oklch(1 0 0);
+    --card-foreground: oklch(0.145 0 0);
+    --popover: oklch(1 0 0);
+    --popover-foreground: oklch(0.145 0 0);
+    --primary: oklch(0.205 0 0);
+    --primary-foreground: oklch(0.985 0 0);
+    --secondary: oklch(0.97 0 0);
+    --secondary-foreground: oklch(0.205 0 0);
+    --muted: oklch(0.97 0 0);
+    --muted-foreground: oklch(0.556 0 0);
+    --accent: oklch(0.97 0 0);
+    --accent-foreground: oklch(0.205 0 0);
+    --destructive: oklch(0.577 0.245 27.325);
+    --border: oklch(0.922 0 0);
+    --input: oklch(0.922 0 0);
+    --ring: oklch(0.708 0 0);
+    --chart-1: oklch(0.646 0.222 41.116);
+    --chart-2: oklch(0.6 0.118 184.704);
+    --chart-3: oklch(0.398 0.07 227.392);
+    --chart-4: oklch(0.828 0.189 84.429);
+    --chart-5: oklch(0.769 0.188 70.08);
+    --sidebar: oklch(0.985 0 0);
+    --sidebar-foreground: oklch(0.145 0 0);
+    --sidebar-primary: oklch(0.205 0 0);
+    --sidebar-primary-foreground: oklch(0.985 0 0);
+    --sidebar-accent: oklch(0.97 0 0);
+    --sidebar-accent-foreground: oklch(0.205 0 0);
+    --sidebar-border: oklch(0.922 0 0);
+    --sidebar-ring: oklch(0.708 0 0);
+}
+
+.dark {
+    --background: oklch(0.145 0 0);
+    --foreground: oklch(0.985 0 0);
+    --card: oklch(0.205 0 0);
+    --card-foreground: oklch(0.985 0 0);
+    --popover: oklch(0.205 0 0);
+    --popover-foreground: oklch(0.985 0 0);
+    --primary: oklch(0.922 0 0);
+    --primary-foreground: oklch(0.205 0 0);
+    --secondary: oklch(0.269 0 0);
+    --secondary-foreground: oklch(0.985 0 0);
+    --muted: oklch(0.269 0 0);
+    --muted-foreground: oklch(0.708 0 0);
+    --accent: oklch(0.269 0 0);
+    --accent-foreground: oklch(0.985 0 0);
+    --destructive: oklch(0.704 0.191 22.216);
+    --border: oklch(1 0 0 / 10%);
+    --input: oklch(1 0 0 / 15%);
+    --ring: oklch(0.556 0 0);
+    --chart-1: oklch(0.488 0.243 264.376);
+    --chart-2: oklch(0.696 0.17 162.48);
+    --chart-3: oklch(0.769 0.188 70.08);
+    --chart-4: oklch(0.627 0.265 303.9);
+    --chart-5: oklch(0.645 0.246 16.439);
+    --sidebar: oklch(0.205 0 0);
+    --sidebar-foreground: oklch(0.985 0 0);
+    --sidebar-primary: oklch(0.488 0.243 264.376);
+    --sidebar-primary-foreground: oklch(0.985 0 0);
+    --sidebar-accent: oklch(0.269 0 0);
+    --sidebar-accent-foreground: oklch(0.985 0 0);
+    --sidebar-border: oklch(1 0 0 / 10%);
+    --sidebar-ring: oklch(0.556 0 0);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+    }
+  body {
+    @apply bg-background text-foreground;
+    }
+}
+
+
+
+
+
+
+/* Fade in from bottom */
+@keyframes slide-up-fade-in {
+  0% { opacity: 0; transform: translateY(20px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+/* Fly away to right */
+@keyframes fly-right-fade-out {
+  0% { opacity: 1; transform: translateX(0); }
+  100% { opacity: 0; transform: translateX(50px); }
+}
+
+
+#test_one {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+
+#test_one::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('../../assets/one.png') no-repeat center/cover;
+  opacity: 0.25;
+  z-index: -1;
+}

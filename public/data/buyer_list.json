@@ -1,0 +1,177 @@
+[
+	{
+		"id" : 1,
+		"name" : "New Yorker",
+		"displayName" : "New Yorker",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 2,
+		"name" : "NKD",
+		"displayName" : "NKD",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 3,
+		"name" : "Zeeman",
+		"displayName" : "Zeeman",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 11,
+		"name" : "Pepco",
+		"displayName" : "Pepco",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 12,
+		"name" : "Family Dollar",
+		"displayName" : "Family Dollar",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 13,
+		"name" : "Qubramar",
+		"displayName" : "Qubramar",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 14,
+		"name" : "Lidl",
+		"displayName" : "Lidl",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 15,
+		"name" : "Matalan",
+		"displayName" : "Matalan",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 16,
+		"name" : "MNR",
+		"displayName" : "MNR",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 17,
+		"name" : "Helenic",
+		"displayName" : "Helenic",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 18,
+		"name" : "Sonae Fashion",
+		"displayName" : "Sonae Fashion",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 19,
+		"name" : "Lisatex",
+		"displayName" : "Lisatex",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 4,
+		"name" : "Primark",
+		"displayName" : "Primark",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 5,
+		"name" : "LPP",
+		"displayName" : "LPP",
+		"mainBuyerId" : 5,
+		"countryId" : 0
+	},
+	{
+		"id" : 6,
+		"name" : "Takko",
+		"displayName" : "Takko",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 7,
+		"name" : "Yamamay",
+		"displayName" : "Yamamay",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 8,
+		"name" : "Defacto",
+		"displayName" : "Defacto",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 9,
+		"name" : "Big Star",
+		"displayName" : "Big Star",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 10,
+		"name" : "Max",
+		"displayName" : "Max",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 24,
+		"name" : "SCAPINO",
+		"displayName" : "SCAPINO",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 20,
+		"name" : "TEDDY SPA (Calli+ Terenova)",
+		"displayName" : "TEDDY SPA (Calli+ Terenova)",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 21,
+		"name" : "KIK",
+		"displayName" : "KIK",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 22,
+		"name" : "DM",
+		"displayName" : "DM",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 23,
+		"name" : "Rusayla Clothing _Argentina",
+		"displayName" : "Rusayla Clothing _Argentina",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	},
+	{
+		"id" : 25,
+		"name" : "OVER KIDS",
+		"displayName" : "OVER KIDS",
+		"mainBuyerId" : 0,
+		"countryId" : 0
+	}
+]

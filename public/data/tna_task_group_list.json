@@ -1,0 +1,87 @@
+[
+	{
+		"id" : 1,
+		"name" : "Supply Chain",
+		"colorCode" : null
+	},
+	{
+		"id" : 2,
+		"name" : "Merchandising",
+		"colorCode" : null
+	},
+	{
+		"id" : 3,
+		"name" : "Knitting",
+		"colorCode" : null
+	},
+	{
+		"id" : 4,
+		"name" : "Dyeing",
+		"colorCode" : null
+	},
+	{
+		"id" : 5,
+		"name" : "Planning",
+		"colorCode" : null
+	},
+	{
+		"id" : 6,
+		"name" : "RMG-Cutting",
+		"colorCode" : null
+	},
+	{
+		"id" : 7,
+		"name" : "Yarn Procurement",
+		"colorCode" : null
+	},
+	{
+		"id" : 8,
+		"name" : "Commercial",
+		"colorCode" : null
+	},
+	{
+		"id" : 9,
+		"name" : "RMG-Sewing",
+		"colorCode" : null
+	},
+	{
+		"id" : 10,
+		"name" : "PPC",
+		"colorCode" : null
+	},
+	{
+		"id" : 11,
+		"name" : "RMG-Finishing",
+		"colorCode" : null
+	},
+	{
+		"id" : 12,
+		"name" : "Lab Dip Section",
+		"colorCode" : null
+	},
+	{
+		"id" : 13,
+		"name" : "RMG-Sample",
+		"colorCode" : null
+	},
+	{
+		"id" : 14,
+		"name" : "RMG-Size Set",
+		"colorCode" : null
+	},
+	{
+		"id" : 15,
+		"name" : "RMG-Store",
+		"colorCode" : null
+	},
+	{
+		"id" : 16,
+		"name" : "Quality Assurance",
+		"colorCode" : null
+	},
+	{
+		"id" : 17,
+		"name" : "Lab",
+		"colorCode" : null
+	}
+]

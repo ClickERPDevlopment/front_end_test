@@ -1,0 +1,23 @@
+[
+  {
+    "configId": 1,
+    "configKey": "default_currency",
+    "configValue": "USD",
+    "description": "Default currency used in the system",
+    "isActive": true
+  },
+  {
+    "configId": 2,
+    "configKey": "max_login_attempts",
+    "configValue": "5",
+    "description": "Maximum number of failed login attempts before lockout",
+    "isActive": true
+  },
+  {
+    "configId": 3,
+    "configKey": "enable_notifications",
+    "configValue": "true",
+    "description": "Toggle system-wide notifications",
+    "isActive": false
+  }
+]

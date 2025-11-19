@@ -1,0 +1,698 @@
+[
+	{
+		"costNo" : 1,
+		"costNoParent" : 0,
+		"costName" : "CM",
+		"companyNo" : null,
+		"isTransaction" : "0",
+		"lvl" : 1
+	},
+	{
+		"costNo" : 2,
+		"costNoParent" : 1,
+		"costName" : "VEHEICLE",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 84,
+		"costNoParent" : 1,
+		"costName" : "Depreciation",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 79,
+		"costNoParent" : 1,
+		"costName" : "KNITTING",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 60,
+		"costNoParent" : 1,
+		"costName" : "Office",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 78,
+		"costNoParent" : 1,
+		"costName" : "Adminstrative",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 80,
+		"costNoParent" : 1,
+		"costName" : "DYEING",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 83,
+		"costNoParent" : 1,
+		"costName" : "Material Cost",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 88,
+		"costNoParent" : 1,
+		"costName" : "Environment Sustainability",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 92,
+		"costNoParent" : 22,
+		"costName" : "12-3659",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 25,
+		"costNoParent" : 1,
+		"costName" : "Dyeing Supplies",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 5,
+		"costNoParent" : 2,
+		"costName" : "DH-0102\/H",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 12,
+		"costNoParent" : 1,
+		"costName" : "Finishing",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 13,
+		"costNoParent" : 1,
+		"costName" : "Sample",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 14,
+		"costNoParent" : 1,
+		"costName" : "CAD",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 15,
+		"costNoParent" : 1,
+		"costName" : "Quality",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 16,
+		"costNoParent" : 1,
+		"costName" : "Maintenance Mechanical",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 17,
+		"costNoParent" : 1,
+		"costName" : "Maintenance Electrical",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 18,
+		"costNoParent" : 1,
+		"costName" : "Maintenance Civil",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 19,
+		"costNoParent" : 1,
+		"costName" : "Compliance",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 20,
+		"costNoParent" : 1,
+		"costName" : "IT",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 21,
+		"costNoParent" : 1,
+		"costName" : "House Keeping",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 22,
+		"costNoParent" : 1,
+		"costName" : "Office Vehicle",
+		"companyNo" : null,
+		"isTransaction" : "0",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 23,
+		"costNoParent" : 1,
+		"costName" : "Logistic Vehicle",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 24,
+		"costNoParent" : 1,
+		"costName" : "Maintenance Dyeing and Finishing Machine",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 26,
+		"costNoParent" : 1,
+		"costName" : "Boiler",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 27,
+		"costNoParent" : 1,
+		"costName" : "Generator",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 28,
+		"costNoParent" : 1,
+		"costName" : "Maintenance Knitting Machine",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 29,
+		"costNoParent" : 1,
+		"costName" : "Utility",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 30,
+		"costNoParent" : 1,
+		"costName" : "ETP",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 31,
+		"costNoParent" : 1,
+		"costName" : "Needle",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 32,
+		"costNoParent" : 1,
+		"costName" : "Head Office",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 33,
+		"costNoParent" : 1,
+		"costName" : "Custom Cost",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 34,
+		"costNoParent" : 1,
+		"costName" : "VAT AND TAX",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 35,
+		"costNoParent" : 1,
+		"costName" : "Test (Direct Material)",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 36,
+		"costNoParent" : 1,
+		"costName" : "Test (Indirect Material)",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 37,
+		"costNoParent" : 1,
+		"costName" : "Business Promotion",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 38,
+		"costNoParent" : 1,
+		"costName" : "Donation",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 39,
+		"costNoParent" : 1,
+		"costName" : "Incentives",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 40,
+		"costNoParent" : 1,
+		"costName" : "Salary",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 41,
+		"costNoParent" : 1,
+		"costName" : "Wages",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 42,
+		"costNoParent" : 1,
+		"costName" : "Tiffin",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 43,
+		"costNoParent" : 1,
+		"costName" : "Tips",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 44,
+		"costNoParent" : 1,
+		"costName" : "Rent",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 45,
+		"costNoParent" : 1,
+		"costName" : "LAB",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 46,
+		"costNoParent" : 1,
+		"costName" : "Interest",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 47,
+		"costNoParent" : 1,
+		"costName" : "Store",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 48,
+		"costNoParent" : 1,
+		"costName" : "Conveyance",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 49,
+		"costNoParent" : 1,
+		"costName" : "License Renewal",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 50,
+		"costNoParent" : 1,
+		"costName" : "Printing and Stationary",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 51,
+		"costNoParent" : 1,
+		"costName" : "Food Allowance",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 54,
+		"costNoParent" : 1,
+		"costName" : "Maintenance AC",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 58,
+		"costNoParent" : 1,
+		"costName" : "Maintenance General",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 64,
+		"costNoParent" : 22,
+		"costName" : "16-5764",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 65,
+		"costNoParent" : 22,
+		"costName" : "20-9749",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 66,
+		"costNoParent" : 22,
+		"costName" : "47-4385",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 67,
+		"costNoParent" : 22,
+		"costName" : "15-9446",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 68,
+		"costNoParent" : 22,
+		"costName" : "11-3412",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 69,
+		"costNoParent" : 22,
+		"costName" : "12-6806",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 70,
+		"costNoParent" : 22,
+		"costName" : "12-3526",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 71,
+		"costNoParent" : 22,
+		"costName" : "51-4720",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 72,
+		"costNoParent" : 23,
+		"costName" : "11-2171",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 73,
+		"costNoParent" : 23,
+		"costName" : "11-2362",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 74,
+		"costNoParent" : 23,
+		"costName" : "51-7769",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 75,
+		"costNoParent" : 23,
+		"costName" : "51-7770",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 76,
+		"costNoParent" : 23,
+		"costName" : "13-0495",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 77,
+		"costNoParent" : 22,
+		"costName" : "75-0529",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 81,
+		"costNoParent" : 22,
+		"costName" : "12-8693",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 89,
+		"costNoParent" : 1,
+		"costName" : "Embroidery",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 52,
+		"costNoParent" : 1,
+		"costName" : "WTP",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 53,
+		"costNoParent" : 1,
+		"costName" : "Compressor",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 59,
+		"costNoParent" : 1,
+		"costName" : "Mending ",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 61,
+		"costNoParent" : 1,
+		"costName" : "Knitting charge",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 62,
+		"costNoParent" : 1,
+		"costName" : "Deying charge",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 82,
+		"costNoParent" : 1,
+		"costName" : "Import ",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 87,
+		"costNoParent" : 23,
+		"costName" : "11-7278",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 90,
+		"costNoParent" : 1,
+		"costName" : "SAMPLE RETURN",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 91,
+		"costNoParent" : 1,
+		"costName" : "Printing",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 55,
+		"costNoParent" : 1,
+		"costName" : "Maintenance Lift",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 57,
+		"costNoParent" : 1,
+		"costName" : "Commercial Expenses",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 9,
+		"costNoParent" : 1,
+		"costName" : "Cutting",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 10,
+		"costNoParent" : 1,
+		"costName" : "Sewing Maintenance",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 11,
+		"costNoParent" : 1,
+		"costName" : "Sewing Supplies",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 56,
+		"costNoParent" : 1,
+		"costName" : "Bank Charges & Commission",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 2
+	},
+	{
+		"costNo" : 63,
+		"costNoParent" : 22,
+		"costName" : "47-7557",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 85,
+		"costNoParent" : 22,
+		"costName" : "17-0102",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	},
+	{
+		"costNo" : 86,
+		"costNoParent" : 22,
+		"costName" : "25-1178",
+		"companyNo" : null,
+		"isTransaction" : "1",
+		"lvl" : 3
+	}
+]

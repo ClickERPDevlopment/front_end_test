@@ -1,0 +1,29 @@
+export interface EmbellishmentWIPReportType {
+  EMBELLISHMENT_ORDERNO?: string;
+  WO_ID: number;
+  BUYER_ID: number;
+  STYLE_ID: number;
+  PO_ID: number;
+  OS_BUYER_ID: number;
+  OS_STYLE_ID: number;
+  OS_PO_ID: number;
+  EMBELLISHMENT_TYPE_ID: number;
+  WORK_ORDER_NO?: string;
+  BUYER?: string;
+  STYLE?: string;
+  PO_NO?: string;
+  PO_QTY: number;
+  OS_BUYER?: string;
+  OS_STYLE?: string;
+  OS_PO_NO?: string;
+  EMBELLISHMENT_TYPE?: string;
+  WO_QTY: number;
+  PRINTING_RCV_QTY: number;
+  EMBROIDERY_RCV_QTY: number;
+  PRINTING_PRO_QTY: number;
+  EMBROIDERY_PRO_QTY: number;
+  PRINTING_DEL_QTY: number;
+  EMBROIDERY_DEL_QTY: number;
+  COMPANY_NAME: string;
+  COMPANY_ADDRESS: string;
+}

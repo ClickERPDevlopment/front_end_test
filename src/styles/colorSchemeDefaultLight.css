@@ -1,0 +1,612 @@
+/* Default Theme */
+/* .light .default {
+  @apply bg-[var(--light-default-bg-base)];
+} */
+
+
+/* ------------------------------------------------------------ Test Section */
+
+
+/* ------------------------------------------------------------------------- */
+
+
+
+.light .default .light-bg {
+  @apply bg-[var(--light-default-bg-light)];
+}
+
+.light .default .dark-bg {
+  @apply bg-[var(--light-default-bg-dark)];
+}
+
+.light .default .lighter-bg {
+  @apply bg-[var(--light-default-bg-lighter)];
+}
+
+.light .default .darker-bg {
+  @apply bg-[var(--light-default-bg-darker)];
+}
+
+.light .default .text {
+  @apply text-[var(--light-default-text-base)];
+}
+
+.light .default .text-arrow {
+  @apply text-[var(--light-default-text-arrow)];
+}
+
+
+.light .default .navbar {
+  @apply bg-[var(--light-default-navbar-bg-main)];
+  @apply text-[var(--light-default-navbar-text)];
+}
+
+.light .default .switcher {
+  @apply bg-[var(--light-default-bg-light)];
+}
+
+.light .default .navbar .hover {
+  @apply transition-colors duration-300 ease-in-out;
+}
+
+/* Full height for layout */
+html,
+body,
+#root {
+  @apply h-full m-0 p-0;
+}
+
+/* Light mode (default) */
+html[data-theme="light"] {
+  @apply  text-black;
+}
+
+/* Dark mode */
+html[data-theme="dark"] {
+  @apply bg-[var(--dark-default-main-content-bg)] text-white;
+}
+
+/* html, body, #root {
+  @apply h-full m-0 p-0 bg-[var(--light-default-main-content-bg)] text-black dark:bg-[var(--dark-default-main-content-bg)] dark:text-white;
+} */
+
+
+
+/* .light .default select {
+  @apply bg-[var(--light-default-select-bg)]  focus:outline-none focus:ring-1 focus:ring-blue-400 focus:border-blue-400;
+}
+.light .default input {
+  @apply bg-[var(--light-default-input-bg)] focus:outline-none focus:ring-1 focus:ring-blue-400 focus:border-blue-400;
+}
+.light .default textarea {
+  @apply bg-[var(--light-default-input-bg)]  focus:outline-none focus:ring-1 focus:ring-blue-400 focus:border-blue-400;
+} */
+.light .default label {
+  @apply text-[var(--light-default-label-text)];
+}
+.light .default ul.component {
+  @apply bg-[var(--light-default-ul-bg)] border-gray-300 dark:border-black;
+}
+.light .default ul.component li {
+  @apply text-[var(--light-default-li-text)];
+}
+/* .light .default ul.component li:hover {
+  @apply bg-[var(--light-default-li-hover-bg)];
+} */
+ .light .default ul.component li:hover {
+  @apply text-[var(--light-default-li-hover-bg)];
+}
+.light .default ul.component li.highlight {
+  @apply bg-[var(--light-default-li-hover-bg)];
+}
+
+input[type="text"],
+input[type="number"] {
+  @apply focus:outline-none focus:ring-1 focus:ring-blue-400 focus:border-blue-400;
+}
+
+input.autosuggestion {
+  @apply focus:outline-none focus:ring-1 focus:ring-blue-400 focus:border-blue-400;
+}
+
+input.auto-suggestion-focus-input {
+  @apply focus:outline-none focus:ring-white;
+}
+
+textarea {
+  @apply focus:outline-none focus:ring-1 focus:ring-blue-400 focus:border-blue-400;
+}
+
+select {
+  @apply focus:outline-none focus:ring-1 focus:ring-blue-400 focus:border-blue-400;
+}
+
+select {
+  @apply focus:outline-none focus:ring-1 focus:ring-blue-400 focus:border-blue-400;
+}
+.hasInputControlColor input {
+  @apply bg-[var(--light-input-bg)] focus:outline-none focus:ring-1 focus:ring-blue-400 focus:border-blue-400;
+}
+.hasInputControlColor input.autosuggestion {
+  @apply bg-[var(--light-autosuggetion-bg)] focus:outline-none focus:ring-1 focus:ring-blue-400 focus:border-blue-400;
+}
+.hasInputControlColor textarea {
+  @apply bg-[var(--light-textarea-bg)] focus:outline-none focus:ring-1 focus:ring-blue-400 focus:border-blue-400;
+}
+.hasInputControlColor select {
+  @apply bg-[var(--light-select-bg)] focus:outline-none focus:ring-1 focus:ring-blue-400 focus:border-blue-400;
+}
+.hasInputControlColor select {
+  @apply bg-[var(--light-select-bg)] focus:outline-none focus:ring-1 focus:ring-blue-400 focus:border-blue-400;
+}
+.auto-suggestion input {
+  @apply bg-transparent focus:outline-none focus:border-transparent focus:bg-transparent ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------------------------------------------------------- Top Navbar as a whole */
+/* Click Erp Logo on sidebar */
+.light .default .sidebar .header{
+    @apply bg-[var(--light-default-navbar-bg-side)];
+    @apply text-[var(--light-default-sidebar-bg)];
+}
+/* Main Top Navbar */
+.light .default .navbar .hover:hover {
+    @apply bg-[var(--light-default-navbar-bg-main)];
+    @apply text-[var(--light-default-text-hover)];
+}
+
+
+/* ---------------------------------------------------------- Sidebar */
+/* Sidebar - Only Parent Menu Items */
+.light .default .parent_menu_item_main {
+    @apply bg-[var(--light-default-menu_item_main)] ;
+    color: var(--light-default-sidebar-text);
+}
+/* Sidebar - vertical length */
+.light .default .sidebar {
+    @apply bg-[var(--light-default-sidebar-bg)];
+}
+/* Hover on Sidebar - Parent Menu Items */
+.light .default .parent_menu_item_main:hover{
+    background-color: rgb(242, 242, 242);
+    cursor: pointer;
+
+}
+.light .default .menu_item_main{
+
+    color: var(--light-default-sidebar-text);
+}
+.light .default .module_name{
+    color: var(--light-default-sidebar-text);
+}
+/* Hover on Sidebar - Child Menu Items */
+.light .default .menu_item_main:hover{
+  background-color: rgb(242, 242, 242);
+    cursor: pointer;
+}
+.light .default .sidebar-header {
+    @apply bg-[var(--light-default-sidebar-header)];
+}
+
+.light .default .module_name:hover {
+   background-color: rgb(242, 242, 242);
+   cursor: pointer;
+}
+
+/* ------------------------------------------------------------ Sidebar Icons */
+.light .default .icon {
+    @apply w-[20px] h-[20px]  rounded-sm;   
+    background-color: white;
+    color: var(--light-blue-text-base);
+}
+.light .default .icon:hover {
+    background-color: var(--light-blue-navbar-bg);
+    color: var(--light-blue-text-base);
+}
+.light .default .iconSub {
+    @apply w-3 h-4 pe-2;
+    color: var(--light-blue-text-base);
+}
+.light .default .sub_menu_icon {
+    @apply w-3 h-3 flex items-center justify-center mr-2;
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: inset 0 0 0 2px var(--light-default-text-base);
+}
+
+/* -------------------------------------------------------------- Floating Sidebar Menu */
+.light .float_item_parent{
+    background-color: #ffffff;   
+    color: black;
+}
+
+
+/* -------------------------------------------------------------- Dropdown Auto Suggest */
+
+/* old */
+.light .default .dropdown-auto-suggest-input {
+    @apply bg-[var(--light-default-dropdown-auto-suggest-input)];
+}
+
+.light .default .dropdown-auto-suggest-input:focus-within {
+    outline: none;
+    border: 2px solid var(--light-default-dropdown-auto-suggest-input-focus);
+    box-shadow: 0 0 0 2px rgba(52, 151, 219, 0.6);
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.light .default .dropdown-auto-suggest-ul {
+    @apply bg-[var(--light-default-dropdown-auto-suggest-ul)];
+}
+.light .default .dropdown-auto-suggest-ul-li {
+    @apply cursor-pointer;
+    background-color: var(--light-default-dropdown-auto-suggest-ul-li);
+    color: var(--light-default-dropdown-auto-suggest-ul-li-color);
+}
+.light .default .dropdown-auto-suggest-ul-li:hover,
+.light .default .dropdown-auto-suggest-ul-li.active {
+    background-color: var(--light-default-dropdown-auto-suggest-ul-li-hover);
+    color: var(--light-default-dropdown-auto-suggest-ul-li-hover-color);
+}
+.light .default .dropdown-auto-suggest-ul-li.active {
+    background-color: var(--light-default-dropdown-auto-suggest-ul-li-hover);
+    color: var(--light-default-dropdown-auto-suggest-ul-li-hover-color);
+}
+
+
+
+
+/* --------------------------------------------------------------- Select Dropdown */
+.light .default .select-dropdown-input {
+    @apply cursor-pointer;
+    background-color: var(--light-default-select-dropdown-input);
+    color: var(--light-default-select-dropdown-ul-li-color);
+}
+.light .default .select-dropdown-ul {
+    background-color: var(--light-default-select-dropdown-ul);
+}
+.light .default .select-dropdown-ul-li {
+    cursor: pointer;
+    background-color: var(--light-default-select-dropdown-ul-li);
+    color: var(--light-default-select-dropdown-ul-li-color);
+}
+
+.light .default .select-dropdown-ul-li .eye-icon {
+    color: #ff0000;
+}
+.light .default .select-dropdown-ul-li:hover,
+.light .default .select-dropdown-ul-li.active {
+    background-color: var(--light-default-select-dropdown-ul-li-hover);
+    color: var(--light-default-select-dropdown-ul-li-hover-color);
+}
+/* active = keyboard highlight, selected = current value */
+.light .default .select-dropdown-ul-li.active {
+    background-color: var(--light-default-select-dropdown-ul-li-hover);
+    color: var(--light-default-select-dropdown-ul-li-hover-color);
+}
+.light .default .select-dropdown-ul-li.selected {
+    background-color: #D6F0FF; /* subtle light blue for selected item */
+}
+.light .default .select-dropdown-container:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+
+
+/* --------------------------------------------------------------- Simple Input Box */
+.light .default .simple-input-box {
+    background-color: var(--light-default-simple-input-box-bg);
+    border: 1px solid var(--light-default-simple-input-box-border);
+    color: var(--light-default-simple-input-box-text);
+    ::placeholder {
+        color: var(--light-default-simple-input-box-placeholder);
+    }
+}
+.light .default .simple-input-box:focus {
+    outline: none;
+    /* box-shadow: 0 0 0 1px var(--light-default-simple-input-box-focus-ring); */
+}
+.light .default .simple-input-box:disabled {
+    background-color: var(--light-default-simple-input-box-disabled-bg);
+    color: var(--light-default-simple-input-box-disabled-text);
+    cursor: not-allowed;
+}
+
+
+/* ------------------------------------------------------------------ Custom Data Table */
+.light .default .data-table {
+    background-color: var(--light-default-table-bg);
+    color: var(--light-default-table-text);
+    border: 1px solid var(--light-default-table-border);
+    border-collapse: collapse;
+}
+/* Table header */
+.light .default .data-table thead {
+    background-color: var(--light-default-table-header-bg);
+    color: var(--light-default-table-header-text);
+}
+/* Table rows */
+.light .default .data-table tbody tr.odd {
+    background-color: var(--light-default-table-row-odd-bg);
+}
+.light .default .data-table tbody tr.even {
+    background-color: var(--light-default-table-row-even-bg);
+}
+.light .default .data-table tbody tr:hover {
+    background-color: var(--light-default-table-row-hover-bg);
+}
+.light .default .data-table.report tbody tr:hover {
+    background-color: transparent;
+}
+/* Table cells */
+.light .default .data-table td,
+.light .default .data-table th {
+    border: 1px solid var(--light-default-table-border);
+}
+/* Column toggle menu */
+.light .default .column-menu {
+    background-color: var(--light-default-column-menu-bg);
+    border: 1px solid var(--light-default-column-menu-border);
+}
+.light .default .column-menu li:hover {
+    background-color: var(--light-default-column-menu-hover);
+}
+
+
+
+/* ----------------------------------------------------------------------- Button */
+.light .default .button-filled {
+    background-color: var(--light-default-button-bg);
+    color: var(--light-default-button-text);
+}
+.light .default .button-filled:hover {
+    background-color: var(--light-default-button-hover-bg);
+}
+.light .default .button-outlined {
+    border: 1px solid var(--light-default-button-outlined-border);
+    color: var(--light-default-button-outlined-text);
+    background-color: transparent;
+}
+.light .default .button-flat {
+    background-color: transparent;
+    color: var(--light-default-button-flat-text);
+}
+.light .default .button-flat:hover {
+    text-decoration: underline;
+}
+/* Disabled button styling */
+.light .default button:disabled {
+    opacity: var(--light-default-button-disabled-opacity);
+    cursor: not-allowed;
+}
+
+
+/* ----------------------------------------------------------------------- Page Header */
+.light .default .page-header {
+    border-color: var(--light-default-page-header-border);
+}
+.light .default .page-header-title {    
+    color: var(--light-default-page-header-title-color);
+}
+.light .default .page-header-btn {
+    background-color: var(--light-default-page-header-btn-bg);
+    color: var(--light-default-page-header-btn-color);
+    transition: background-color 0.2s ease;
+}
+.light .default .page-header-btn:hover {
+    background-color: var(--light-default-page-header-btn-hover-bg);
+}
+
+
+
+/* ----------------------------------------------------------------------- Panel */
+.light .default .panel {
+    @apply bg-[var(--light-default-panel-bg)];
+}
+
+
+
+
+/* ----------------------------------------------------------------------- Text Area Box */
+/* Base styles for all textareas */
+.light .default .textarea-base {
+    background-color: var(--light-default-textarea-bg);
+    color: var(--light-default-textarea-color);
+    border-radius: 0.375rem; /* rounded */
+    padding: 0.5rem 0.75rem; /* px-3 py-2 */
+    resize: none;
+    outline: none;
+    transition: border-color 0.2s ease, background-color 0.2s ease;
+}
+
+/* Default variant */
+.light .default .textarea-default {
+    border: 1px solid var(--light-default-textarea-border);
+}
+
+.light .default .textarea-default:hover,
+.light .default .textarea-default:focus {
+    border-color: var(--light-default-textarea-border-hover);
+}
+
+/* Flat variant */
+.light .default .textarea-flat {
+    border: none;
+    color: var(--light-default-textarea-flat-color);
+}
+
+/* Bordered variant */
+.light .default .textarea-bordered {
+    border: 2px solid var(--light-default-textarea-bordered-border);
+    color: var(--light-default-textarea-color);
+}
+
+.light .default .textarea-bordered:hover,
+.light .default .textarea-bordered:focus {
+    border-color: var(--light-default-textarea-border-hover);
+}
+
+
+
+/* ----------------------------------------------------------------------- Tooltip */
+.light .default .tooltip-bubble {
+    background-color: var(--light-tooltip-bg);
+    color: var(--light-tooltip-text);
+}
+.light .default .tooltip-dotted {
+    border-bottom-color: var(--light-tooltip-border-dotted);
+}
+
+
+
+
+/* ----------------------------------------------------------------------- Tabs */
+/* Default Variant */
+.light .default .tab-default {
+    background-color: var(--light-tabs-bg);
+    border-color: var(--light-tabs-border);
+    color: var(--light-tabs-text);
+}
+
+.light .default .tab-default.active {
+    background-color: var(--light-tabs-active-bg);
+    color: var(--light-tabs-active-text);
+    border-color: var(--light-tabs-active-bg);
+}
+
+.light .default .tab-default:hover {
+    border-color: var(--light-tabs-hover-border);
+}
+
+/* Underline Variant */
+.light .default .tab-underline {
+    border-bottom-width: 2px;
+    border-color: transparent;
+    color: var(--light-tabs-underline-text);
+    transition: border-color 0.2s, color 0.2s;
+}
+
+.light .default .tab-underline.active {
+    border-color: var(--light-tabs-underline-active-border);
+    color: var(--light-tabs-underline-active-text);
+}
+
+/* Pill Variant */
+.light .default .tab-pill {
+    background-color: var(--light-tabs-pill-bg);
+    color: var(--light-tabs-pill-text);
+    transition: background-color 0.2s, color 0.2s;
+}
+
+.light .default .tab-pill.active {
+    background-color: var(--light-tabs-pill-active-bg);
+    color: var(--light-tabs-pill-active-text);
+}
+
+/* Badge */
+.light .default .tab-badge {
+    background-color: var(--light-tabs-badge-bg);
+    color: var(--light-tabs-badge-text);
+}
+
+.light .default .tab-badge.active {
+    background-color: var(--light-tabs-badge-active-bg);
+    color: var(--light-tabs-badge-active-text);
+}
+
+
+
+
+
+
+
+
+/* ----------------------------------------------------------------------- Dashboard */
+.light .default .dashboard-tile {
+    background-color: var(--light-default-dashboard-tile-bg);
+}
+
+/* .dashboard-tile:hover {
+    background-color: var(--light-default-dashboard-tile-hover-bg);
+} */
+
+.light .default .dashboard-tile-text {
+    color: var(--light-default-dashboard-tile-text);
+    text-decoration: var(--light-default-dashboard-tile-underline);
+}
+
+
+
+
+
+
+/* ----------------------------------------------------------------------- Dashboard */
+.light .default .breadcrumb {
+    @apply flex items-center space-x-2 text-sm;
+}
+
+.light .default .breadcrumb-link {
+    color: var(--light-default-breadcrumb-text);
+    transition: color 0.2s;
+    text-decoration: none;
+}
+
+.light .default .breadcrumb-link:hover {
+    color: var(--light-default-breadcrumb-hover);
+}
+
+.light .default .breadcrumb-separator {
+    color: var(--light-default-breadcrumb-separator);
+}
+
+.light .default .breadcrumb-active {
+    color: var(--light-default-breadcrumb-active);
+    font-weight: 700;
+}
+
+
+/* --------------------------------------------------------------------- Status color */
+.status-approve { color: var(--light-default-status-approve); }
+.status-rejected { color: var(--light-default-status-rejected); }
+.status-pending { color: var(--light-default-status-pending); }
+.status-partial { color: var(--light-default-status-partial); }
+
+
+/* --------------------------------------------------------------------- Icons color */
+.faPenToSquare { color: var(--light-default-faPenToSquare); }
+.faFilePdf { color: var(--light-default-faFilePdf); }

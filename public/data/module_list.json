@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Configuration",
+    "link": "/webapp/configuration",
+    "image": "/module_icons/management.png"
+  },
+  {
+    "id": 2,
+    "name": "Merchandising",
+    "link": "/webapp/merchandising",
+    "image": "/module_icons/merchandiser.png"
+  },
+  {
+    "id": 3,
+    "name": "Planning",
+    "link": "/webapp/gmt-planning",
+    "image": "/module_icons/planning.png"
+  },
+  {
+    "id": 4,
+    "name": "Procurement",
+    "link": "/webapp/procurement",
+    "image": "/module_icons/procurement.png"
+  },
+  {
+    "id": 5,
+    "name": "Accounts",
+    "link": "/webapp/accounts",
+    "image": "/module_icons/accounts.png"
+  },
+  {
+    "id": 6,
+    "name": "Inventory",
+    "link": "/webapp/inventory",
+    "image": "/module_icons/inventory.png"
+  },
+  {
+    "id": 7,
+    "name": "Garments Production",
+    "link": "/webapp/gmt-production",
+    "image": "/module_icons/production.png"
+  },
+  {
+    "id": 8,
+    "name": "Printing",
+    "link": "/webapp/printing",
+    "image": "/module_icons/PrintingEmbroidery.png"
+  }
+]
